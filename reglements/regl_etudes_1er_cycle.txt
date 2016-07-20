@@ -1,0 +1,1691 @@
+                RÈGLEMENT DES ÉTUDES DE PREMIER CYCLE
+
+
+
+Adoption        Résolutions
+1993-03-25      CA-168-1259
+
+Modifications   Résolutions
+1993-09-10      CA-171-1300
+1994-02-24      CA-175-1321
+1994-11-29      CA-181-1416
+1995-04-27      CA-184-1446
+1996-04-25      CA-191-1525
+1996-10-01      CA-117-451
+1998-06-02      CA-205-1673
+1999-09-02      CA-213-1767
+2000-05-11      CA-218-1821 (concordance)
+2000-05-30      CE-134-544
+2000-09-19      CE-135-549
+2002-09-10      CE-144-595
+2002-11-19      CE-146-601
+2003-02-11      CE-147-611 / CE-147-615
+2004-02-26      CA-240-2181 (concordance)
+2004-12-07      CE-154-686
+2005-05-24      CE-156-714
+2006-11-30      CA-255-2478 (concordance)
+2007-02-06      CE-164-778
+2007-06-05      CE-166-792
+2010-05-20      CA-280-2838 (concordance)
+2011-04-21      CA-288-2957 (concordance)
+2012-02-28      CE-189-967 /CE-189-968
+2012-04-03      CE-190-976
+2012-05-10      CA-297-3066 (concordance)
+2013-11-12      CE-198-1041
+2016-02-22      CA-331-3487 (chapitre 10 abrogé)
+2016-05-17      CE-212-1159
+2016-05-30      CA-334-3517
+
+Abrogation      Résolutions
+                   CHAPITRE 1 : TITRE ET PORTÉE
+
+                   1.1   Titre du présent Règlement
+
+       Le présent Règlement est connu et désigné comme étant le Règlement des études de 1er cycle de l’École
+       de technologie supérieure ci-après appelée l’École.
+
+1.2   Études à l’École
+
+       Les études poursuivies à l’École sont régies par les règlements adoptés en vertu de l’article 19 de la Loi
+       sur l’Université du Québec.
+
+1.3   Portée
+
+       Le présent Règlement régit les processus d’admission, de reconnaissance des acquis, d’inscription,
+       d’approbation des plans de cours, d’évaluation et de poursuite des études, d’autorisation d’études hors
+       établissement, de changement d’établissement à l’intérieur de l’Université du Québec, d’émission des
+       diplômes et de traitement des actes de plagiat ou de fraude à l’École.
+
+1.4   Révision de décision
+
+       Le candidat refusé qui se croit lésé peut demander une révision selon les dispositions du présent
+       Règlement; il en va de même pour l’étudiant qui se croit lésé lors d’une reconnaissance des acquis,
+       d’une demande de révision de notes, des activités reliées aux stages ou lors de l’émission d’un diplôme.
+
+1.5   Enseignement coopératif
+
+       Le Règlement sur le régime d’enseignement coopératif à l’École de technologie supérieure, adopté par
+       le Conseil d’administration en date du 18 février 1992 en vertu de sa résolution CA-160-1178 et amendé
+       par les résolutions subséquentes, respecte les dispositions du présent Règlement des études de 1er
+       cycle.
+
+1.6   Informatisation
+
+       Nonobstant le présent Règlement, l’École pourra mettre en application des procédés informatiques
+       permettant d’automatiser en tout ou en partie certaines de ses dispositions. Toutefois, ces procédés
+       devront respecter intégralement les principes sous-jacents à ces dispositions quant aux droits et
+       obligations de l’École, de ses représentants et de ses clientèles.
+
+CHAPITRE 2 : DÉFINITIONS
+
+Dans le présent Règlement, à moins que le contexte n’indique un sens différent, les expressions et mots utilisés
+ont le sens suivant.
+
+2.1   Université
+
+       L’Université du Québec instituée par l’article 2 de la Loi sur l’Université du Québec.
+2.2   École de technologie supérieure
+
+       L’École de technologie supérieure constituée en vertu de l’article 50 de la Loi sur l’Université du Québec
+       et par les nouvelles lettres patentes émises suivant le décret numéro 261-92 en date du 26 février 1992.
+
+2.3   Conseil des études
+
+       Conseil prévu aux articles 18 et 19 de la Loi sur l’Université du Québec.
+
+2.4   Commission des études
+
+       La Commission prévue à l’article 41 de la Loi sur l’Université du Québec est régie par les nouvelles lettres
+       patentes de l’École, par l’article 3 du Règlement général 1 de l’Université, le Règlement de régie interne
+       de l’École et les résolutions du Conseil d’administration.
+
+2.5   Loi et Règlements généraux
+
+       La Loi sur l’Université du Québec, chapitre U-1 des Lois refondues du Québec et ses amendements, de
+       même que les règlements généraux et leurs amendements adoptés en vertu des articles 17 et 19 de la
+       Loi sur l’Université du Québec.
+
+2.6   Département
+
+       Le département désigne le regroupement des professeurs dans un département et le regroupement des
+       étudiants en fonction des programmes qui leur sont offerts.
+
+2.7   Unité administrative
+
+       Désigne soit l’un ou l’autre des départements de l’École, soit le Service des Enseignements généraux.
+       Pour en désigner les responsables, le terme « Directeur » est utilisé.
+
+2.8   Titulaire
+
+       Toute personne désignée par l’École pour assumer la responsabilité de dispenser un cours en tout ou en
+       partie.
+
+2.9   Étudiant
+
+       Toute personne dûment admise à l’École et dont le statut d’inscription a été validé selon les dispositions
+       prévues au présent Règlement. Un étudiant peut avoir l’un des statuts suivants : étudiant régulier,
+       étudiant libre, auditeur, étudiant visiteur (venant d’un autre établissement universitaire).
+
+2.10 Programme d’études
+
+       Un programme est un plan de formation dans une discipline ou un champ d’études, traduit en objectifs
+       d’apprentissage mesurables, organisés en un tout cohérent autour d’un principe intégrateur; les cours et
+       les autres activités éducatives qui le composent fournissent un ensemble suffisamment développé de
+       connaissances qui couvre les aspects essentiels de la discipline, particulièrement de ses fondements et
+       de sa méthodologie; il satisfait aux exigences de rigueur qui y ont cours et reflète l’état actuel des
+       connaissances.
+2.11 Description d’un programme
+
+       La description d’un programme contient les éléments suivants : l’identification; les objectifs; les
+       conditions d’admission; la liste des cours et des autres activités éducatives; leur nature (cours
+       obligatoires, cours optionnels), leur description et leur agencement; les modes d’évaluation des
+       étudiants dans le programme; les concentrations offertes; le nombre de crédits du programme; les
+       règlements pédagogiques particuliers.
+
+       Une description sommaire des programmes est publiée dans l’annuaire de l’École.
+
+2.12 Grille de cheminement
+
+       Document représentant schématiquement l’agencement des cours obligatoires et des cours optionnels
+       d’un programme donné en fonction de sa durée normale. L’agencement tient compte des cours
+       préalables, du niveau de difficultés des cours et des séquences découlant de l’interrelation des cours
+       favorisant l’atteinte des objectifs du programme.
+
+2.13 Année universitaire
+
+       L’expression « année universitaire » désigne l’année commençant par la session d’été et se poursuivant
+       par les sessions d’automne et d’hiver.
+
+2.14 Calendrier universitaire
+
+       Le calendrier universitaire fixe notamment :
+
+       •   La date du début des sessions;
+       •   La date de la fin des sessions;
+       •   Tout congé (relâche);
+       •   Les dates prévues pour la soumission d’une demande d’admission ou de changement de
+           programme, pour chacun des sessions;
+       •   Les dates de modification d’inscription.
+
+2.15 Session
+
+       Division de l’année universitaire comportant au minimum soixante-douze (72) jours ouvrables répartis
+       sur une période de quinze (15) semaines et pendant laquelle l’École poursuit des activités
+       d’enseignement et celles qui leur sont reliées.
+
+       D’une part, l’année universitaire se divise en trois (3) sessions : la session d’été commençant vers le
+       début de mai, la session d’automne vers le début de septembre et la session d’hiver vers le début de
+       janvier; d’autre part, le calendrier universitaire approuvé par la Commission des études fixe
+       annuellement les dates des activités reliées à l’enseignement conformément aux règles établies par le
+       Conseil des études.
+
+       La période d’évaluation fait partie intégrante de la session.
+2.16 Discipline
+
+       Une discipline est l’une des diverses branches de la connaissance. Les disciplines se distinguent les unes
+       des autres par l’angle particulier sous lequel elles étudient leur objet. On peut distinguer à l’intérieur
+       d’une discipline des sous-disciplines.
+
+2.17 Champ d’études
+
+       Un champ d’études correspond à un ensemble cohérent et structuré de connaissances relevant de
+       plusieurs disciplines et unifiées dans un objet spécifique.
+
+2.18 Cours
+
+       Un ensemble d’activités d’enseignement et d’apprentissage (leçons magistrales, travaux pratiques,
+       laboratoires, séminaires, stages, projets, travail personnel, etc.) répondant à des objectifs particuliers et
+       entrant normalement dans la composition d’un ou de plusieurs programmes. L’École fixe le nombre
+       entier de crédits attribués à chacun des cours.
+
+2.19 Description d’un cours
+
+       La description d’un cours contient les éléments suivants : l’identification (code et titre), les objectifs, le
+       sommaire du contenu, les formules pédagogiques utilisées, le nombre de crédits et, selon le cas, les
+       cours préalables, ainsi que toute autre disposition adoptée par la Commission des études.
+
+2.20 Plan de cours
+
+       Le plan de cours précise les éléments de la description d’un cours et fait état des formules pédagogiques
+       utilisées ainsi que des modes d’évaluation. Pour chaque cours-groupe, un plan de cours est préparé et
+       utilisé selon les procédures établies au chapitre 6 du présent Règlement.
+
+2.21 Nature d’un cours
+
+       Par rapport à un programme donné, un cours est :
+
+       a) Soit obligatoire : cours qui doit nécessairement être complété dans ce programme;
+       b) Soit optionnel : cours offert au choix, suivant des modalités déterminées;
+       c) Soit hors programme : cours non comptabilisé à l’intérieur d’un programme donné;
+       d) Soit d’appoint : cours non requis par le programme, mais qui est exigé lors d’une admission pour
+          permettre d’acquérir les connaissances nécessaires pour entreprendre ce programme. Ces cours ne
+          peuvent être comptabilisés dans aucun programme de 1er cycle et sont traités comme cours
+          d’appoint (résultat P) sur le relevé de notes de l’étudiant.
+
+2.22 Durée normale d’un cours
+
+       De façon générale, les cours débutent et se terminent à l’intérieur de la même session; les exceptions
+       sont autorisées selon les critères et procédures établis par la Commission des études et approuvés par le
+       Conseil d’administration. Les cours qui se déroulent sur plus d’une session sont comptabilisés à la
+       session où ils débutent.
+       Dans ce cas :
+
+       a) Les frais de scolarité sont payables en entier lors de cette même session;
+       b) L’inscription ne peut être modifiée après la fin de la session pendant lequel le cours a débuté.
+
+
+       À la fin de(s) session(s) non terminale(s), le symbole R (reporté) est utilisé à titre de résultat pour les fins
+       d’émission de relevé de notes; ce symbole est remplacé par le résultat de l’évaluation à la fin de la
+       dernière des sessions.
+
+2.23 Cours intensif
+
+       Un cours est jugé intensif lorsqu’il s’échelonne sur une période moindre que la durée prévue au
+       calendrier universitaire pour une session donnée.
+
+       Le Doyen des études autorise la mise à l’horaire des cours intensifs.
+
+2.24 Cours préalable
+
+       Un préalable est un cours dont les éléments doivent nécessairement avoir été assimilés pour permettre
+       d’aborder les éléments d’un autre cours. Un cours préalable à un autre doit donc nécessairement avoir
+       été suivi avec succès avant cet autre cours ou avoir fait l’objet d’une reconnaissance d’acquis.
+
+       Le préalable est soumis aux règles suivantes :
+
+       a) Il fait partie du programme;
+       b) Il ne doit pas augmenter le nombre total de crédits requis par le programme;
+       c) Le préalable peut, comme tout autre cours, faire l’objet d’une reconnaissance des acquis;
+
+
+       Aucun cours du répertoire ne doit exiger plus de trois (3) cours préalables, ce décompte incluant les
+       cours préalables les uns aux autres.
+
+2.25 Cours-groupe
+
+       Un cours-groupe désigne un regroupement d’étudiants inscrits à un cours sous la responsabilité d’un
+       professeur, d’un maître d’enseignement, d’un chargé de cours ou d’une équipe pédagogique.
+
+2.26 Crédit
+
+       L’unité qui permet d’attribuer une valeur numérique à la charge de travail requise d’un étudiant pour
+       atteindre les objectifs particuliers des cours ou des activités pédagogiques. Le crédit correspond, selon
+       l’estimation de l’École, à quarante-cinq (45) heures d’apprentissage ou de travail (cours, laboratoires,
+       travaux pratiques, travaux personnels, etc.), y compris l’évaluation.
+
+2.27 Modification d’inscription
+
+       Une modification d’inscription est l’acte par lequel un étudiant effectue un ou plusieurs changements à
+       la liste des cours auxquels il s’est inscrit à une session donnée. Ces changements peuvent être :
+       a) Soit l’annulation d’un ou de plusieurs cours;
+       b) Soit l’ajout d’un ou de plusieurs cours;
+       c) Soit l’annulation et l’ajout simultanés d’un ou de plusieurs cours.
+
+
+       Une modification d’inscription peut prendre la forme d’une modification sans mention au dossier
+       universitaire, d’une modification sans mention d’échec au dossier universitaire, ou d’une annulation
+       d’inscription (abandon de tous les cours).
+
+2.28 Diplôme
+
+       Acte attestant que les exigences reliées à l’obtention d’un grade de bachelière ou de bachelier, ou aux
+       exigences d’un certificat, ont été satisfaites. Le libellé désigne les termes dans lesquels un diplôme est
+       rédigé.
+
+2.29 Attestation d’études
+
+       L’attestation d’études est l’acte par lequel il est certifié qu’un étudiant a suivi des cours; l’attestation
+       comprend les résultats obtenus.
+
+2.30 Adresse de l’étudiant
+
+       Pour les fins de ce Règlement, tout avis, lettre ou correspondance expédié à un étudiant est réputé
+       valablement transmis s’il est expédié à la dernière adresse connue par le Registraire suivant les
+       renseignements écrits fournis par l’étudiant.
+
+CHAPITRE 3 : ADMISSION
+
+3.1   Phases de l’admission
+
+       L’admission se déroule en deux phases : l’École propose d’abord, par le Registraire, une offre
+       d’admission à la personne dont la candidature a été retenue; cette personne signifie ensuite au
+       Registraire qu’elle est informée de son admissibilité et qu’elle se prévaudra de son droit à l’inscription.
+
+3.2   Accessibilité des programmes
+
+       Sous réserve des dispositions du présent Règlement, les programmes de l’École sont accessibles à toute
+       personne qui satisfait aux conditions d’admission.
+
+       Cependant, en raison des ressources dont elle dispose ou du caractère particulier d’un programme,
+       l’École peut limiter le nombre de candidats admis à un programme. Pour les programmes de
+       baccalauréat, l’École n’admet que les candidats qui font une demande d’admission à temps complet.
+       Tout étudiant admissible qui sollicite une admission à temps partiel se verra invité à s’inscrire comme
+       étudiant libre. L’École peut aussi refuser des candidatures pour des programmes dont les admissions ont
+       été suspendues par le Conseil d’administration.
+
+3.3   Restrictions
+
+       L’École peut aussi établir des restrictions à l’accueil de candidats à certaines sessions en raison de l’offre
+       de cours ou des particularités des cheminements prévus dans les programmes concernés.
+3.4     Engagement du candidat
+
+         Tout candidat qui sollicite son admission s’engage à suivre les règlements généraux de l’Université du
+         Québec et tous les règlements de l’École et leurs amendements.
+
+3.5     Avis d’admission
+
+         Le Registraire prononce, au nom de l’École, l’admission des étudiants.
+
+3.6     Avis de refus à l’admission
+
+         L’École, par le Registraire, informe la personne dont la candidature n’a pas été retenue des motifs ayant
+         justifié la décision prise à cet effet.
+
+3.7     Validité de l’admission prononcée
+
+         L’admission prononcée pour une session donnée n’est valide que si elle est suivie d’une inscription à
+         cette même session. Le Bureau du registraire peut autoriser un report d’admission. Cependant,
+         l’étudiant voit son admission invalidée si, durant sa première session d’inscription, il abandonne tous les
+         cours auxquels il est inscrit et ce, dans le délai fixé pour les modifications d’inscription sans mention au
+         dossier universitaire.
+
+3.8     Conditions d’admission
+
+         Les conditions d’admission à un programme donné sont établies et modifiées conformément aux
+         dispositions prévues au Règlement général 2 sur l’Université du Québec pour l’adoption des
+         programmes et leur modification. Elles sont décrites dans le dossier officiel du programme ainsi que
+         dans l’annuaire de l’Université du Québec et dans l’Annuaire de l’École.
+
+3.9     Compétences linguistiques pré-requises
+
+3.9.1    Principe
+
+         Toute personne postulant l’admission à un programme de baccalauréat est tenue de démontrer qu’elle
+         possède les compétences linguistiques pré-requises pour entreprendre des études de 1er cycle,
+         conformément à la politique adoptée à cet égard par le Conseil des études ainsi qu’à la réglementation
+         adoptée par l’École.
+
+3.9.2    Preuve de la maîtrise de la langue française
+
+         Toute personne soumettant une demande d’admission à un baccalauréat doit faire la preuve d’une telle
+         maîtrise du français, avant d’être admise définitivement dans son programme. Cette preuve peut être
+         faite soit par la détention d’un diplôme d’études collégiales intégrant les exigences relatives à la langue
+         française ou soit par la réussite du test de français élaboré par l’École. Dans sa politique du français,
+         l’École précise les modalités régissant ce test.
+
+         Les personnes qui détiennent un grade universitaire d’une université francophone sont exemptées de ce
+         test.
+3.10 Admission conditionnelle
+
+       Une personne peut être admise conditionnellement dans les cas suivants :
+
+       1. Si elle n’a pas terminé ses études collégiales; dans ce cas, elle doit, avant sa première inscription,
+          avoir normalement complété les cours de niveau collégial requis.
+       2. Si elle n’a pas une préparation jugée adéquate; dans ce cas, des cours d’appoint (maximum de six (6)
+          crédits) peuvent être exigés et doivent être terminés dans les délais fixés dans la décision
+          d’admission. Le symbole P est attribué à ces cours sur le relevé de notes.
+       3. Toute personne qui n’a pas fait la preuve de la réussite des exigences relatives à la langue française
+          telles que stipulées à la Politique linguistique de l’École est admise conditionnellement à la réussite
+          du test de français de l’École ou, selon le résultat du test, à la réussite d’un ou deux cours de français
+          offerts par l’École ou de cours de français correctifs autorisés par l’École et considérés comme cours
+          d’appoint.
+
+
+       Cette condition doit être remplie au terme de la deuxième session d’inscription sans quoi la personne
+       concernée sera suspendue de son programme.
+
+3.11 Statuts d’inscription
+
+       Un étudiant de l’École peut être inscrit selon l’un ou l’autre des statuts suivants : étudiant régulier,
+       étudiant libre, auditeur, étudiant visiteur.
+
+3.11.1 Étudiant régulier
+
+       Un étudiant régulier est une personne admise à un programme et inscrite à un ou plusieurs cours de ce
+       programme.
+
+3.11.2 Étudiant libre
+
+3.11.2.1 Définition
+
+       Un étudiant libre est une personne admise à l’École et inscrite à un ou plusieurs cours sans postuler un
+       diplôme universitaire. Elle reçoit une attestation des crédits attribués aux cours suivis avec succès.
+
+3.11.2.2 Conditions d’admission
+
+       Pour prétendre au statut d’étudiant libre, un candidat doit d’abord, soit être titulaire d’un diplôme
+       d’études collégiales, ou l’équivalent, soit posséder des connaissances appropriées, une expérience jugée
+       pertinente et être âgé d’au moins vingt et un (21) ans. Il doit, en outre, satisfaire aux préalables des
+       cours auxquels il veut s’inscrire.
+
+3.11.2.3 Reconnaissance des acquis
+
+       Lorsque cette personne est admise à un programme, l’École ne s’engage pas à reconnaître les crédits
+       obtenus comme étudiant libre.
+3.11.3 Auditeur
+
+       Un auditeur est une personne admise à l’École et inscrite à un ou plusieurs cours pour lesquels elle doit
+       satisfaire aux préalables. Pour ces cours, elle n’est pas soumise à l’évaluation et ne reçoit aucun crédit.
+       Cependant, elle reçoit une attestation d’inscription.
+
+       Lorsqu’un étudiant régulier suit un cours sous le statut d’auditeur, le symbole N est utilisé sur le relevé
+       de notes.
+
+3.11.4 Visiteur
+
+       Un visiteur est un étudiant venant d’un autre établissement et inscrit à l’École après avoir obtenu une
+       autorisation d’études hors établissement de son université d’attache. Il est soumis à l’ensemble des
+       règlements de l’École.
+
+3.11.5 Inscription
+
+       Les dispositions relatives à l’inscription des étudiants sont déterminées au chapitre 5 du présent
+       Règlement. Pour les candidats admis à un programme de baccalauréat, le régime d’études à temps
+       complet est obligatoire à la première session d’inscription dans le programme. Cependant, l’étudiant
+       peut demander au Doyen des études une autorisation exceptionnelle pour s’inscrire à temps partiel en
+       indiquant les motifs de sa demande.
+
+3.12 Demande d’admission
+
+3.12.1 Formulation de la demande
+
+       Pour pouvoir être admis à l’École en qualité d’étudiant régulier, d’étudiant libre ou d’auditeur, le
+       candidat doit présenter, dans les délais fixés, une demande d’admission sur un formulaire officiel et y
+       joindre les documents requis. Seul le dossier complet est accepté. Tous les documents soumis lors d’une
+       demande d’admission demeurent propriété de l’École et ne sont pas rendus au candidat, sauf les
+       documents originaux.
+
+3.12.2 Nouvelle demande
+
+       Toute personne doit présenter une nouvelle demande d’admission à un programme dans l’un ou l’autre
+       des cas suivants :
+
+       a) Si, après avoir été admise à un programme, elle n’a pas validé cette admission par une inscription à
+          la session auquel elle a été admise, selon les dispositions de l’article 3.7;
+       b) Si, après avoir été admise à un programme et avoir validé cette admission, elle ne s’est inscrite à
+          aucun autre des cours de ce programme pendant une période de douze (12) mois consécutifs;
+       c) Si, après une première demande d’admission, elle désire la modifier;
+       d) Si, après avoir terminé un programme, elle désire être admise à un autre programme.
+3.13 Date de réception des demandes
+
+       La Commission des études de l’École fixe pour chaque année universitaire les dates limites pour la
+       réception de toutes les demandes d’admission et de changement de programme pour tous les
+       candidats, conformément aux règles de l’Université du Québec relatives au calendrier universitaire.
+
+3.14 Admissibilité des candidats
+
+       Le plus tôt possible après la date limite de réception des demandes d’admission, le Registraire examine
+       chaque demande. Tout candidat qui ne répond pas aux conditions d’admission à l’École en est
+       immédiatement avisé par le Registraire.
+
+3.15 Communication de la décision d’admission
+
+       Le Registraire communique à chaque candidat la décision prise à son endroit. Cette décision n’est
+       valable qu’à l’égard du programme ou du cours pour lequel elle a été prononcée.
+
+3.16 Admission refusée
+
+       Lorsqu’une candidature n’est pas retenue, le candidat doit recevoir un avis de refus qui peut être justifié
+       par l’un des motifs suivants :
+
+       a) Application de la politique d’admission :
+           Un candidat est refusé pour cette raison lorsque l’École, compte tenu de ses engagements envers le
+           ministère de l’Éducation, n’est plus en mesure de maintenir, dans chacun de ses programmes de
+           baccalauréat, le nombre des admissions de titulaires d’un D.E.C. en techniques physiques ou
+           informatique à au moins de 85% du nombre d’inscriptions. À cette fin, l’École ne peut admettre plus
+           d’un maximum de 15% de non-détenteurs d’un D.E.C. dans les techniques physiques ou
+           informatique.
+       b) Capacité d’accueil limitée :
+           Un candidat est refusé pour cette raison lorsque l’École ne dispose pas de ressources suffisantes
+           pour admettre tous les candidats;
+
+       c) Résultats scolaires trop faibles :
+           Un candidat est refusé pour cette raison lorsque ses résultats scolaires antérieurs portent l’École à
+           croire que le candidat ne peut réussir les études qu’il veut entreprendre;
+
+       d) Cours d’appoint non réussis :
+           Un candidat est refusé pour cette raison lorsque le Registraire constate que le candidat admis n’a
+           pas réussi les cours d’appoint dans les délais prescrits;
+
+       e) Conditions d’admission non satisfaites :
+           Un candidat admis est refusé pour cette raison lorsqu’il n’a pas satisfait dans les délais prescrits aux
+           conditions d’admission imposées pour lui permettre l’admission au programme ou au cours;
+
+       f) Absence à un examen d’admission, à un test ou à une entrevue ou examen d’admission, ou entrevue
+          ou test non satisfaisant;
+3.17 Demande de révision de la décision d’admission
+
+       Dans les vingt (20) jours ouvrables suivant la réception de la décision d’admission, le candidat qui
+       s’estime lésé par la décision et qui est en mesure de présenter, par écrit, des faits nouveaux de nature à
+       modifier la décision peut soumettre une demande de révision au Doyen des études qui procède à
+       l’étude et à la révision du dossier en collaboration avec le Registraire et le Directeur de département
+       concerné. Au terme de la révision, le Registraire transmet par écrit au candidat la décision rendue. Cette
+       décision est finale et sans appel.
+
+3.18 Double admission
+
+       Normalement, l’étudiant n’est admis qu’à un seul programme. Toutefois, le Doyen des études peut
+       permettre à un étudiant d’être admis à plus d’un programme selon les conditions suivantes :
+
+       a) Être admis définitivement au premier programme et avoir complété au moins le tiers des crédits de
+          ce programme;
+       b) Satisfaire pour les fins du deuxième programme aux principes et aux règles de ce Règlement;
+       c) Ne pas être déjà soumis à une restriction par suite d’une moyenne cumulative inférieure à 2,00;
+       d) Démontrer, à la satisfaction du Doyen des études, que la double admission est nécessaire pour
+          permettre l’atteinte des objectifs de formation de l’étudiant.
+
+
+       Toutes les dispositions du présent chapitre s’appliquent mutatis mutandis à la double admission.
+
+       L’étudiant déjà inscrit à un programme contingenté qui désire être admis simultanément à un autre
+       programme contingenté, l’est seulement après que les autres candidats admissibles aient été admis.
+
+3.19 Changement de programme
+
+3.19.1 Dépôt de la demande
+
+       Un étudiant régulier déjà inscrit à des cours et qui désire changer de programme doit présenter, dans les
+       délais fixés au calendrier universitaire pour la réception des demandes d’admission, une demande de
+       changement de programme. Cette demande est traitée comme une demande d’admission dans le
+       nouveau programme.
+
+3.19.2 Reconnaissance des acquis de l’ancien au nouveau programme
+
+       Lorsque l’étudiant est admis à un nouveau programme, les cours ou les activités du programme
+       antérieur sont automatiquement considérés comme étant hors programme. Le Registraire transmet
+       cette liste de cours au Directeur du département concerné. Le Directeur inscrit la mention H (hors
+       programme) vis-à-vis les cours qui ne répondent pas aux exigences du nouveau programme et retourne
+       la liste au Registraire qui modifie en conséquence le dossier officiel de l’étudiant.
+
+3.20 Limite de changements de programme
+
+       Un étudiant ne peut effectuer plus de deux changements de programme après son admission à l’École, à
+       moins d’une autorisation du Doyen des études.
+CHAPITRE 4 : RECONNAISSANCE DES ACQUIS
+
+4.1   Principe
+
+       Par la reconnaissance des acquis, l’École veut reconnaître la valeur de la formation pertinente que
+       possède déjà une personne lors de sa première inscription dans un programme.
+
+       Cette formation doit correspondre soit à un ou des objectifs de ce programme, soit à un ou des cours qui
+       le composent. Cette formation peut avoir été acquise dans un milieu de travail ou dans le cadre de
+       cours.
+
+4.2   Demande de reconnaissance
+
+       L’étudiant qui considère posséder des acquis pertinents à son programme peut présenter une demande
+       de reconnaissance des acquis. En raison de l’impact de la reconnaissance d’acquis sur le cheminement
+       de l’étudiant, il doit présenter cette demande aussitôt que possible après son admission au programme,
+       mais au plus tard avant la fin de la première session d’inscription.
+
+4.3   Vérification des connaissances
+
+       L’étudiant qui présente une telle demande peut être tenu de se soumettre à une vérification de ses
+       connaissances
+
+4.4   Types de reconnaissances possibles
+
+       La reconnaissance des acquis conduit à l’une des quatre (4) actions suivantes : l’exemption, la
+       substitution, le transfert, l’intégration.
+
+       a) L’exemption consiste à lever l’obligation de suivre un cours donné dans un programme; les crédits
+          rattachés à ce cours figurent sur le relevé de notes avec la mention K. Aucune équivalence ne peut
+          être accordée pour un cours dont la note obtenue est inférieure à C ou l’équivalent.
+       b) La substitution consiste à remplacer par d’autres cours certains de ceux prévus au programme de
+          l’étudiant.
+       c) Le transfert consiste à porter sur le relevé de notes de l’étudiant pour un programme donné, les
+          résultats d’un cours déjà réussi à l’École, dans le cadre d’un programme terminé.
+       d) L’intégration permet de reconnaître qu’un étudiant a atteint certains objectifs de son programme
+          préalablement à son admission. Dans ce cas, l’École intègre au dossier de l’étudiant les acquis
+          antérieurs correspondant à ces objectifs.
+
+
+       L’intégration permet d’identifier les cours et les activités que l’étudiant devra compléter pour terminer
+       son programme. En raison de leur lien avec les objectifs du programme concerné, les crédits obtenus par
+       intégration ne sont pas transposés automatiquement d’un programme dans un autre.
+
+4.5   Reconnaissance des acquis de niveau collégial
+
+       Les études de niveau collégial général ne donnent pas lieu à des exemptions ni à des intégrations; les
+       études de niveau collégial professionnel peuvent conduire à des substitutions.
+4.6     Expérience professionnelle
+
+         L’étudiant admis en vertu des connaissances appropriées, de l’expérience pertinente et de l’âge peut
+         obtenir des reconnaissances des acquis pour expérience professionnelle, s’il peut établir qu’il s’agit
+         d’une expérience professionnelle supplémentaire à celle nécessaire pour être admis.
+
+4.7     Restriction par rapport au diplôme
+
+         Aucun diplôme ne peut être obtenu par reconnaissance des acquis.
+
+4.8     Nombre maximum de crédits reconnus
+
+         La reconnaissance des acquis ne peut conduire à l’obtention de plus de la moitié des crédits d’un
+         certificat ou de plus des deux tiers des crédits d’un baccalauréat.
+
+4.9     Réception de la demande de reconnaissance
+
+4.9.1    Dépôt par l’étudiant
+
+         L’étudiant admis à un programme qui croit avoir droit à une reconnaissance des acquis doit soumettre
+         une demande écrite au Bureau du registraire, sur le formulaire prévu à cette fin, accompagnée des
+         pièces justificatives officielles pertinentes (description des cours ou de l’expérience acquise par
+         l’étudiant), et voir à ce que le relevé de notes officiel soit transmis au Bureau du registraire.
+
+4.9.2    Activités à reconnaître
+
+         Il doit inclure toutes les activités à reconnaître sur la même demande afin que soient clairement
+         identifiées les activités ne devant pas être réalisées par l’étudiant pour satisfaire aux exigences du
+         programme.
+
+4.9.3    Demande basée sur l’expérience professionnelle
+
+         S’il s’agit d’une demande de reconnaissance d’acquis basée sur l’expérience professionnelle du candidat,
+         une déclaration de l’employeur attestant de cette expérience doit accompagner la demande.
+
+4.9.4    Transmission au responsable
+
+         Le Registraire transmet la demande et les pièces justificatives au responsable de l’unité administrative
+         concerné pour analyse.
+
+4.10 Traitement de la demande
+
+4.10.1 Analyse
+
+         Suite à la réception d’une demande dûment complétée et accompagnée des pièces justificatives, le
+         responsable de l’unité administrative concerné analyse la demande dans les meilleurs délais. Pour ce
+         faire, il consulte les documents joints et au besoin les personnes compétentes dans les matières
+         concernées afin de déterminer la pertinence de la demande en regard des objectifs et des activités du
+         programme auquel l’étudiant est admis.
+4.10.2 Expérience professionnelle
+
+       S’il s’agit d’une demande de reconnaissance d’acquis basée sur l’expérience professionnelle du candidat,
+       le responsable de l’unité administrative concerné doit faire parvenir au Registraire, en même temps que
+       sa recommandation, un rapport sur l’évaluation de l’expérience de l’étudiant.
+
+4.10.3 Substitution
+
+       S’il s’agit d’une substitution, le responsable de l’unité administrative concerné doit faire parvenir sa
+       recommandation au Registraire en précisant par écrit les motifs la justifiant.
+
+4.10.4 Intégration
+
+       S’il s’agit de l’intégration d’acquis, le Directeur de département concerné doit faire parvenir au
+       Registraire, en même temps que sa recommandation, un rapport d’évaluation de l’adéquation entre les
+       objectifs du programme et les acquis antérieurs donnant lieu à l’intégration. Il doit en outre préciser la
+       liste des activités que l’étudiant doit faire pour compléter son programme.
+
+4.10.5 Retour de la demande au Registraire
+
+       Dès l’analyse terminée, et s’il juge la demande pertinente, le responsable de l’unité administrative
+       concerné signe le formulaire de demande et transmet le dossier avec sa recommandation au Registraire.
+       S’il la juge à son tour recevable, le Registraire signe le formulaire et transmet la décision par écrit à
+       l’étudiant.
+
+4.10.6 Arbitrage
+
+       Tous les dossiers qui font l’objet d’une divergence d’évaluation entre le responsable de l’unité
+       administrative concerné et le Registraire sont soumis au Doyen des études pour analyse et
+       recommandation. Cette décision est transmise à l’étudiant par le Registraire.
+
+4.10.7 Demande de révision
+
+       Dans les vingt (20) jours ouvrables suivant la réception de la décision de l’École, le candidat peut
+       demander une révision au Registraire. Si la demande est recevable, le Registraire convoque le Comité
+       d’appel composé du Doyen des études qui le préside, du Registraire qui agit à titre de secrétaire et en
+       est membre à part entière et du directeur du programme concerné. Au terme de la révision, le
+       Registraire transmet par écrit au candidat la décision qui est finale et sans appel.
+
+4.10.8 Validation de la demande
+
+       La reconnaissance d’acquis ne devient officielle qu’une fois validée par le Registraire.
+
+CHAPITRE 5 : INSCRIPTION, RYTHME ET DURÉE DES ÉTUDES
+
+5.1   Définition et principe
+
+       L’inscription consiste à choisir, parmi la liste des cours et des autres activités éducatives d’un
+       programme offert à une session donnée, ceux qui correspondent au cheminement des étudiants admis
+       dans ce programme. L’inscription est un acte pédagogique et administratif comportant deux étapes : le
+       choix de cours et la validation du choix de cours.
+5.1.1    Choix de cours
+
+         Avant le début de chaque session, l’étudiant fait son choix de cours pour la session, parmi les cours qui
+         composent son programme d’études et qui sont offerts. Ce choix de cours doit être approuvé par le
+         Directeur du département concerné en tenant compte des grilles de cheminement définies par le
+         département, des règlements pédagogiques particuliers et des préalables des cours, du rythme suivant
+         lequel ceux qui y sont inscrits veulent compléter leur programme et de la durée maximale autorisée
+         pour ce faire.
+
+5.1.2    Validation du choix de cours
+
+         Le choix de cours effectué par l’étudiant et approuvé par le Directeur du département concerné fait
+         l’objet d’une validation :
+
+         a) Quant au statut pédagogique consigné au dossier officiel de l’étudiant (admission en bonne et due
+            forme au programme, restrictions quant à la poursuite des études, etc.);
+         b) Quant à la disponibilité de places dans les cours choisis;
+         c) Quant à l’engagement de l’étudiant à acquitter les droits de scolarité;
+         d) Quant au respect des règles relatives aux préalables.
+
+5.2     Étudiants libres et auditeurs
+
+5.2.1    Validation du choix de cours
+
+         L’inscription des étudiants libres et des auditeurs s’effectue au Bureau du registraire. Avant de valider le
+         choix de cours d’un étudiant libre ou d’un auditeur, le Registraire s’assure qu’une place lui a été
+         réservée par le directeur de l’unité administrative responsable du cours auquel l’étudiant désire
+         s’inscrire.
+
+5.2.2    Restrictions
+
+         La personne qui s’est vu refuser l’admission définitive dans un programme ou qui en a été exclue à la
+         suite de restrictions dans la poursuite des études ne peut s’inscrire sous le statut d’étudiant libre ou
+         d’auditeur à des cours de ce même programme. De plus, en aucun cas, un étudiant libre ou un auditeur
+         ne peut s’inscrire à plus de trente (30) crédits sous ce statut, ni s’inscrire à plus de quinze (15) crédits à
+         une même session.
+
+5.3     Formalités d’inscription
+
+         L’étudiant admis qui veut suivre des cours à une session donnée doit procéder à son inscription dans les
+         délais prescrits et selon les procédures communiquées par l’École.
+
+5.4     Substitution de cours à l’inscription
+
+         Le Directeur du département peut, dans certains cas particuliers, autoriser un étudiant régulier à suivre
+         un cours autre que celui prévu au programme. Ce cours est considéré comme une substitution et traité
+         selon les dispositions prévues au chapitre 4 du présent Règlement.
+5.5     Régime d’études
+
+5.5.1    Temps complet
+
+         Le régime d’études à temps complet requiert l’inscription à des cours totalisant un minimum de douze
+         (12) crédits par session. Ce régime d’études est obligatoire à la première session d’inscription dans un
+         programme de baccalauréat. Tout étudiant qui modifie son régime d’études à temps complet par
+         l’abandon de cours sera automatiquement inscrit comme étudiant libre.
+
+5.5.2    Temps partiel
+
+         L’inscription à moins de douze (12) crédits correspond au régime d’études à temps partiel.
+
+5.6     Accessibilité à un cours
+
+         Les limites à l’accessibilité à un cours s’expriment en termes de nombre ou de catégories (programmes,
+         statuts, cycles) d’étudiants. Ces limites ainsi que les critères de sélection sont les suivants :
+
+         a) La capacité d’accueil dans une salle de cours ou de laboratoire;
+         b) La limitation du nombre de cours-groupes;
+
+5.7     Procédure générale d’inscription
+
+         Tout étudiant qui désire s’inscrire à des cours doit :
+
+         a) Compléter un bulletin d’inscription ou de réinscription en y inscrivant son choix de cours;
+         b) Transmettre ce formulaire au Bureau du registraire dans les délais prescrits;
+         c) Acquitter les frais dans les délais prescrits.
+
+
+         Le Bureau du registraire soumet au Directeur du département concerné le choix de cours de l’étudiant
+         régulier pour validation et approbation. Le Registraire valide et approuve le choix de cours des étudiants
+         libres et des auditeurs.
+
+5.8     Délais prévus pour l’inscription
+
+         Aucune inscription à un cours n’est autorisée après la période de modification d’inscription sans
+         mention au dossier universitaire ou après le début du cours, dans le cas des cours intensifs.
+
+5.9     Durée maximale des programmes
+
+         Un étudiant admis régulièrement à un programme l’est pour une durée maximale au-delà de laquelle
+         l’engagement contractuel qui lie l’École à cet étudiant prend fin. Cette durée est de dix (10) années pour
+         le baccalauréat, de cinq (5) années pour le certificat et de huit (8) sessions pour le programme court de
+         1er cycle. La durée maximale se mesure à partir de l’inscription qui suit la dernière admission au
+         programme. Le non respect de cette exigence entraîne l’exclusion du programme.
+
+         Cependant, nonobstant ce qui précède, lorsque l’étudiant n’a pas terminé son programme à l’intérieur
+         de la durée maximale prévue, le Directeur de département concerné peut, en accord avec le Doyen des
+         études, imposer des conditions supplémentaires afin d’ajuster la formation suivie aux exigences du
+       programme en cours. Ces conditions doivent être consignées par écrit, communiquées à l’étudiant par le
+       Registraire et versées à son dossier officiel, sous la garde du Registraire.
+
+5.10 Modification d’inscription
+
+       Les dispositions prévues pour l’inscription aux cours s’appliquent mutatis mutandis à la modification
+       d’inscription.
+
+5.11 Modification d’inscription sans mention au dossier universitaire
+
+       L’étudiant peut demander que soit modifiée la liste des cours auxquels il s’est inscrit à une session
+       donnée, sans mention au dossier universitaire, selon les procédures suivantes :
+
+       a) Sur le formulaire prévu à cette fin, l’étudiant inscrit le ou les changement(s), en précisant ses motifs
+          et demande l’autorisation et la signature du Directeur du département concerné;
+       b) Le Directeur du département autorise ou refuse la demande et dans le cas d’une autorisation, signe
+          le formulaire et le transmet au Bureau du registraire pour valider son changement. L’étudiant doit
+          s’enquérir auprès du Directeur de département du suivi de sa demande, et ce, avant la fin de la
+          période de modification;
+       c) Toute modification d’inscription est assujettie aux dispositions des articles 5.1 et suivants de ce
+          Règlement;
+       d) La modification de cours ou de cours-groupe, sans mention sur le relevé de notes, doit se faire à
+          l’intérieur des périodes prévues à ces fins au calendrier universitaire (adopté par la Commission des
+          études);
+       e) Dans le cas d’une inscription à un ou des cours intensifs, la demande de modification (abandon,
+          ajout ou changement de cours-groupe) doit être autorisée avant le début des cours d’une session
+          donnée.
+
+5.12 Modification d’inscription sans mention d’échec au dossier universitaire (abandon autorisé)
+
+       L’étudiant inscrit, désireux de modifier son inscription sans mention d’échec au dossier universitaire
+       (abandon autorisé) et après la période prévue à l’article 5.11 de ce Règlement, doit le faire selon les
+       procédures suivantes :
+
+       a) Sur le formulaire prévu à cette fin, l’étudiant remplit et signe le dit formulaire en précisant les motifs
+          de sa demande;
+       b) L’étudiant soumet le formulaire au Directeur du département pour autorisation et signature;
+       c) Le Directeur du département autorise ou refuse la demande et, dans le cas d’une autorisation, signe
+          le formulaire et invite l’étudiant à se présenter au Bureau du registraire pour valider son
+          changement. L’étudiant doit s’enquérir auprès du Directeur de département du suivi de sa
+          demande, et ce, avant la fin de la période de modification;
+       d) La modification de cours ou de cours-groupe, sans mention d’échec au dossier universitaire
+          (abandon autorisé), doit se faire à l’intérieur des périodes prévues à ces fins au calendrier
+          universitaire (adopté par la Commission des études);
+       e) Dans le cas d’une inscription à un cours ou à des cours intensifs, aucune demande de modification
+          ne doit être autorisée après le début des cours d’une session donnée.
+5.13 Procédure de modification d’inscription
+
+       Seule la modification d’inscription effectuée selon les procédures en vigueur à l’École est valide et
+       officielle. L’étudiant doit effectuer cette modification aux dates et dans les délais prescrits par le
+       calendrier universitaire, et selon les procédures communiquées par l’École.
+
+5.13.1 Remboursement
+
+       Seule la modification d’inscription sans mention au dossier universitaire donne droit au remboursement
+       des frais de scolarité.
+
+5.13.2 Délais
+
+       Tout cours abandonné sans autorisation ou après les délais prescrits reçoit la note « E » (échec).
+
+5.14 Fermeture de dossier
+
+       L’étudiant qui désire annuler tous ses cours et, de plus, fermer son dossier doit le signifier par écrit au
+       Registraire. Seule une lettre de l’étudiant est valable pour la fermeture du dossier et la date de
+       réception de la lettre par le Registraire est retenue pour fins de remboursement des frais de scolarité.
+
+       Le Registraire communique aux Directeurs de département concernés les fermetures de dossiers dont il
+       a été informé.
+
+CHAPITRE 6 : PLAN DE COURS
+
+6.1   Principe
+
+       Pour chaque cours-groupe qu’il doit dispenser à une session donnée, le titulaire prépare, avant le début
+       du cours, un projet de plan de cours en collaboration avec, selon le cas, le Directeur de département
+       concerné ou le Directeur du Service des Enseignements généraux.
+
+6.2   Contenu
+
+       Le plan de cours comprend les éléments suivants :
+
+       a) Les objectifs spécifiques;
+       b) Les stratégies pédagogiques;
+       c) Les éléments détaillés précisant la description du cours apparaissant dans l’annuaire de l’École de
+          technologie supérieure;
+       d) Les éléments d’évaluation, leurs pondérations respectives et le(les) mode(s) d’évaluation et les
+          périodes où se font ces évaluations;
+       e) Les références obligatoires;
+       f)   Une bibliographie sommaire;
+       g) Le nom du professeur et du département.
+6.3   Approbation
+
+       Au moins dix (10) jours ouvrables avant le début du cours (ou dans les meilleurs délais, si le titulaire est
+       désigné après cette date), le titulaire transmet ce projet de plan de cours, pour approbation, au
+       Directeur de département concerné ou au Directeur du Service des Enseignements généraux, selon le
+       cas. Si le plan de cours est approuvé, le Directeur de département ou le Directeur du Service des
+       Enseignements généraux, selon le cas, en transmet la version électronique au Doyen des études.
+
+6.4   Présentation aux étudiants
+
+       À la première rencontre avec le cours-groupe, le titulaire présente aux étudiants le plan de cours
+       approuvé par le Directeur de département ou le Directeur du Service des Enseignements généraux.
+
+       Si des modifications sont nécessaires, le titulaire informe le Directeur de département concerné ou le
+       Directeur du Service des Enseignements généraux et obtient son autorisation avant d’apporter des
+       modifications au plan de cours.
+
+6.5   Validation
+
+       Un plan de cours devient officiellement valide à compter de son approbation par le Directeur de
+       département concerné ou le Directeur du Service des Enseignements généraux, selon le cas.
+
+6.6   Demande de modification
+
+       Le Doyen des études peut, s’il le juge à propos, faire valoir auprès du Directeur de département
+       concerné ou du Directeur du Service des Enseignements généraux, selon le cas, une demande de
+       modification au projet de plan de cours présenté.
+
+6.7   Utilisation
+
+       Le plan de cours sert notamment aux fins suivantes :
+
+       a) À l’étudiant :
+           Comme guide à son apprentissage et comme cadre de référence pour toute l’activité d’évaluation
+           de l’enseignement;
+
+       b) Au Directeur de département et au Directeur du Service des Enseignements généraux, comme cadre
+          de référence pour :
+            •   L’évaluation de l’enseignement;
+
+            •   La vérification de la concordance entre le plan de cours et la description du cours apparaissant à
+                l’annuaire de l’École;
+
+            •   L’évaluation et la révision des programmes;
+
+            •   L’évaluation du titulaire;
+
+       c) Au Doyen des études pour :
+              •    Coordonner la vérification de la concordance entre le plan de cours et la description du cours
+                   apparaissant à l’annuaire de l’École;
+
+              •    Vérifier la conformité du plan de cours aux dispositions de ce Règlement.
+
+CHAPITRE 7 : ÉVALUATION
+
+7.1     Définition et principes
+
+7.1.1     Définition
+
+          L’évaluation est l’appréciation du niveau d’apprentissage atteint par l’étudiant par rapport aux objectifs
+          des cours, des autres activités éducatives et des programmes
+
+          L’évaluation est partie intégrante du cycle d’apprentissage.
+
+7.1.2     Principe général
+
+          L’École doit attester l’atteinte des objectifs des cours et des programmes.
+
+7.1.3     Responsable
+
+          Selon le présent Règlement, l’évaluation de l’étudiant dans un cours ou une autre activité éducative est
+          de la responsabilité du titulaire ou de l’équipe pédagogique; celle de l’étudiant dans un programme est
+          de la responsabilité du Directeur de département concerné.
+
+7.1.4     Évaluation globale
+
+          En cas d’échec d’un cours ou d’une autre activité éducative, il n’y a pas d’examen de reprise tenant lieu
+          d’évaluation globale.
+
+7.2     Évaluation et poursuite des études
+
+7.2.1     Notation littérale
+
+7.2.1.1    Définition et symboles utilisés
+
+          La notation littérale représente :
+
+          a) Soit l’appréciation du niveau d’apprentissage atteint par l’étudiant relativement aux objectifs d’un
+             cours :
+             A+, A, A-
+             B+, B, B-
+             C+, C, C-
+             D+, D
+             E : échec
+             S : exigence satisfaite
+             V : exigence satisfaire, n’entre pas dans le calcul de la moyenne cumulative
+          b) Soit le traitement d’un cours :
+             H : hors programme, n’entre pas dans le calcul de la moyenne cumulative
+             I : incomplet
+             K : exemption
+             L : échoué, repris et réussi
+             N : non crédité
+             P : cours d’appoint, n’entre pas dans le calcul de la moyenne cumulative
+             R : reporté
+             X : abandon autorisé
+
+7.2.1.2    Signification des symboles
+
+          1. La lettre « I » (Incomplet)
+              Doit être convertie en A+, A, A-, B+, B, B-, C+, C, C-, D+, D, S ou E au cours des quatre (4) semaines
+              qui suivent la fin de la session. Elle est automatiquement convertie en « E » (échec) après ce délai.
+
+              L’utilisation de la notation « I » est exceptionnelle. Elle doit faire l’objet d’une entente préalable
+              écrite entre l’étudiant et le titulaire. Cette entente indique ce que le titulaire demande à l’étudiant
+              pour satisfaire aux exigences de l’activité concernée.
+
+          2. La lettre « N » (Non crédité)
+              Est utilisée pour coter un cours suivi par l’étudiant régulier sous le statut d’auditeur.
+
+          3. La lettre « R » (Reporté)
+              Pour chacune des sessions au cours de laquelle un cours se poursuit, le symbole R (reporté) est
+              utilisé à titre de résultat pour les fins d’émission de relevé de notes; ce symbole est remplacé par le
+              résultat de l’évaluation à la fin de la dernière des sessions.
+
+              L’utilisation de la mention « R » doit être autorisée au préalable par le Doyen des études. Il en
+              détermine la durée, qui ne peut, en aucun temps, excéder douze mois, et en avise le Registraire.
+
+          4. La lettre « S » (Exigence satisfaite)
+              Signifie que le cours est réussi par l’étudiant. L’utilisation de la notation « S » est exceptionnelle et
+              doit avoir été approuvée préalablement par la Commission des études, soit dans le cadre d’un
+              programme donné, soit par voie de règlement.
+
+          5. La lettre « V » (Exigence satisfaite)
+              Signifie que l’étudiant a réussi un cours ou une activité suivis à l’extérieur de l’université dans le
+              cadre d’une entente de transfert de crédits : le nombre de crédits qui y est rattaché apparaît sur le
+              relevé de notes ou sur l’extrait du relevé universitaire. Ce résultat n’entre pas dans le calcul de la
+              moyenne cumulative.
+
+          6. La lettre « X » (Abandon autorisé)
+              Représente un abandon signifié par l’étudiant, par écrit, avant la date prévue à cette fin au
+              calendrier universitaire.
+7.2.2     Moyenne cumulative
+
+7.2.2.1     Définition
+
+          La moyenne cumulative constitue une indication fournie à l’étudiant régulier de son rendement et de sa
+          capacité de poursuivre son programme; elle apparaît sur le relevé de notes.
+
+          La moyenne cumulative est calculée à la fin de chaque session à partir de toutes les notes obtenues dans
+          les cours du programme, en attribuant une valeur numérique aux lettres de la notation littérale et en
+          faisant intervenir le nombre de crédits de chacun des cours; dans le cas de la reprise d’un cours, tous les
+          résultats apparaissent sur le relevé de notes, mais seul le dernier est utilisé dans le calcul de la moyenne
+          cumulative.
+
+7.2.2.2     Symboles ayant une valeur numérique
+
+          Seules les lettres suivantes ont une valeur numérique : A+ (4,3), A (4,00), A- (3,70), B+ (3,30), B (3,00), B-
+          (2,70), C+ (2,30), C (2,00), C- (1,70), D+ (1,30), D (1,00), E (0), et entrent dans le calcul de la moyenne
+          cumulative.
+
+          La moyenne cumulative sera calculée avec deux décimales. Partout où, dans le présent Règlement, est
+          précisée une valeur de la moyenne cumulative, la seconde décimale sera toujours zéro.
+
+7.2.2.3     Formule de calcul
+
+          La moyenne cumulative (MC) est calculée selon la formule suivante :
+
+                      Σ
+                  MC = Pi ci
+                       Σci
+
+          ∑:      Somme de
+
+          Pi :    Valeur numérique attribuée à la lettre
+
+          Ci :    Nombre de crédits attribués au cours pour lequel la lettre a une valeur numérique
+
+          i:      Un cours déterminé
+
+          La moyenne cumulative, qui varie entre 0 et 4,3, est calculée à la deuxième décimale et inscrite tel que
+          sur le relevé de notes.
+
+7.2.3     Proportion des éléments utilisés pour l’évaluation dans un cours
+
+          a) Principe général
+          Dans tous les cours, aucun des éléments (entrevue, examen, rapport, test, etc.) de l’évaluation de
+          l’étudiant, qu’il soit à caractère individuel ou d’équipe, ne peut compter pour plus de 50 % dans la
+          pondération de l’ensemble des éléments de l’évaluation. L’évaluation de l’étudiant porte normalement
+          sur l’ensemble des éléments d’évaluation prévus au plan de cours.
+
+          b) Éléments à caractère individuel
+        Si les éléments individuels de l’évaluation (tel que les examens) représentent au moins 60% de
+        l’ensemble des éléments d’évaluation du cours, alors le titulaire peut imposer une note minimale de
+        passage pour les éléments individuels. Le plan de cours doit alors spécifier le seuil de passage pour les
+        éléments à caractère individuel.
+
+
+7.2.4   Examen final
+
+        Lorsque prévu au plan de cours, l’examen final constitue la dernière activité d’un cours à moins
+        d’autorisation expresse du Doyen des études.
+
+7.2.5   Examen de compensation
+
+        L’examen de compensation est un examen oral ou écrit dispensé par un titulaire à la demande d’un
+        étudiant à un moment autre que celui où a lieu l’examen régulier prévu dans le plan du cours. Les
+        raisons suivantes justifient un tel examen :
+
+        a) Décès d’un parent immédiat : père, mère, frère, sœur, enfant ou conjoint;
+        b) Maladie certifiée par un billet de médecin;
+        c) Accouchement.
+
+7.2.6   Absence à un examen régulier
+
+        a) Examen durant la session
+            Les examens durant la session excluent l’examen final. Si un étudiant ne se présente pas à un
+            examen durant la session pour une raison énumérée à l’article 7.2.5 de ce Règlement et s’il en
+            avertit par écrit le Directeur de département concerné dans les cinq (5) jours ouvrables suivant la
+            tenue de l’examen, le titulaire ou un remplaçant désigné par le responsable de l’unité administrative
+            concerné est autorisé à modifier les modalités d’évaluation en remplaçant l’examen régulier de la
+            façon suivante :
+
+            •   Par un examen de compensation oral ou écrit dans un délai de dix (10) jours ouvrables;
+
+            •   Par toute autre forme d’évaluation pédagogique fixée par le titulaire, lorsque le nombre des
+                éléments d’évaluation est suffisant et respecte les dispositions de l’article 7.2.3 de ce
+                Règlement.
+
+        b) Examen final
+            Une période en fin de session est strictement réservée à tous les examens finaux. Si un étudiant ne
+            se présente pas à un examen final pour une raison énumérée à l’article 7.2.5 de ce Règlement et s’il
+            fournit la preuve écrite au Bureau du registraire dans les cinq (5) jours ouvrables suivant la tenue de
+            son examen, le Bureau informe le titulaire du cours de l’absence autorisée et des modalités de
+            compensation.
+
+            Le résultat « RD » (report différé) est provisoirement attribué à l’étudiant dans son cours durant
+            l’attente de la note de l’examen final de compensation.
+             Dans un cas d’absence autorisée, l’étudiant est convoqué par le Bureau des services académiques à
+             un examen final de compensation écrit au début de la session suivante. La proportion de l’examen
+             final de compensation dans la note globale de l’étudiant dans le cours demeure identique à celle de
+             l’examen final régulier.
+
+7.2.7    Remise d’un travail
+
+         a) Travail non remis
+
+         Si un étudiant, pour les motifs mentionnés à l’article 7.2.5 de ce Règlement ne remet pas un travail à
+         l’échéance déterminée par le titulaire, le résultat « I » (incomplet) lui est attribué pour ce cours;
+
+         b) Travail remis en retard
+
+         Tout travail (devoir pratique, rapport de laboratoire, rapport de projet, etc.) remis en retard sans motif
+         valable, c’est-à-dire autre que ceux mentionnés à l’article 7.2.5, se verra attribuer la note zéro, à moins
+         que d’autres dispositions soient communiquées par écrit par l’enseignant dans les consignes de chaque
+         travail à remettre ou dans le plan de cours pour l’ensemble des travaux.
+
+7.3     Promotion et cheminement dans le programme
+
+7.3.1    Progression dans un programme
+
+         La progression dans un programme est fonction du succès obtenu dans chaque cours et des restrictions
+         éventuellement imposées dans la poursuite des études, selon les modalités déterminées à l’article 7.4
+         ci-dessous.
+
+7.3.2    Échec dans un cours obligatoire
+
+         L’étudiant qui obtient un échec dans un cours obligatoire doit reprendre ce cours dès qu’il est offert à
+         une session subséquente.
+
+         Un troisième échec entraîne l’exclusion du programme.
+
+7.4     Restrictions dans la poursuite des études
+
+7.4.1    Principes
+
+         L’étudiant régulier ou l’étudiant libre dont la moyenne cumulative est inférieure à 2,00 après douze (12)
+         crédits de cours évalués, incluant les cours échoués, peut être assujetti à certaines restrictions dans la
+         poursuite de ses études pouvant aller jusqu’à l’exclusion.
+
+7.4.2    Restrictions prévues
+
+         Les restrictions prévues sont la tutelle, la suspension et l’exclusion.
+
+         a) La tutelle
+             Restriction dans le nombre de crédits auxquels l’étudiant peut s’inscrire pendant les douze mois où il
+             est mis en tutelle.
+         b) La suspension
+              Restriction interdisant à l’étudiant la réinscription, pendant les douze mois où il est suspendu, à des
+              cours apparaissant au programme auquel il est admis ou à des cours auxquels il voudrait s’inscrire
+              comme étudiant libre tant et aussi longtemps que la suspension s’applique. L’étudiant suspendu
+              suite à l’expiration du délai pour répondre aux exigences de la Politique linguistique peut s’inscrire
+              aux cours d’appoint de français qui lui ont été prescrits.
+          c) L’exclusion
+              Restriction excluant définitivement l’étudiant régulier du programme d’études auquel il est admis ou
+              faisant perdre définitivement à l’étudiant libre son statut d’étudiant libre.
+
+7.4.3     Règles générales d’application
+
+          a) L’application des restrictions prévues aux présentes règles ne peut intervenir qu’après un minimum
+             de douze (12) crédits d’inscription.
+          b) Une fois par année universitaire, normalement après la session d’été, le Registraire avise, par écrit,
+             les étudiants concernés de la restriction à laquelle ils seront assujettis au cours des sessions
+             suivantes, sur la base de la moyenne cumulative à la dernière session d’inscription.
+
+7.4.4     La tutelle
+
+          Au terme d’un minimum de douze (12) crédits d’inscription, si la moyenne cumulative de l’étudiant
+          régulier ou de l’étudiant libre est inférieure à 2,00 et supérieure à 1,50; il est mis en tutelle selon une
+          formule qui tient compte de son programme d’études et de son statut.
+
+7.4.4.1    Étudiant à temps complet
+
+          L’étudiant à temps complet ne peut pas s’inscrire à plus de quatre (4) cours par session, pendant les
+          douze mois où il est mis en tutelle. De plus, il doit, à l’intérieur de ce nombre de cours, reprendre en
+          priorité les cours obligatoires échoués et, si nécessaire, les cours réussis avec les notations littérales D et
+          D+.
+
+7.4.4.2    Étudiant à temps partiel
+
+          L’étudiant à temps partiel ne peut pas s’inscrire à plus d’un (1) cours par session, pendant les douze
+          mois où il est mis en tutelle. De plus, il doit reprendre en priorité les cours obligatoires échoués et, si
+          nécessaire, les cours réussis avec les notations D et D+.
+
+7.4.4.3    Variation de la moyenne cumulative
+
+          À la fin de la période de tutelle, si la moyenne cumulative de l’étudiant regagne 2,00 ou plus, la
+          restriction est levée. Dans le cas où la moyenne cumulative d’un étudiant qui a déjà été en tutelle
+          s’abaisse au-dessous de 2,00; l’étudiant est assujetti à la suspension selon l’article 7.4.5 de ce
+          Règlement. Plus tard, si la moyenne cumulative d’un étudiant qui a déjà été en tutelle s’abaisse au-
+          dessous de 2,00; l’étudiant est assujetti à la suspension selon l’article 7.4.5 de ce Règlement.
+
+          Selon les dispositions de l’article 7.4.3 de ce Règlement, si, au terme d’un nombre minimum de douze
+          (12) crédits d’inscription, la moyenne cumulative d’un étudiant est égale ou inférieure à 1,50; l’étudiant
+          régulier est définitivement exclu du programme d’études auquel il est admis et l’étudiant libre perd
+          définitivement son statut d’étudiant libre, nonobstant les articles 7.4.6 et 7.4.9 de ce Règlement.
+7.4.5     La suspension
+
+7.4.5.1    Principes
+
+          La suspension signifie que, durant une période de douze (12) mois, l’étudiant concerné ne peut s’inscrire
+          à des cours apparaissant à son programme d’études, s’il s’agit d’un étudiant régulier, ou à des cours de
+          l’École, s’il s’agit d’un étudiant libre; l’étudiant dont la suspension est due à la Politique linguistique peut
+          toutefois s’inscrire à des cours d’appoint de français. Sa suspension peut être levée dès qu’il répond aux
+          exigences de la Politique (jusqu’à un maximum de 12 mois).
+
+          L’application de la suspension tient compte de la moyenne cumulative, du statut de l’étudiant, et du fait
+          que l’étudiant a déjà été suspendu ou pas.
+
+7.4.5.2    Étudiant régulier
+
+          Au terme de la période de douze (12) mois de tutelle, si la moyenne cumulative de l’étudiant régulier en
+          tutelle ou qui a déjà été mis en tutelle dans le même programme d’études est inférieure à 2,00; il est
+          suspendu, pour les douze mois suivants, du programme d’études auquel il est admis.
+
+          De plus, à la fin de la période de suspension, le Directeur du département déterminera la liste des cours
+          à retenir au dossier du programme de l’étudiant de façon à entraîner une moyenne cumulative au moins
+          égale à 2,30. Les cours non retenus ne pourront ultérieurement être intégrés au programme d’études de
+          l’étudiant.
+
+7.4.5.3    Étudiant libre
+
+          Au terme de la période de douze (12) mois de tutelle, si la moyenne cumulative de l’étudiant libre en
+          tutelle ou qui a déjà été mis en tutelle dans ses crédits d’inscription est inférieure à 2,00; il est suspendu
+          pour les douze mois suivants et ne peut s’inscrire à aucun cours de l’École.
+
+          De plus, à la fin de la suspension, le Doyen des études déterminera la liste des cours à retenir au dossier
+          de l’étudiant libre de façon à entraîner une moyenne cumulative au moins égale à 2,30. Les cours non
+          retenus ne pourront ultérieurement être inscrits au dossier de l’étudiant.
+
+7.4.5.4    Étudiant déjà suspendu
+
+          Au terme de la période de tutelle, si la moyenne cumulative d’un étudiant régulier ou libre qui a déjà été
+          suspendu s’abaisse à nouveau au-dessous de 2,00; il est assujetti aux dispositions de l’exclusion ci-
+          dessous.
+
+7.4.6     Changement de programme
+
+          L’étudiant régulier ou libre dont la moyenne cumulative est inférieure à 2,00 ou mis en tutelle ou
+          assujetti à une suspension, qui désire changer de programme ou d’orientation, doit présenter une
+          demande sur le formulaire approprié à la période prévue à cette fin. Si la demande est acceptée, le
+          Directeur du nouveau département déterminera la liste des cours déjà réussis qui figureront au dossier
+          de l’étudiant. En aucun cas, les cours ainsi retenus ne pourront entraîner une moyenne cumulative
+          inférieure à 2,30. Les cours non retenus ne pourront ultérieurement être intégrés au programme
+          d’études de l’étudiant.
+7.4.7     Réadmission
+
+          Dans un tel cas de changement de programme, l’étudiant régulier ne peut être réadmis à son ancien
+          programme et l’étudiant libre ne peut être réadmis à titre d’étudiant libre dans le cadre d’un
+          changement de programme.
+
+7.4.8     L’exclusion
+
+7.4.8.1    Moyenne cumulative égale ou inférieure à 1,50
+
+          Au terme d’un nombre minimum de douze (12) crédits d’inscription, si la moyenne cumulative d’un
+          étudiant est égale ou inférieure à 1,50; l’étudiant régulier est définitivement exclu du programme
+          d’études auquel il est admis et l’étudiant libre perd définitivement son statut d’étudiant libre et ce, sur
+          réception de l’avis donné par le Registraire.
+
+7.4.8.2    Moyenne cumulative inférieure à 2,00
+
+          Au terme de la suspension, si la moyenne cumulative de l’étudiant régulier ou libre s’abaisse à nouveau
+          au-dessous de 2,00; l’étudiant régulier est définitivement exclu de son programme d’études et l’étudiant
+          libre perd définitivement son statut d’étudiant libre et ce, sur réception de l’avis donné par le
+          Registraire.
+
+7.4.8.3    Exigences relatives à la langue française
+
+          Au terme de sa suspension, l’étudiant qui ne satisfait toujours pas aux exigences relatives à la langue
+          française sera exclu de son programme.
+
+7.4.9     Révision des restrictions
+
+7.4.9.1    Demande
+
+          L’étudiant qui se croit lésé par les restrictions auxquelles il est assujetti peut demander une révision de
+          cette décision en faisant valoir ses motifs par écrit auprès du Registraire dans les quinze (15) jours
+          ouvrables suivant l’expédition de l’avis de mise en restriction.
+
+7.4.9.2    Comité de révision des restrictions
+
+          Si le Registraire juge la demande recevable, il convoque alors, à titre de secrétaire, le comité de révision
+          des restrictions formé du Doyen des études qui préside, du Directeur de département concerné par la
+          demande et d’un étudiant désigné par l’AEÉTS pour un mandat d’un an ou un substitut membre du
+          Comité exécutif de l’Association des étudiants de l’École.
+
+7.4.9.3    Rencontre avec le comité
+
+          L’étudiant peut, s’il le désire, rencontrer le comité. Il sera alors avisé par le Registraire du moment et du
+          lieu de la réunion du comité.
+
+7.4.9.4    Décision du comité de révision
+
+          Dès que possible, le Registraire fait connaître, par écrit, à l’étudiant et aux personnes concernées la
+          décision du comité. Cette décision est finale et sans appel.
+7.5     Remise des résultats
+
+7.5.1     Relevé cumulatif des résultats
+
+          Chaque étudiant reçoit à la fin de chaque session un relevé cumulatif des résultats obtenus depuis le
+          début de ses études soit comme étudiant libre, soit comme étudiant régulier dans un programme.
+
+7.5.2     Délai de remise
+
+          Dans les cinq (5) jours ouvrables qui suivent la fin de la session concernée, les formulaires de remise des
+          résultats sont complétés et remis par le titulaire au Directeur de département concerné ou au Directeur
+          du Service des Enseignements généraux, selon le cas, qui les vise et les transmet au Registraire dans les
+          plus brefs délais.
+
+7.5.3     Délai de modification des résultats
+
+          Les résultats indiqués sur le relevé de notes ne peuvent être modifiés que pendant les deux (2) mois qui
+          suivent l’émission du relevé de notes.
+
+7.5.4     Modification demandée par l’étudiant
+
+          Un étudiant peut demander que soit modifié un résultat qui lui a été attribué, selon les dispositions
+          définies ci-dessous.
+
+7.5.5     Modification faite par le titulaire
+
+          Un titulaire peut modifier des résultats d’évaluation déjà fournis en transmettant au Registraire, dans les
+          délais requis et sur le formulaire prévu, le résultat modifié, visé par le Directeur de département
+          concerné ou le Directeur du Service des Enseignements généraux, selon le cas.
+
+7.6     Révision de notes demandée par un étudiant
+
+7.6.1     Révision auprès du responsable de l’unité administrative
+
+7.6.1.1    Dépôt de la demande
+
+          Dans les quinze (15) jours ouvrables suivant la transmission d’un résultat de fin de session par le
+          Registraire, l’étudiant peut en demander la révision en déposant le formulaire prévu à cette fin, chez le
+          responsable de l’unité administrative concerné, soit le Directeur de département ou le Directeur du
+          Service des Enseignements généraux, selon le cours. Cette demande doit être accompagnée du montant
+          fixé par l’École.
+
+7.6.1.2    Réponse du responsable de l’unité administrative
+
+          Dans les quinze (15) jours ouvrables suivant le dépôt de la demande, le responsable de l’unité
+          administrative concerné prend contact avec le titulaire et, s’il le juge nécessaire, avec l’étudiant
+          concerné pour s’assurer que l’évaluation a été réalisée selon les exigences décrites au plan de cours et
+          qu’il y a eu révision du contenu de chacun des éléments constituant les exigences de l’évaluation du
+          cours. Il communique, par écrit, la décision du titulaire à l’étudiant et en avise le Registraire.
+7.6.2     Révision auprès du comité de révision des résultats
+
+7.6.2.1    Dépôt de la demande
+
+          Dans le cas du maintien d’une note « E » au terme du processus décrit ci-dessus et dans les dix (10) jours
+          ouvrables suivant la transmission de la décision du responsable de l’unité administrative, l’étudiant peut
+          adresser au Registraire une demande de révision de la note « E » en précisant les motifs de la demande.
+
+7.6.2.2    Recevabilité de la demande
+
+          Si le Registraire juge la demande recevable, il convoque dans les meilleurs délais le comité de révision de
+          résultats. Il informe le titulaire concerné et l’étudiant requérant du lieu, de la date et de l’heure de la
+          rencontre du comité et les invite à rencontrer le comité. S’il juge que la demande n’est pas recevable, il
+          en avise immédiatement l’étudiant et le titulaire par écrit.
+
+7.6.2.3    Composition du comité de révision de résultats
+
+          Le comité de révision de résultats est formé du Doyen des études qui le préside, du Registraire qui en est
+          le secrétaire, de deux titulaires désignés par le responsable de l’unité administrative concernée (ou des
+          deux unités administratives concernés si l’appel concerne deux unités différentes) et d’un étudiant
+          désigné par l’AEÉTS pour un mandat d’un an ou un substitut membre du Comité exécutif de l’Association
+          des étudiants de l’ÉTS. Le titulaire concerné et l’étudiant requérant ne peuvent être membres du comité
+          de révision.
+
+7.6.2.4    Mandat du comité de révision
+
+          Le mandat du comité de révision de résultats consiste en un examen des aspects de l’évaluation (v.g.
+          plan de cours, pondération des étapes de l’évaluation, application de la méthode de notation du
+          titulaire, ou autre) et non en une réévaluation de l’étudiant pour le cours concerné.
+
+7.6.2.5    Décision du comité de révision
+
+          Dans les cinq (5) jours ouvrables suivant la fin des travaux du comité, le Registraire transmet par écrit la
+          décision du comité à l’étudiant. La décision du comité peut être soit le maintien de l’échec « E », soit la
+          reprise d’un ou des éléments constituant les exigences d’évaluation du cours, soit l’utilisation de la
+          notation « S ». Cette décision est finale et sans appel.
+
+7.6.3     Demande de révision formulée par un groupe
+
+          Pour toute demande de révision de notes formulée par un cours-groupe, les dispositions énoncées aux
+          articles ci-dessus s’appliquent intégralement. Toutefois, une seule demande de révision est présentée
+          pour le groupe. Cette demande doit comporter en annexe la signature de plus de 50 % des étudiants
+          ayant obtenu « D+ », « D » ou « E » dans le cours-groupe concerné, ainsi que le nom de deux (2)
+          signataires désignés comme représentants du groupe aux fins de rencontre avec le responsable de
+          l’unité administrative concernée ou avec le comité de révision. L’exigence d’une somme de 15 $
+          s’applique à chacun des signataires de la demande.
+7.6.4    Révision négative
+
+         Une révision de résultats ne peut se faire dans le sens négatif, sauf si une erreur technique a été
+         commise lors de l’enregistrement des résultats.
+
+7.7     Modification de notes demandée par l’École
+
+         L’École peut exiger que soient modifiés les résultats de l’évaluation dans un cours donné.
+
+7.7.1    Principes
+
+         Dans les meilleurs délais qui suivent la remise des notes au Registraire, le Doyen des études peut
+         demander que soient modifiés les résultats attribués à un cours-groupe d’étudiants. Cette demande
+         peut être formulée quand des notes attribuées à un ou plusieurs étudiants d’un même cours-groupe
+         présentent une ou des caractéristiques pouvant remettre en question la qualité des enseignements ou
+         l’évaluation des étudiants. Entre autres, lorsque :
+
+         a) Tous les étudiants ont reçu la même note;
+         b) La moyenne des résultats attribués est trop distante de la moyenne probable ou normale d’un
+            cours;
+         c) La mention « I » a été employée de façon systématique ou sans justification valable;
+         d) La mention « R » ou la note « S » ont été utilisées sans autorisation;
+         e) Lorsque, de l’avis du Doyen des études, la situation académique justifie cette démarche pour un ou
+            plusieurs étudiants d’un cours-groupe.
+
+7.7.2    Étapes de cette modification
+
+         Les étapes de cette modification sont les suivantes.
+
+         a) Le Doyen des études communique avec le responsable de l’unité administrative et le titulaire
+            concernés afin d’obtenir l’ensemble des informations relatives à l’attribution des notes d’un ou
+            plusieurs étudiant(s) d’un même cours-groupe, notamment les critères d’attribution et les raisons
+            sur lesquelles le responsable de l’unité administrative s’est basé pour viser le formulaire de remise
+            des résultats.
+         b) S’il le juge à propos, le Doyen des études transmet une demande de modification de notes
+            attribuées à un ou plusieurs étudiant(s) de ce cours-groupe au Comité de modification des résultats.
+         c) Le Comité de modification rencontre, s’il y a lieu, le responsable de l’unité administrative et le
+            titulaire concernés ou un représentant du cours-groupe, si l’un ou l’autre en manifeste le désir, et
+            rend une décision.
+         d) Dans les dix (10) jours ouvrables suivant la fin des travaux du comité, le Registraire fait part de la
+            décision du comité de modification aux intéressés. Cette décision est finale et sans appel.
+
+7.7.3    Composition du Comité de modification
+
+         Le Comité de modification de résultats est composé du Directeur des études et de la recherche qui le
+         préside, du Registraire qui agit comme secrétaire, du responsable d’une unité administrative et d’un
+         titulaire membre de la Commission des études.
+7.8     Travaux d’étudiants de l’École
+
+7.8.1    Évaluation des travaux
+
+         Tout étudiant admis à l’École accorde à celle-ci l’autorisation d’évaluer les travaux scolaires de tout
+         genre remis aux titulaires.
+
+7.8.2    Propriété matérielle
+
+         L’École en obtient la propriété matérielle dès le moment de leur réception. L’École n’est pas tenue de
+         remettre à l’étudiant les travaux effectués par ce dernier dans le cadre de ses études, laissant à la
+         discrétion de chaque titulaire de rendre les travaux à l’étudiant après l’expiration des délais prévus pour
+         la révision et la modification des résultats.
+
+7.8.3    Propriété morale
+
+         L’étudiant en conserve la propriété morale. Ainsi, l’École ne peut se servir de ces travaux pour
+         publication ou utilisation sur une base purement commerciale, à moins qu’une entente préalable ne soit
+         intervenue entre elle et l’étudiant concerné, spécifiant les conditions d’une telle publication ou
+         utilisation.
+
+         L’étudiant conserve la liberté, sauf entente contraire, de diffuser et d’utiliser, commercialement ou non,
+         les travaux dont il est l’auteur et dont il a conservé un exemplaire.
+
+7.8.4    Responsabilité
+
+         L’École n’est aucunement responsable advenant une utilisation commerciale ou industrielle, commise
+         par toute personne, à son insu, des travaux produits par un étudiant.
+
+CHAPITRE 8 : AUTORISATION D’ÉTUDES HORS ÉTABLISSEMENT
+
+8.1     Définitions
+
+         Dans le présent chapitre, les termes suivants sont définis comme suit :
+
+         a) Établissement d’attache :
+             Établissement où est admis et inscrit l’étudiant afin d’y préparer un baccalauréat ou un certificat.
+         b) Établissement d’accueil :
+             Établissement où s’inscrit l’étudiant afin d’y suivre des cours dont il compte transférer les crédits à
+             son établissement d’attache.
+
+8.2     Principes
+
+         L’autorisation d’études hors établissement vise à permettre à l’étudiant régulier de suivre une partie de
+         son programme dans un autre établissement reconnu, après accord du Directeur de département
+         concerné et du Registraire.
+       Un étudiant régulier de l’École peut être autorisé à suivre, dans une université reconnue, un cours qu’il
+       peut ou doit suivre conformément à la grille de cheminement de son programme d’études et que, pour
+       des raisons valables, il ne peut prendre à l’École.
+
+       Cette autorisation peut aussi faire suite à des ententes entre l’École et d’autres établissements
+       universitaires prévoyant l’échange d’étudiants.
+
+8.3   Conditions
+
+       Seul l’étudiant régulier peut se prévaloir de la possibilité d’études hors établissement. Il doit aussi
+       satisfaire aux deux conditions suivantes :
+
+       a) Avoir suivi et réussi à l’École au moins le tiers des crédits conduisant à l’obtention d’un grade de
+          bachelier ou au moins la moitié des crédits conduisant à l’obtention d’un certificat de 1er cycle;
+       b) Avoir une moyenne cumulative égale ou supérieure à 2,70.
+       De plus, un étudiant régulier peut, dans le cadre d’un programme donné, bénéficier d’un transfert
+       maximal de deux (2) cours, s’il est inscrit dans un programme de certificat, et de cinq (5) cours, s’il est
+       inscrit dans un programme de baccalauréat. Toute dérogation doit être autorisée par le Doyen des
+       études.
+
+8.4   Décision de l’établissement d’accueil
+
+       En tant qu’établissement d’attache, l’École reconnaît à un établissement d’accueil le droit d’accepter ou
+       de refuser, en toute liberté, l’inscription d’un étudiant de l’École à l’un des cours ou des programmes
+       qu’il offre. De même, en tant qu’établissement d’accueil, elle se réserve le même droit d’accepter ou de
+       refuser l’inscription d’un étudiant provenant d’un autre établissement.
+
+8.5   Équivalence des cours et des activités
+
+       Les cours suivis doivent équivaloir à des cours identifiés du programme auquel est admis l’étudiant ou,
+       dans le cas de cours non identifiés du programme, être compatibles avec les objectifs d’apprentissage
+       du programme.
+
+8.6   Approbation et autorisation
+
+       Pour se prévaloir d’une autorisation d’études hors établissement, l’étudiant régulier doit obtenir
+       préalablement l’approbation du Directeur du département concerné et l’autorisation du Registraire,
+       selon la procédure en vigueur à l’École.
+
+8.7   Délai d’acceptation des demandes de l’extérieur
+
+       À titre d’établissement d’accueil, l’École accepte les demandes de transfert jusqu’à la fin de la période
+       de modification d’inscription sans mention au dossier universitaire.
+
+8.8   Paiement des frais
+
+       L’étudiant est tenu de verser les droits de scolarité et les autres frais afférents à l’établissement
+       d’attache, selon les barèmes et les modalités en vigueur dans cet établissement.
+8.9     Résultats
+
+         Les résultats obtenus par l’étudiant sont transmis par l’établissement d’accueil au Registraire de
+         l’établissement d’attache. S’ils n’apparaissent pas sous la forme littérale en vigueur à l’École, le
+         Registraire de l’École les convertit sous forme de notation littérale selon un barème établi.
+
+8.10 Relevé de notes
+
+         Les résultats obtenus et les cours suivis dans l’établissement d’accueil de même que le nom de ce
+         dernier apparaissent sur le relevé de notes de l’étudiant. Ces résultats ainsi que le nombre de crédits y
+         correspondant sont utilisés dans le calcul de la moyenne cumulative.
+
+8.11 Refus d’une demande venant d’ailleurs
+
+         Le Doyen des études peut refuser l’inscription à des cours de l’École à un étudiant venant d’un autre
+         établissement. Cette décision du Doyen est finale et sans appel.
+
+8.12 Droit de révision
+
+         Tout étudiant de l’École s’étant vu refuser l’approbation et l’autorisation à des études hors
+         établissement prévues au présent chapitre peut faire réviser la décision rendue en s’adressant par écrit
+         au Doyen des études. Sa demande doit indiquer les motifs qui, selon lui, justifient un changement de la
+         décision. La décision du Doyen est finale et sans appel.
+
+CHAPITRE 9 : CHANGEMENT D’ÉTABLISSEMENT À L’INTÉRIEUR DE L’UNIVERSITÉ DU QUÉBEC
+
+9.1     Procédure
+
+         Si un étudiant désire changer définitivement d’établissement, il doit présenter une nouvelle demande
+         d’admission selon les modalités en vigueur dans l’établissement choisi.
+
+9.2     Programme extensionné
+
+9.2.1    Demande de changement
+
+         Dans le cas d’un programme extensionné, il est possible, sans pénalité mais dans les limites des
+         capacités d’accueil de l’établissement impliqué, de changer d’établissement. L’étudiant n’a pas à
+         présenter une nouvelle demande d’admission ni à débourser de frais d’admission. L’étudiant est alors
+         accepté, avec l’accord du responsable du programme dans l’établissement d’accueil.
+
+9.2.2    Émission du diplôme
+
+         La Commission des études du dernier établissement fréquenté recommande à l’Assemblée des
+         gouverneurs l’émission du diplôme.
+
+9.2.3    Relevé de notes
+
+         Les cours suivis et les résultats obtenus dans l’établissement d’origine de même que le nom de ce
+         dernier apparaissent sur le relevé de notes dans l’établissement d’accueil et sont utilisés lors du calcul
+         de la moyenne cumulative.
+9.2.4   Types de programmes extensionnés
+
+        Sont considérés comme programmes extensionnés ceux que l’École a adoptés comme tels,
+        conformément aux dispositions du Règlement général 2 : Les études de 1er cycle de l’Université du
+        Québec.
+
+CHAPITRE 10 : PLAGIAT ET FRAUDE
+
+Abrogé et remplacé par le Règlement sur les infractions de nature académique le 27 avril 2016 en vertu de la
+résolution du CA-331-3487
+
+CHAPITRE 11 : ÉMISSION DES DIPLÔMES
+
+11.1 Définitions et principes
+
+11.1.1 Nomenclature et libellé
+
+        La nomenclature désigne la liste des noms des programmes d'études de l'Université du Québec,
+        l'appellation des grades et les abréviations correspondantes. Le libellé désigne les termes dans lesquels
+        un diplôme est rédigé. La nomenclature et le libellé des diplômes sont établis, de temps à autres, par
+        l'Assemblée des gouverneurs, sur recommandation du Conseil des études.
+
+11.1.2 Grade
+
+        Le grade de bachelier est un titre conféré par l'Université du Québec, après évaluation, aux personnes
+        qui ont complété leur 1er cycle universitaire. L'appellation d'un grade est l'ensemble des termes utilisés
+        pour désigner le grade couronnant un programme de baccalauréat.
+
+11.1.3 Émission d'un diplôme
+
+        L'émission des diplômes est approuvée par l'Assemblée des gouverneurs qui atteste ainsi que les
+        exigences d'un programme de certificat ou de grade ont été satisfaites.
+
+11.1.4 Dispositions générales
+
+        L'émission du diplôme se fait sur recommandation de la Commission des études et sur la foi des
+        certifications produites. Cette recommandation n'est applicable qu'aux programmes dûment autorisés
+        conformément aux dispositions prévues à cet effet dans les règlements généraux ordonnés à l'article 19
+        de la Loi.
+
+11.1.5 Conditions d'obtention d'un diplôme
+
+        Les conditions d'obtention d'un diplôme sont les suivantes :
+
+        a) Avoir satisfait aux règlements généraux de l'Université et aux règlements de l'École;
+        b) Avoir satisfait aux exigences du programme menant au diplôme postulé et avoir une moyenne
+           cumulative finale d'au moins 2,00 sur 4,3;
+        c) Avoir acquitté les frais de la dernière session et les arriérés dus, le cas échéant;
+       d) Avoir suivi, à titre d'étudiant régulier à l'École, au moins le tiers des crédits conduisant à l'obtention
+          d'un grade de bachelier ou à au moins la moitié des crédits conduisant à l'obtention d'un certificat, à
+          moins que l'étudiant ne se soit prévalu d'une autorisation d'études hors établissement.
+
+11.2 Normes relatives à l'émission des diplômes
+
+11.2.1 Signature des diplômes
+
+       Tout diplôme porte la signature du Président de l'Université du Québec et est contresigné par le
+       Directeur général de l'École ou par toute personne désignée à cette fin par l'Assemblée des
+       gouverneurs, ces signatures pouvant être apposées mécaniquement.
+
+11.2.2 Signataires
+
+       Aux fins des paragraphes ci-dessus, les signatures prévues sont celles des personnes en poste au
+       moment de l'émission du diplôme, de son remplacement ou de sa substitution.
+
+11.2.3 En-têtes des diplômes
+
+       Tout diplôme porte l'en-tête suivant :
+
+                                                 Université du Québec
+                                            École de technologie supérieure
