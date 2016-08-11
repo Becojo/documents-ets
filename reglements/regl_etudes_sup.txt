@@ -1,0 +1,3013 @@
+                                                       RÈGLEMENT DES ÉTUDES DE CYCLES SUPÉRIEURS
+
+
+
+ Adoption                                                    Résolutions
+ 2008-09-18                                                  CA-267-2681
+
+ Modifications                                               Résolutions
+ 2010-05-20                                                  CA-280-2838 (concordance)
+ 2010-11-09                                                  CE-183-920
+ 2011-04-21                                                  CA-288-2957 (concordance)
+ 2011-05-02                                                  CE-186-939
+ 2011-09-20                                                  CE-187-950
+ 2012-02-28                                                  CE-189-967, CE-189-969
+ 2012-04-03                                                  CE-190-977, CE-190-978
+ 2012-05-10                                                  CA-297-3066 (concordance)
+ 2013-11-12                                                  CE-198-1041
+ 2016-02-22                                                  CA-331-3487 (chapitre 8 abrogé)
+ 2016-05-17                                                  CE-212-1159
+ 2016-05-30                                                  CA-334-3517
+
+ Abrogation                                                  Résolutions
+
+
+
+
+CHAPITRE 1 : PRÉAMBULE
+
+1.1   Titre
+
+       Le présent Règlement est connu et désigné comme étant le Règlement des études de cycles supérieurs
+       de l'École de technologie supérieure, ci-après appelée l'ÉTS ou l’École.
+
+       Les études poursuivies à l'École sont régies par les règlements adoptés en vertu de la Loi sur l'Université
+       du Québec.
+
+1.2   But et objectifs
+
+       Le présent Règlement a pour but d’établir le cadre général régissant les études de cycles supérieurs à
+       l’École. Il vise les deux objectifs complémentaires suivants :
+
+       •      fournir un cadre administratif propice à la réalisation des objectifs de formation de l'École;
+       •      favoriser la réalisation effective des objectifs de formation des étudiants.
+
+1.3   Portée
+
+       Le présent Règlement régit l'admission, la reconnaissance des acquis, l'inscription, la modification ou
+       l’annulation d’inscription, l'approbation des plans de cours, l'évaluation et la poursuite des études,
+         l’activité de synthèse, le mémoire et la thèse, l'autorisation d'études hors établissement, le changement
+         d'établissement à l'intérieur de l'Université du Québec, le traitement des actes de plagiat ou de fraude
+         et l'émission des diplômes.
+
+1.4     Révision de décision
+
+         Toute personne qui se croit lésée par une décision prise à son endroit peut demander une révision selon
+         les dispositions du présent Règlement.
+
+1.5     Adresse de l’étudiant
+
+         Pour les fins de ce Règlement, tout avis, lettre ou correspondance expédié à un étudiant est réputé
+         valablement transmis s'il est expédié à la dernière adresse connue par le Registraire suivant les
+         renseignements écrits fournis par l'étudiant.
+
+1.6     Représentant du doyen des études
+
+         Pour les fins d’application de ce règlement, toute responsabilité attribuée au doyen des études peut être
+         exercée par le doyen lui-même ou un représentant qu’il désigne.
+
+CHAPITRE 2 : DÉFINITIONS, INSTANCES ET RÈGLES D’HABILITATION
+
+2.1     Définitions
+
+         Dans le présent Règlement, à moins que le contexte n'indique un sens différent, les expressions et mots
+         suivants signifient :
+
+2.1.1    Acquis
+
+         Connaissances et habiletés visées par un programme et dont l’acquisition en dehors de ce programme
+         est reconnue selon les règles prévues au présent Règlement.
+
+2.1.2    Activité de recherche
+
+         Activité donnant lieu à un mémoire au deuxième cycle ou à une thèse au troisième cycle qui est basée
+         sur une méthodologie rigoureuse, orientée vers la compréhension ou le développement d’une discipline
+         ou d’un champ d’études ou la découverte de nouvelles connaissances ou applications.
+
+2.1.3    Activité de scolarité
+
+         Activité pédagogique qui prend la forme de cours, lectures, ou travaux dirigés.
+
+2.1.4    Activité de synthèse
+
+         Activité effectuée sous la direction d’un professeur qui amène l’étudiant à intégrer ses connaissances et
+         à les utiliser concrètement. Selon le programme, cette activité de synthèse peut avoir différentes
+         appellations telles que projet technique, projet d’application, projet d’intervention en entreprise, stage,
+         etc. et mène à la rédaction d’un rapport.
+2.1.5   Activité pédagogique
+
+        Activité d'enseignement, d'études, d'apprentissage, d’évaluation ou de recherche tels que le cours, le
+        stage, le travail dirigé, l’examen doctoral et les travaux reliés aux divers rapports, au projet, au mémoire
+        et à la thèse. Une activité pédagogique entre normalement dans la composition d'un ou plusieurs
+        programmes d'études et vise l’acquisition de connaissances ou de compétences.
+
+2.1.6   Année universitaire
+
+        L'expression année universitaire désigne l'année commençant par la session d'été et se poursuivant par
+        les sessions d'automne et d'hiver.
+
+2.1.7   Attestation d'études
+
+        Acte par lequel l’École certifie qu’une personne a réussi soit un programme de formation courte, soit
+        une ou plusieurs activités créditées.
+
+2.1.8   Auditeur
+
+        Personne qui s’inscrit à une ou plusieurs activités sans être admise à un programme et qui n’est pas
+        soumise à l’évaluation, à qui l’École remet une attestation d’inscription pour ces activités qui sont
+        considérées comme non créditables.
+
+2.1.9   Concentration (ou l’équivalent)
+
+        Partie d’un programme constituée d’activités de scolarité, de recherche ou de synthèse conduisant soit
+        à des études plus poussées dans une discipline soit à l’application de la discipline à un domaine
+        particulier.
+
+2.1.10 Cours
+
+        Activité de scolarité qui se présente sous différentes formes telles que leçons magistrales, travaux
+        pratiques, ateliers, séminaires, enseignements par la méthode des cas ou de simulation de situations
+        concrètes, etc. L’École fixe le nombre de crédits attribués à chacun des cours.
+
+2.1.11 Cours d’appoint
+
+        Un à trois cours de cycle antérieur imposés à l’étudiant admis conditionnellement à un programme de
+        deuxième ou troisième cycle et dont les connaissances ont été jugées insuffisantes. Ces cours ne
+        peuvent être comptabilisés dans aucun programme de deuxième ou troisième cycle et sont traités
+        comme hors programme sur le relevé de notes de l'étudiant. Ce dernier est autorisé à suivre
+        concurremment des activités de son programme.
+
+2.1.12 Cours de propédeutique
+
+        Cours de cycle antérieur exigé dans le cadre d’une propédeutique qui doit être réussie avant
+        d’entreprendre un programme de deuxième ou troisième cycle.
+
+2.1.13 Cours hors programme
+
+        Cours dont les crédits ne sont pas comptabilisés à l’intérieur d’un programme donné.
+2.1.14 Cours intensif
+
+       Un cours est jugé intensif lorsqu'il s'échelonne sur une période moindre que la durée prévue au
+       calendrier universitaire pour une session donnée.
+
+2.1.15 Cours obligatoire
+
+       Cours qui doit nécessairement être complété dans un programme.
+
+2.1.16 Cours optionnel
+
+       Cours offert au choix, suivant des modalités déterminées.
+
+2.1.17 Crédit
+
+       Unité, exprimée en nombre entier, qui permet d’attribuer une valeur à la charge de travail requise de la
+       part de l’étudiant pour atteindre les objectifs particuliers d’une activité de scolarité, de recherche ou de
+       synthèse. Le crédit correspond en moyenne à quarante-cinq heures d'apprentissage ou de travail (cours,
+       laboratoires, travaux pratiques, travaux personnels, etc.).
+
+2.1.18 Dépôt officiel
+
+       Remise par l’étudiant de son rapport d’activité de synthèse, de son mémoire ou de sa thèse en vue de
+       l’évaluation par un jury.
+
+2.1.19 Dépôt final
+
+       Remise par l’étudiant de son mémoire ou de sa thèse après corrections finales demandées par le jury
+       suite à tout le processus d’évaluation.
+
+2.1.20 Diplôme
+
+       Acte attestant qu’une personne a satisfait aux exigences d’un programme de deuxième ou de troisième
+       cycle (à l’exception du programme court de 2e cycle, qui est sanctionné par une attestation d’études).
+
+2.1.21 Durée des études
+
+       Période, mesurée en nombre de sessions, au terme de laquelle une personne satisfait à toutes les
+       exigences de son programme, de la première à la dernière inscription dans son programme.
+
+2.1.22 Durée maximale des études
+
+       Période au terme de laquelle l'étudiant doit avoir satisfait à toutes les exigences de son programme. Au
+       terme de cette durée maximale, l’étudiant sera exclu de son programme, à moins d’avoir obtenu une
+       période de prolongation.
+
+2.1.23 Établissement d’accueil
+
+       Établissement où un étudiant est inscrit afin d'y suivre des activités dont il compte transférer les crédits
+       à son établissement d'attache.
+2.1.24 Établissement d’attache
+
+       Établissement où un étudiant est admis et inscrit dans un programme de 2e ou 3e cycle.
+
+2.1.25 Études de cycles supérieurs
+
+       Études tant de deuxième cycle que de troisième cycle.
+
+2.1.26 Étudiant
+
+       Toute personne dûment admise à l'École et dont le statut d'inscription a été validé selon les dispositions
+       prévues au présent Règlement. Un étudiant peut avoir l'un des statuts suivants : étudiant régulier,
+       étudiant libre, auditeur, étudiant visiteur.
+
+2.1.27 Étudiant libre
+
+       Personne qui s'inscrit à une ou plusieurs activités sans être admise à un programme, qui accepte de se
+       soumettre à l’évaluation et à qui l’École délivre une attestation des cours réussis, des crédits qui lui ont
+       été attribués et des résultats obtenus.
+
+2.1.28 Étudiant régulier
+
+       Personne admise à un programme et qui valide son admission par une inscription à une ou plusieurs
+       activités de ce programme à la session à compter duquel elle a été admise. Elle conserve ce statut
+       lorsque le programme n’exige pas l’inscription à une session donnée.
+
+2.1.29 Évaluation
+
+       L'évaluation est l'appréciation du niveau d'apprentissage atteint par l'étudiant par rapport aux objectifs
+       des activités pédagogiques.
+
+2.1.30 Examen doctoral
+
+       Activité pédagogique d'un programme de doctorat par laquelle une personne démontre une
+       connaissance approfondie du domaine dans lequel elle se spécialise et une connaissance adéquate des
+       domaines connexes. Il a pour but d’évaluer les acquis de l’étudiant, sa capacité à accomplir la recherche
+       menant à la thèse ainsi que le potentiel d’originalité du projet de recherche.
+
+2.1.31 Exclusion
+
+       Mesure administrative où l’étudiant ne peut s’inscrire à aucune activité. L’étudiant qui veut reprendre
+       son programme doit faire une nouvelle demande d’admission qui sera étudiée conformément aux règles
+       de réadmission du présent règlement.
+
+2.1.32 Grade
+
+       Titre conféré par l’Université du Québec et attesté par un diplôme de maîtrise ou de doctorat.
+2.1.33 Inscription
+
+       Procédure par laquelle un étudiant identifie et enregistre les activités pédagogiques qu’il compte suivre
+       à une session donnée.
+
+2.1.34 Mémoire
+
+       Document exposant les travaux de recherche effectués dans le cadre d'un programme de maîtrise. En
+       tant que travail d’initiation à la recherche, le mémoire doit démontrer que l’étudiant possède des
+       aptitudes à la recherche et une capacité d’analyse critique et de synthèse. Un mémoire et les activités
+       de recherche qui lui sont nommément reliées comptent pour au moins 21 crédits.
+
+2.1.35 Moyenne cumulative
+
+       Note générale calculée à partir de toutes les notes obtenues dans les activités de scolarité et reflétant le
+       rendement d’un étudiant.
+
+2.1.36 Passerelle
+
+       Cheminement approuvé lors de la création de programme permettant, par insertion de crédits, le
+       passage entre un programme court, un DESS ou une maîtrise, les uns étant sous-ensembles de l’autre.
+
+2.1.37 Plan de cours
+
+       Document précisant les éléments que comporte la description d’un cours et faisant état des formules
+       pédagogiques utilisées, des modalités d’encadrement et d’évaluation des apprentissages.
+
+2.1.38 Plan d'études
+
+       Document de planification des activités pédagogiques qu’un étudiant entend suivre dans le cadre du
+       programme auquel il est admis.
+
+2.1.39 Programme d’études de cycles supérieurs
+
+       Ensemble structuré d’activités de scolarité, de recherche ou de synthèse sanctionné par l’octroi d’un
+       diplôme d’études supérieures spécialisées (DESS) ou d’un grade de maître ou de docteur, ou encore par
+       l’octroi d’une attestation d’étude lorsqu’il s’agit d’un programme court.
+
+2.1.40 Propédeutique
+
+       Programme personnalisé d’activités de mise à niveau composé de cours de propédeutique, totalisant au
+       moins douze et au plus trente crédits, imposés à un candidat à l’admission dans un programme de 2e ou
+       3e cycle et devant être réussis préalablement à son admission dans ce programme. La personne inscrite
+       dans un programme de propédeutique n’est pas autorisée à suivre concurremment des activités du
+       programme pour lequel elle est candidate, sauf sur autorisation exceptionnelle du directeur dudit
+       programme.
+
+2.1.41 Rapport d’activité de synthèse
+
+       Document déposé dans le cadre d’une activité de synthèse de deuxième cycle qui démontre qu’une
+       personne a acquis la maîtrise de certaines techniques et méthodes de recherche.
+2.1.42 Régime d’études
+
+         Progression à temps complet ou à temps partiel d’une personne dans la réalisation de l’ensemble des
+         activités de son programme.
+
+2.1.43 Suspension
+
+         Mesure administrative par laquelle l’étudiant ne peut s’inscrire aux activités de son programme. À la fin
+         de la période, l’étudiant reprend son programme.
+
+2.1.44 Thèse
+
+         Document exposant les travaux effectués dans un domaine de recherche et constituant l’activité
+         majeure de formation du programme de doctorat en génie de l’École. La thèse doit apporter une
+         contribution originale à l’avancement des connaissances dans un domaine de recherche et avoir un
+         potentiel d’application. Elle doit démontrer la capacité de l’étudiant à mener des travaux de recherche
+         de façon autonome.
+
+2.1.45 Session
+
+         Période d’une durée d’environ seize semaines où se déroulent les activités de formation d’un
+         établissement universitaire.
+
+2.1.46 Visiteur
+
+         Un visiteur est un étudiant venant d'un autre établissement et inscrit à l'École après avoir obtenu une
+         autorisation d'études hors établissement de son université d'attache. Il est soumis à l'ensemble des
+         règlements de l'École.
+
+2.2     Instances liées à la gestion des programmes
+
+2.2.1    Directeur de programme
+
+         Sous la direction du Doyen des études, le directeur de programme a pour mandat d’assurer la gestion
+         académique et administrative du programme d’études dont il a la responsabilité, cela avec la
+         collaboration du Registraire et du ou des directeurs de départements concernés et avec le support des
+         services du Décanat des études.
+
+2.2.2    Comité de programme
+
+         Chaque programme d’études de deuxième ou de troisième cycle est doté d’un Comité de programme.
+         Le mandat de ce comité est d’assister le directeur de programme dans la gestion académique et
+         administrative et le développement du programme.
+
+         Au deuxième cycle, le Comité de programme est composé de quatre personnes : le directeur de
+         programme, qui le préside, deux professeurs actifs dans le programme et un étudiant qui y est inscrit.
+         Lorsqu’un programme de diplôme d’études supérieures spécialisées (DESS de 30 crédits) ou un
+         programme court de 2e cycle (15 crédits) constitue un sous-ensemble d’un programme de maîtrise (45
+         crédits), leur Comité de programme est le même que celui de la maîtrise.
+         Au doctorat, cinq personnes font partie du Comité de programme : le directeur de programme, qui le
+         préside, trois professeurs actifs dans le programme et issus des départements autres que celui du
+         directeur de programme, et un étudiant qui y est inscrit.
+
+         Le directeur du programme fait parvenir au Décanat des études la liste des membres du Comité de
+         programme dès qu’il est créé ou dès qu’il y a un changement parmi les membres.
+
+2.2.3    Comité des études de cycles supérieurs
+
+         Outre les comités et directeurs de programme, le Doyen des études est assisté dans la gestion des
+         programmes de deuxième et de troisième cycle par le Comité des études de cycles supérieurs qu’il
+         préside et qui regroupe l’ensemble des directeurs de programmes. Ce comité a essentiellement un rôle
+         consultatif, notamment au niveau des ajustements ou modifications du présent Règlement, mais plus
+         largement pour tout ce qui concerne le fonctionnement des études de cycles supérieurs à l’École.
+
+2.3     Règles d’habilitation
+
+         Toute habilitation relève du doyen des études.
+
+2.3.1    Habilitation du directeur d’activité de synthèse et de mémoire
+
+         Pour être habilité à assumer la fonction de directeur d’activité de synthèse et de mémoire, il faut
+         satisfaire aux conditions suivantes :
+
+         a) être rattaché à l’École de technologie supérieure à titre de professeur régulier;
+         b) détenir un diplôme de maîtrise ou de doctorat ou l'équivalent dans une discipline pertinente au
+            programme;
+         c) avoir fait preuve d'une production scientifique appropriée au cours des années précédant
+            l'habilitation.
+
+2.3.2    Habilitation du codirecteur d’activité de synthèse et de mémoire
+
+         Pour être habilité à assumer la fonction de codirecteur d’activité de synthèse et de mémoire, il faut
+         satisfaire à l’un des deux groupes de conditions suivantes :
+
+         Soit :
+
+         a) être rattaché à l’École de technologie supérieure à titre de professeur régulier, substitut, invité ou
+            associé, ou être rattaché à un autre établissement universitaire à titre de professeur régulier;
+         b) détenir un diplôme de maîtrise ou de doctorat ou l'équivalent dans une discipline pertinente au
+            programme;
+         c) avoir fait preuve d'une production scientifique appropriée au cours des années précédant
+            l'habilitation.
+         Soit :
+
+         a) œuvrer dans l’industrie ou dans un organisme public ou privé à vocation technologique et plus
+            spécifiquement dans un secteur relié à l’activité de synthèse ou à la recherche de l’étudiant;
+        b) détenir un diplôme de baccalauréat, de maîtrise ou de doctorat ou l’équivalent dans une discipline
+           pertinente;
+        c) avoir acquis une expérience appropriée de la recherche-développement industrielle ou à caractère
+           technologique au cours des années précédant l’habilitation.
+
+
+        L’habilitation du codirecteur doit viser l’apport d’une compétence particulière ou complémentaire à
+        celle du directeur, ou encore l’acquisition d’une expérience en matière d’encadrement d’étudiants aux
+        cycles supérieurs.
+
+2.3.3   Habilitation du directeur de thèse
+
+        Pour être habilité à assumer la fonction de directeur de thèse, il faut satisfaire aux conditions suivantes :
+
+        a) être rattaché à l’École de technologie supérieure à titre de professeur régulier;
+        b) détenir un doctorat ou l'équivalent dans une discipline ou un champ d'études pertinent au
+           programme;
+        c) avoir une expérience d'encadrement d'étudiants aux cycles supérieurs (avoir gradué au           moins un
+           étudiant);
+        d) avoir fait preuve d'une production scientifique appropriée au cours des années précédant
+           l'habilitation.
+
+
+        Exceptionnellement, le nouveau professeur qui ne satisfait pas l’item c) pourrait être habilité à agir
+        comme directeur de thèse en s’adjoignant un codirecteur qui est habilité à diriger des thèses, qui a de
+        l’expérience dans l’encadrement d’étudiants au 3e cycle et qui œuvre dans un domaine approprié.
+
+2.3.4   Habilitation du codirecteur de thèse en recherche appliquée
+
+        Les professeurs réguliers de l’ÉTS sont automatiquement habilités à co-diriger une thèse, la direction
+        étant assurée par un professeur pleinement habilité en vertu de l’article 2.3.3.
+
+        Dans les autres cas, pour être habilité à assumer la fonction de codirecteur de thèse, il faut satisfaire à
+        l’un des deux groupes de conditions suivantes :
+
+        Soit :
+
+        a) être rattaché à l’École de technologie supérieure à titre de professeur substitut, invité ou associé, ou
+           à titre de chercheur; ou être rattaché à un autre établissement universitaire à titre de professeur
+           régulier;
+        b) détenir un diplôme de maîtrise ou de doctorat ou l'équivalent dans une discipline pertinente au
+           programme;
+        c) avoir fait preuve d'une production scientifique au cours des années précédant l'habilitation.
+        Soit :
+         a) œuvrer dans l’industrie ou dans un organisme public ou privé à vocation technologique et plus
+            spécifiquement dans un secteur relié à la recherche de l’étudiant;
+         b) détenir un diplôme de maîtrise ou de doctorat ou l’équivalent dans une discipline pertinente;
+         c) avoir acquis une expérience appropriée de la recherche-développement industrielle ou à caractère
+            technologique au cours des années précédant l’habilitation.
+         L’ajout d’un codirecteur doit viser l’apport d’une compétence particulière ou complémentaire à celle du
+         directeur de thèse, ou encore l’acquisition d’une expérience en matière d’encadrement d’étudiants aux
+         cycles supérieurs.
+
+2.3.5    Habilitation du codirecteur de la thèse en innovation industrielle
+
+         Pour être habilité à assumer la fonction de codirecteur de thèse de la thèse en innovation industrielle, il
+         faut satisfaire aux conditions suivantes :
+
+         a) œuvrer dans l’industrie ou dans un organisme public ou privé à vocation technologique et plus
+            spécifiquement dans un secteur relié à la recherche de l’étudiant;
+         b) démontrer une expérience appropriée de la recherche-développement industrielle ou à          caractère
+            technologique qui contribue à l’encadrement spécifique de l’étudiant concerné.
+
+
+CHAPITRE 3 : L’ADMISSION
+
+3.1     Accessibilité des programmes
+
+         Sous réserve des dispositions du présent Règlement, les programmes de l’École sont accessibles à toute
+         personne qui répond aux conditions d’admission. Cependant, en raison des ressources dont elle dispose,
+         du caractère particulier d’un programme ou de l’offre de cours, l’École peut limiter les candidatures
+         admissibles à un programme. L’École peut aussi refuser des candidatures pour des programmes dont les
+         admissions ont été suspendues par le conseil d’administration de l’École.
+
+         Le cas échéant, l’École porte à la connaissance des personnes admissibles les règles et critères de
+         sélection qui seront appliqués à l’admission.
+
+         Les conditions d'admission à un programme donné sont établies et modifiées conformément aux
+         dispositions prévues au Règlement général 3 de l'Université du Québec pour l'adoption des programmes
+         et leur modification. Elles sont décrites dans l’Annuaire et sont sujettes à changements suite aux
+         modifications adoptées par la Commission des études en cours d’année, lesquelles sont reflétées par le
+         site Web de l’École.
+
+3.2     Demande d’admission
+
+3.2.1    Formulation de la demande
+
+         Pour pouvoir être admis à l'École en qualité d'étudiant régulier, d'étudiant libre ou d'auditeur, le
+         candidat doit présenter, dans les délais fixés, une demande d'admission sur un formulaire officiel et y
+         joindre les documents requis. Seul le dossier complet est accepté. Tous les documents soumis lors d'une
+         demande d'admission demeurent propriété de l'École et ne sont pas rendus au candidat, sauf les
+         documents originaux.
+
+3.2.2    Nouvelle demande
+
+         Toute personne doit présenter une nouvelle demande d’admission à un programme si, après avoir été
+         admise à un programme, elle ne s’est pas inscrite à au moins une activité à la session où elle a été
+         admise (sauf si le Bureau du registraire a autorisé un report d’admission).
+
+3.2.3    Date de réception des demandes
+
+         La Commission des études de l’École fixe à chaque année les dates limites pour la réception de toutes les
+         demandes d’admission et de changement de programme pour tous les étudiants, lesquelles sont
+         précisées au calendrier universitaire.
+
+3.2.4    Admissibilité des candidats
+
+         Le Registraire examine chaque demande d’admission et, sauf pour les candidats dont l’admission ou la
+         non admission est évidente, soumet les dossiers des candidats au directeur de programme, qui les
+         étudie conformément aux principes et aux règles du présent Règlement et, s’il y a lieu, selon les critères
+         de sélection en vigueur, afin d’émettre une recommandation au Registraire. Au besoin, le directeur de
+         programme soumet le dossier de l’étudiant au directeur de recherche pour avis. Par ailleurs, le
+         directeur de programme peut consulter les professeurs du comité de programme avant d’émettre sa
+         recommandation au Registraire.
+
+         La demande du candidat qui a déjà été exclu d’un autre programme de l’École sera traitée selon les
+         règles de réadmission décrites à l’article 3.12.
+
+3.2.5    Admissibilité de l’étudiant libre
+
+         Pour prétendre au statut d'étudiant libre, un candidat doit d'abord être admissible dans le programme
+         dont font partie les activités auxquelles il veut s’inscrire comme étudiant libre. Il doit, en outre, satisfaire
+         aux conditions particulières des activités auxquelles il veut s'inscrire.
+
+3.3     Engagement du candidat
+
+         Tout candidat qui sollicite son admission s’engage à suivre les règlements généraux de l’Université du
+         Québec et tous les règlements de l’École et leurs amendements.
+
+3.4     Décision d’admission
+
+         Le Registraire prononce, au nom de l'École, soit l'admission du candidat, l’admission conditionnelle et les
+         conditions qui en découlent ou le refus d’admission, qui ne peut être justifié que par l’un des motifs
+         suivants :
+
+         a) Absence d’un titre valable d’admission : un candidat est refusé pour cette raison lorsqu’il ne satisfait
+            pas aux conditions permettant l’admission au programme.
+         b) Résultats scolaires trop faibles : un candidat est refusé pour cette raison lorsque ses résultats
+            scolaires antérieurs portent le comité de programme ou le directeur ou responsable de programme
+            à croire que le candidat ne peut réussir les études qu’il veut entreprendre.
+         c) Cours d’appoint non réussis : un candidat est refusé pour cette raison lorsque le Registraire constate
+            que le candidat n’a pas réussi les cours d’appoint.
+         d) Conditions d’admission non rencontrées : un candidat est refusé pour cette raison lorsqu’il ne
+            satisfait pas aux conditions permettant l’admission au programme.
+         e) Exclusion antérieure : un candidat est refusé pour cette raison quand, suite à l’exclusion d’un autre
+            programme de l’École, le Comité des réadmissions estime que le candidat ne peut réussir les études
+            qu’il veut entreprendre dans un nouveau programme.
+
+3.5     Demande de révision de la décision d’admission
+
+         Dans les vingt (20) jours ouvrables suivant la réception de la décision d'admission, le candidat qui
+         s’estime lésé par la décision et qui est en mesure de présenter, par écrit, des faits nouveaux de nature à
+         modifier la décision peut soumettre une demande de révision au Bureau du registraire qui convoque, s’il
+         y a lieu, le Comité d’appel composé du Doyen des études, du Registraire et du Directeur du programme
+         concerné. Au terme de la révision, le Registraire transmet par écrit au candidat la décision rendue. Cette
+         décision est finale et sans appel.
+
+3.6     Validité de l’admission prononcée
+
+         L'admission prononcée pour une session donnée n'est valide que si elle est suivie d'une inscription à
+         cette même session. Le Bureau du registraire peut autoriser un report d’admission. Cependant,
+         l'étudiant voit son admission invalidée si, durant sa première session d'inscription, il abandonne tous les
+         cours auxquels il est inscrit et ce, dans le délai fixé pour les modifications d'inscription sans mention au
+         relevé de notes.
+
+3.7     Passage intégré baccalauréat-maîtrise
+
+         Un étudiant de baccalauréat de l’École qui a complété 90 crédits avec une moyenne d’au moins 3,2/4,3
+         peut prendre jusqu’à trois cours de niveau maîtrise. Lorsqu’il soumet sa candidature à un programme de
+         maîtrise, et s’il en fait la demande, l’École applique les règles de reconnaissance d’acquis de façon à
+         assurer un passage intégré du baccalauréat à la maîtrise.
+
+         À l’ÉTS, les programmes de maîtrise prévoient en conséquence que jusqu’à trois cours du programme
+         peuvent avoir été suivis dans le cadre d’un programme de baccalauréat de l’École.
+
+3.8     Admission en propédeutique
+
+3.8.1    Propédeutique pour le deuxième cycle
+
+         Une personne candidate à un programme de deuxième cycle qui ne détient pas de baccalauréat ou un
+         grade équivalent ou dont la préparation est jugée insuffisante ou qui ne satisfait pas aux conditions
+         particulières du programme, peut être admise en propédeutique.
+
+         Le contenu de la propédeutique est déterminé par le directeur du programme.
+3.8.2    Propédeutique pour le doctorat
+
+         Une personne candidate au programme de doctorat qui ne détient pas de maîtrise ou un grade
+         équivalent ou dont la préparation est jugée insuffisante ou qui ne satisfait pas aux conditions
+         particulières du programme, peut être admise en propédeutique.
+
+         Le contenu de la propédeutique est déterminé par le directeur de recherche de l’étudiant.
+
+3.8.3    Durée de la propédeutique
+
+         Au deuxième cycle, la propédeutique a une durée maximale de trois sessions; elle comporte au moins
+         douze crédits et au plus trente crédits.
+
+         Au troisième cycle, la propédeutique a une durée maximale de trois sessions; elle comporte au moins
+         douze crédits et au plus dix-huit crédits.
+
+3.8.4    Réussite de la propédeutique
+
+         L’étudiant qui réussit son programme de propédeutique avec une moyenne cumulative d’au moins
+         3,00/4,3 est automatiquement admis, sur dépôt d’une demande d’admission, au programme de
+         deuxième ou de troisième cycle pour lequel la propédeutique l’a préparé.
+
+3.9     Admission conditionnelle
+
+         Un candidat à un programme de 2e ou 3e cycle peut être admis sous condition :
+
+         a) de compléter le programme conduisant au grade exigé à l’appui de sa demande d’admission; dans
+            ce cas, il ne doit pas avoir plus de six crédits de scolarité à compléter au moment de sa première
+            inscription et doit avoir terminé son programme antérieur avant sa troisième inscription;
+         b) de suivre et de réussir les cours d’appoint prescrits dans ses deux premières sessions d’inscription.
+            Ces cours sont créditables et hors programme;
+         c) de satisfaire aux exigences de la Politique linguistique de l’École, selon les délais prévus   aux
+            règles d’application de ladite politique.
+         Le candidat admis sous condition qui ne réalise pas dans le délai prévu les conditions qui lui ont été
+         fixées, est exclu du programme, sauf dans le cas de la condition de l’alinéa c) où le candidat est
+         suspendu pour une période d’au plus douze (12) mois. Dans ce cas, il ne peut s’inscrire qu’à des cours
+         d’appoint de français pendant la suspension. À la fin de cette période, l’étudiant qui ne satisfait toujours
+         pas aux exigences relatives à la langue française sera exclu de son programme.
+
+3.10 Admission avec insertion de crédits
+
+         Lorsqu’il s’agit d’une admission avec insertion ou transfert de crédits, tels que définis à l’article 5.6, le
+         registraire fixe la durée maximale accordée à l’étudiant. La durée accordée sera proportionnelle aux
+         activités qui restent à compléter dans le programme suite à l’insertion ou au transfert des crédits.
+
+3.11 Changement de programme
+
+         Une personne admise dans un programme et inscrite à des activités peut, dans le délai prévu au
+         calendrier universitaire pour les périodes d’admission, présenter une demande de changement de
+       programme. Sa demande est traitée comme une demande d’admission dans le nouveau programme et
+       les dispositions prévues pour l’admission dans le présent Règlement s’appliquent mutatis mutandis.
+
+3.12 Réadmission dans un programme
+
+3.12.1 Règles et procédures
+
+       a) L’étudiant qui désire être réadmis dans un programme est soumis aux conditions d’admission, au
+          contenu et aux règlements particuliers du programme en vigueur au moment de sa réadmission.
+       b) L'étudiant qui désire être réadmis dans un programme doit remplir une nouvelle demande
+          d'admission.
+       c) Sauf pour les cas où la réadmission lui paraît évidente, le Registraire convoque le comité de
+          réadmission qui est composé du doyen des études qui le préside, du registraire qui en est le
+          secrétaire et membre à part entière, du directeur de programme où l’étudiant souhaite être réadmis
+          et s’il y a lieu, de l’ancien directeur de programme de l’étudiant.
+       d) Si la demande est accordée, la décision doit spécifier les éléments suivants :
+           •   les justifications de la recommandation de réadmission;
+
+           •   les activités pédagogiques reconnues parmi celles réussies antérieurement, s’il y a lieu;
+
+           •   la nouvelle durée maximale allouée à l’étudiant pour terminer son programme. Des conditions
+               particulières quant à la durée maximale et aux activités à compléter pourront alors être
+               imposées à l’étudiant pour tenir compte de la période qu’il a déjà consacrée à ses études et des
+               changements éventuellement apportés au programme depuis sa précédente admission. Cette
+               durée ne peut pas être supérieure à celle prévue au présent Règlement pour le programme où
+               il est admis.
+
+       e) La décision du comité est finale et sans appel.
+
+3.12.2 Demande d’admission suite à une exclusion d’un autre programme
+
+       L’étudiant exclu d’un programme de cycle supérieur qui souhaite reprendre ses études à l’École dans un
+       autre programme de cycle supérieur verra sa demande d’admission étudiée par le Comité des
+       réadmissions qui évaluera sa capacité à réussir des études dans un nouveau programme. La décision du
+       Comité est finale et sans appel.
+
+3.12.3 Conditions de réadmission suite à une exclusion
+
+       a) L’étudiant qui a été exclu de son programme en raison du rejet de son mémoire ou de sa thèse ne
+          peut être réadmis dans le programme dont il a été exclu.
+       b) L’étudiant qui a été exclu de son programme en raison d’une moyenne cumulative inférieure à 2,5
+          sur 4,3 ou l’équivalent en vigueur au moment de son exclusion, ne peut être réadmis dans ce
+          programme d’études de cycles supérieurs. Exceptionnellement, le Comité de réadmission pourrait
+          l’admettre dans un autre programme après étude de son dossier.
+         c) Un étudiant exclu ne peut suivre aucune activité de ce programme ni être réadmis à ce programme
+            avant un délai de douze mois après la session de son exclusion. Après ce délai, le Comité de
+            réadmission pourrait le réadmettre après étude de son dossier.
+         d) Pour l’étudiant réadmis après avoir été exclu à cause du dépassement de la durée maximale des
+            études prévue pour ce programme, le délai alloué est final, sans prolongation possible.
+         e) Un étudiant exclu d’un programme ne peut être réadmis dans ce même programme qu’une seule
+            fois.
+
+3.13 Double admission
+
+         Normalement, l’étudiant n’est admis qu’à un seul programme. Toutefois, le Doyen des études peut
+         permettre à un étudiant d’être admis à plus d’un programme selon les conditions suivantes :
+
+         a) Être admis définitivement au premier programme et avoir complété au moins le tiers des crédits de
+            ce programme;
+         b) Satisfaire pour les fins du deuxième programme aux principes et aux règles de Règlement;
+         c) Démontrer, à la satisfaction du Doyen des études, que la double admission est nécessaire pour
+            permettre l’atteinte des objectifs de formation de l’étudiant.
+         Toutes les dispositions du présent chapitre s’appliquent mutatis mutandis à la double admission.
+
+         L’étudiant déjà inscrit à un programme contingenté qui désire être admis simultanément à un autre
+         programme contingenté, l’est seulement après que les autres candidats admissibles aient été admis.
+
+CHAPITRE 4 : INSCRIPTION, ENCADREMENT ET RYTHME DES ÉTUDES
+
+4.1     Régime d’études
+
+         L’École offre deux régimes d’études aux cycles supérieurs : le régime à temps complet et le régime à
+         temps partiel. Le nombre total de crédits fixé à l'inscription à une session ne peut être inférieur à neuf
+         crédits pour l’étudiant à temps complet et à trois crédits pour l’étudiant à temps partiel.
+
+4.2     Inscription
+
+4.2.1    Formalités d’inscription
+
+         L’étudiant admis qui veut suivre des activités à une session donnée doit procéder à son inscription dans
+         les délais prescrits au calendrier universitaire adopté par la Commission des études et selon les
+         procédures communiquées par l’École.
+
+4.2.2    Obligation d’inscription et responsabilité de l’étudiant
+
+         L’étudiant a la responsabilité générale de s’assurer que ses inscriptions et son cheminement sont
+         conformes aux exigences de son programme et aux règlements de l’École.
+
+4.2.3    Inscription à un cours non prévu au programme
+
+         Le directeur de programme peut, dans certains cas particuliers, accepter qu’un étudiant régulier suive
+         un cours autre que celui prévu au programme. Le cours est alors considéré comme une substitution et
+        traité selon les dispositions prévues au chapitre 5 du présent Règlement. Au doctorat ou à la maîtrise
+        avec mémoire, cette substitution doit être validée au préalable par le directeur de recherche de
+        l’étudiant.
+
+4.2.4   Délais prévus pour l'inscription
+
+        Aucune inscription à un cours ou à une autre activité pédagogique n'est autorisée après la période de
+        modification d'inscription sans mention au relevé de notes ou après le début de l’activité dans le cas
+        d’activités intensives.
+
+4.2.5   Cours de premier cycle
+
+        Un programme de deuxième cycle peut comprendre des cours de premier cycle; cependant le total des
+        crédits de ces cours ne peut être supérieur à six. Sauf exception, cette possibilité de prendre un
+        maximum de six crédits de premier cycle n’est pas cumulable avec la possibilité de prendre un maximum
+        de six crédits à l’extérieur de l’École prévue à l’article 7.3 du présent Règlement.
+
+4.2.6   Inscription des étudiants libres et auditeurs
+
+        L'inscription des étudiants libres et des auditeurs s'effectue au Bureau du registraire. Avant de valider le
+        choix de cours d'un étudiant libre ou d'un auditeur, le Registraire s'assure auprès du directeur de
+        programme responsable du cours auquel l'étudiant désire s'inscrire que :
+
+        a) l’étudiant libre ou l’auditeur satisfait aux conditions ou exigences particulières du cours;
+        b) une place lui a été réservée dans le groupe.
+
+4.2.7   Restrictions à l’inscription comme étudiant libre
+
+        La personne qui s'est vu refuser l'admission définitive dans un programme ou qui en a été exclue à la
+        suite de restrictions dans la poursuite des études ne peut s'inscrire sous le statut d'étudiant libre ou
+        d'auditeur à des cours de ce même programme. De plus, en aucun cas, un étudiant libre ou un auditeur
+        ne peut s'inscrire à plus de six crédits sous ce statut.
+
+4.2.8   Modification et annulation d'inscription
+
+        Les dispositions prévues pour l'inscription aux cours s'appliquent mutatis mutandis à la modification
+        d'inscription.
+
+        L’étudiant bénéficie de deux périodes, définies au calendrier universitaire approuvé par la Commission
+        des études, pour apporter des changements à son inscription.
+
+        La première période lui permet de modifier son inscription par l’abandon sans mention au relevé de
+        notes, l’ajout ou le changement d’activité(s). L’abandon durant cette période entraîne le
+        remboursement des frais de scolarité.
+
+        La deuxième période lui permet d’abandonner une ou plusieurs activités sans mention d’échec et sans
+        remboursement des frais de scolarité.
+
+        Toute activité abandonnée après ces périodes reçoit la note « E » (échec).
+4.3     Fermeture volontaire de dossier
+
+         L'étudiant qui désire annuler toutes ses activités et, de plus, fermer son dossier doit le signifier par écrit
+         au Registraire. Une lettre de l’étudiant ou un courriel sont valables pour la fermeture du dossier et la
+         date de réception de la lettre ou du courriel par le Registraire est retenue pour fins de remboursement
+         des frais de scolarité, s’il y a lieu. Le Registraire communique au directeur de programme concerné les
+         fermetures de dossier dont il a été informé.
+
+4.4     Absences
+
+4.4.1    Absence autorisée
+
+         L'étudiant régulier peut bénéficier d’une période d’absence autorisée lui permettant de suspendre ses
+         études pendant au plus trois sessions, consécutives ou non. Un tel étudiant qui désire interrompre
+         provisoirement ses études peut demander une autorisation d'absence pour la ou les sessions suivant
+         celle à laquelle il est inscrit au moment de sa demande en suivant les procédures communiquées par
+         l’École. Toute demande d’autorisation d’absence doit être justifiée par des motifs sérieux tels que
+         maladie, congé parental, obligations professionnelles ou obligations familiales, pièces justificatives à
+         l’appui.
+
+         Le congé parental s’adresse au père ou à la mère d’un nouveau-né ou d’un enfant nouvellement adopté.
+
+         L'autorisation d'absence doit être obtenue et sanctionnée avant la fin de la période d'inscription de la
+         première session d'absence, à défaut de quoi elle sera considérée comme une absence non autorisée.
+
+         Si elle est autorisée, une telle absence ne sera pas prise en compte dans le calcul de la durée des études
+         ni dans celui des délais imposés par certaines conditions particulières. Ainsi, la durée maximale permise
+         pour compléter le programme sera prolongée d’autant de sessions que la période d’absence autorisée.
+
+4.4.2    Absence non autorisée
+
+         Il s’agit d’une période pendant laquelle l’étudiant d’un programme court de 2e cycle, d’un DESS ou d’une
+         maîtrise SANS mémoire peut suspendre temporairement son inscription sans formalité particulière à
+         compter de sa deuxième inscription au programme.
+
+         Pour l’étudiant qui y a droit, une telle absence, dite non autorisée, ne prolonge pas la période maximale
+         permise pour compléter le programme et l’étudiant conserve l’obligation de satisfaire à toutes les
+         exigences du programme avant l’expiration du délai imposé par la règle de durée des études définie
+         dans le présent Règlement pour chaque type de programme.
+
+         Après trois sessions consécutives d’absence non autorisée, l’École considérera que l’étudiant a
+         abandonné son programme.
+
+4.5     Prolongation de la durée maximale des études
+
+         L’étudiant qui n’a pas rempli les exigences du programme auquel il a été admis pendant la durée
+         maximale prévue à cette fin et qui désire poursuivre ce programme peut, à titre exceptionnel, obtenir
+         une prolongation de cette durée maximale pour une période d’au plus un an. L’étudiant fait sa demande
+         sur le formulaire approprié et selon la procédure diffusée par l’École. L’omission de faire une telle
+         demande ainsi que le refus de la demande entraînent l’exclusion du programme.
+         La demande sera acceptée dans la mesure où les activités encore à réaliser peuvent être
+         raisonnablement complétées à l’intérieur du délai de prolongation demandé.
+
+4.6     Encadrement des étudiants
+
+4.6.1    Principe
+
+         Dans le cadre de son mandat de gestion académique et administrative, le directeur d’un programme de
+         deuxième ou de troisième cycle doit assurer l’encadrement approprié des étudiants pour permettre
+         l’atteinte des objectifs généraux de formation visés par le programme. Dans cet esprit, chaque étudiant
+         est donc invité à rencontrer le directeur de programme dès son arrivée dans le programme.
+
+4.6.2    Deuxième cycle
+
+         Au deuxième cycle, tant et aussi longtemps que l’étudiant n’a pas identifié son directeur de recherche
+         ou d’activité de synthèse, le directeur de programme a en fait une responsabilité de tutorat : il lui
+         incombe de conseiller l’étudiant dans l’établissement de son cheminement académique et de traiter les
+         difficultés qu’il peut rencontrer. Par la suite, c’est le directeur de recherche ou d’activité de synthèse qui
+         prend la relève pour assumer ce rôle de conseiller et établir un plan d’études avec l’étudiant.
+
+4.6.3    Troisième cycle
+
+         Au troisième cycle, la fonction de tuteur est assumée immédiatement par le directeur de thèse et cela,
+         dès l’admission de l’étudiant dans le programme.
+
+4.6.4    Encadrement dans les cours
+
+         L’encadrement des étudiants dans chacun des cours du programme (énoncé du plan de cours,
+         assistance, évaluation, etc.) est quant à lui sous la responsabilité première de l’enseignant qui dispense
+         le cours.
+
+CHAPITRE 5 : RECONNAISSANCE DES ACQUIS
+
+5.1     Principe
+
+         La reconnaissance des acquis repose sur le principe qu’il faut soustraire l’étudiant à l’obligation de suivre
+         des activités conduisant à l’acquisition de connaissances ou de compétences qu’il possédait déjà au
+         moment de sa première inscription au programme.
+
+5.2     Nature de l’acquis
+
+         Ces connaissances ou ces compétences peuvent avoir été acquises dans un milieu de travail ou dans le
+         cadre d’activités pédagogiques réussies, n’ont pas servi à établir l’admissibilité du candidat, et
+         correspondent soit à un ou des objectifs de ce programme, soit à une ou des activités qui le composent.
+
+5.3     Restrictions
+
+         La reconnaissance des acquis est limitée par les restrictions suivantes :
+
+         a) Pour être officielle, toute demande de reconnaissance des acquis doit être traitée selon les
+            dispositions du présent Règlement.
+       b) Seules les activités de scolarité du programme auquel une personne est admise peuvent donner lieu
+          à une reconnaissance d’acquis, sauf dans le cas d’une réadmission dans un même programme ou de
+          l’insertion de crédits dans un programme où une passerelle est prévue.
+       c) La thèse, le mémoire, le rapport d’activité de synthèse ou leur équivalent ne peuvent donner lieu à
+          une reconnaissance d’acquis, sauf dans le cas d’une réadmission dans un même programme ou de
+          l’insertion de crédits dans un programme où une passerelle est prévue.
+       d) Aucun diplôme ne peut être obtenu par la seule reconnaissance des acquis.
+       e) Sauf l’exception que permet l’article 3.7, la reconnaissance d'acquis concernant un cours    crédité
+          dans un programme déjà sanctionné par un grade ne donne lieu qu'à une substitution.
+       f) Lorsqu’un étudiant libre est admis à un programme, l'École ne s'engage pas à reconnaître les crédits
+          obtenus comme étudiant libre.
+
+5.4   Dépôt de la demande
+
+       En raison de l’impact de la reconnaissance des acquis sur le cheminement de l’étudiant, toute demande
+       de reconnaissance des acquis doit être déposée pendant la première session d’inscription au
+       programme et y inclure toutes les activités à reconnaître sur la même demande afin que soient
+       clairement identifiées les activités ne devant pas être complétées par l’étudiant pour satisfaire aux
+       exigences du programme.
+
+       Toute demande de reconnaissance des acquis déposée par un étudiant après le délai mentionné ci-
+       dessus est non recevable par le Registraire de l’École et est automatiquement refusée.
+
+       L'étudiant admis à un programme qui croit avoir droit à une reconnaissance des acquis doit soumettre
+       lui-même une demande écrite au Bureau du Registraire, conformément à la procédure en vigueur à
+       l’École.
+
+5.5   Vérification des connaissances
+
+       L'étudiant qui présente une demande de reconnaissance des acquis peut être tenu de se soumettre à
+       une vérification de ses connaissances.
+
+5.6   Types de reconnaissances possibles
+
+       La reconnaissance d’acquis donne lieu à l’un ou l’autre des effets suivants dans le programme qui fait
+       l’objet de la demande :
+
+       a) l’exemption :
+       Consiste à reconnaître comme équivalente à une activité donnée du programme une autre activité qui a
+       été réussie. L’inscription à ladite activité du programme n’est pas requise. Les crédits rattachés à
+       l’activité propre au programme sont accordés avec la mention « K ». Aucune exemption ne peut être
+       accordée pour un cours pour lequel la note obtenue est inférieure à « B » ou l’équivalent.
+
+       b) le transfert :
+       Le résultat d’une activité déjà réussie par un étudiant dans un programme de l’École est porté sur son
+       relevé de notes dans le nouveau programme auquel il est admis.
+         c) la substitution :
+         L’inscription à une activité déterminée du programme est remplacée par une inscription à une autre
+         activité.
+
+         d) l’insertion :
+         Consiste à intégrer dans un programme des crédits obtenus dans le cadre d’un autre programme et pour
+         lequel une passerelle a été approuvée.
+
+         e) l’intégration
+         Consiste à reconnaître qu’un étudiant a atteint certains objectifs de son programme préalablement à
+         son admission. Dans ce cas, l’École lui reconnaît un certain nombre de crédits correspondant à ces
+         objectifs et pour lesquels une exemption ne peut être accordée. L’intégration permet d’identifier les
+         cours et activités que l’étudiant devra compléter pour terminer son programme. En raison de leurs liens
+         avec les objectifs du programme concerné, les crédits obtenus par intégration ne sont pas transposés
+         automatiquement d’un programme à un autre si l’étudiant change de programme à nouveau.
+
+5.7     Nombre maximum de crédits reconnus
+
+5.7.1    Programme court de 2e cycle
+
+         Dans un tel programme, l’étudiant ne peut bénéficier que d’une reconnaissance d’acquis d’un cours,
+         qu’elle soit de type exemption, substitution ou transfert, sauf dans le cas d’insertion prévu à une
+         passerelle.
+
+5.7.2    Diplôme d’études supérieures spécialisées (DESS)
+
+         Un candidat admis dans un DESS ne peut se voir accorder par reconnaissance d’acquis plus de la moitié
+         des crédits de scolarité de ce programme, sauf dans le cas d’insertion prévu à une passerelle.
+
+5.7.3    Maîtrise
+
+         Un candidat admis dans un programme de maîtrise ne peut se voir accorder par reconnaissance d’acquis
+         plus des deux tiers des crédits de scolarité de ce programme, sauf dans le cas d’insertion prévu à une
+         passerelle ou dans le cas prévu à l’article 13.5 régissant le passage du doctorat à la maîtrise.
+
+5.7.4    Doctorat
+
+         Un candidat admis dans un programme de doctorat ne peut se voir accorder par reconnaissance
+         d’acquis plus des deux tiers des crédits de scolarité de ce programme, sauf dans le cas des dispositions
+         prévues à l’article 13.5 régissant le passage direct de la maîtrise au doctorat.
+
+5.8     Arbitrage
+
+         Tous les dossiers qui font l'objet d'une divergence d'évaluation entre le directeur du programme
+         concerné et le Registraire sont soumis au Doyen des études pour analyse et prise de décision. Cette
+         décision est transmise à l'étudiant par le Registraire.
+5.9     Demande de révision
+
+         Dans les vingt jours ouvrables suivant la réception de la décision de l’École, l’étudiant peut demander
+         une révision au Registraire. Si la demande est recevable, le Registraire convoque le Comité d’appel
+         composé du Doyen des études qui le préside, du Registraire qui agit à titre de secrétaire et en est
+         membre à part entière et du directeur de programme concerné. Au terme de la révision, le Registraire
+         transmet par écrit au candidat la décision qui est finale et sans appel.
+
+CHAPITRE 6        ÉVALUATION
+
+6.1     Responsabilités
+
+         L'École doit attester l'atteinte des objectifs des cours, des autres activités pédagogiques et des
+         programmes.
+
+         Selon le présent Règlement, l'évaluation de l'étudiant dans un cours ou une autre activité pédagogique
+         est de la responsabilité du titulaire du cours ou de l'équipe pédagogique; celle de l'étudiant dans un
+         programme est de la responsabilité du directeur de programme concerné.
+
+         L'évaluation de l’activité de synthèse de 9 crédits ou plus, du mémoire ou de la thèse est de la
+         responsabilité du jury, conformément aux dispositions prévues au présent Règlement.
+
+6.2     L’échec
+
+6.2.1    Évaluation globale
+
+         En cas d’échec d’un cours ou d’une autre activité pédagogique, il n’y a pas d’examen de reprise tenant
+         lieu d’évaluation globale de l’activité, sauf les dispositions prévues pour l’examen doctoral.
+
+6.2.2    Échec dans une activité de scolarité obligatoire
+
+         L’étudiant qui obtient un échec dans une activité de scolarité obligatoire doit reprendre cette activité
+         dès qu’elle est offerte à une session subséquente.
+
+6.2.3    Double échec
+
+         Un deuxième échec dans la même activité de son programme ou un échec dans plus d’une activité du
+         programme entraîne automatiquement l’exclusion du programme.
+
+6.3     Notation littérale
+
+6.3.1    Définitions et symboles utilisés
+
+         Pour l’étudiant de cycle supérieur, la notation littérale représente :
+
+         a) soit l’appréciation globale du niveau d’apprentissage atteint par l’étudiant relativement aux objectifs
+            d’une activité pédagogique, qu’il soit inscrit à une activité de cycle supérieur ou de 1er cycle :
+             A+, A, A-
+
+             B+, B, B-
+            C+, C, C-
+
+            D+, D
+
+            E : échec
+
+            S : exigence satisfaite
+
+            V : cours suivi et réussi hors Québec.
+
+        b) soit le traitement d’une activité :
+            H : hors programme
+
+            I : résultat incomplet
+
+            K : exemption obtenue par reconnaissance d’acquis
+
+            L : échouée, reprise et réussie
+
+            N : activité non créditée
+
+            P : cours d’appoint
+
+            R : notation reportée
+
+            X : abandon autorisé
+
+            Z : activité de recherche ou d’intervention en progression
+
+6.3.2   Appréciation des travaux de synthèse ou de recherche
+
+        La notation utilisée pour indiquer l’appréciation de la thèse, du mémoire, du rapport d’activité de
+        synthèse est la suivante :
+
+        « Excellent »; « Très bien »; « Bien »;
+
+        « Passable »; « Échec ».
+
+6.3.3   Signification des symboles
+
+        1. La lettre « H » (hors programme)
+        Est utilisée pour indiquer que l’activité concernée ne fait pas partie du programme de l’étudiant. Le
+        résultat de l’activité n'entre pas dans le calcul de la moyenne cumulative.
+
+        2. La lettre « I » (résultat incomplet)
+        Doit être convertie en A+, A, A-, B+, B, B-, C+, C, C-, D+, D, S ou E au cours des quatre semaines qui
+        suivent la fin de la session. Elle est automatiquement convertie en « E » (échec) après ce délai.
+L'utilisation du « I » est exceptionnelle. Elle doit faire l'objet d'une entente préalable écrite entre
+l'étudiant et le professeur. Cette entente indique ce que le professeur demande à l'étudiant pour
+satisfaire aux exigences de l'activité concernée.
+
+3. La lettre « K » (exemption obtenue par la reconnaissance d’acquis)
+Signifie que l’activité concernée est considérée comme réussie par l’étudiant suite à la reconnaissance
+d’acquis. Ce résultat n’ayant pas de valeur numérique, l’activité n’entre pas dans le calcul de la moyenne
+cumulative.
+
+4. La lettre « L » (activité échouée, reprise et réussie)
+Ce résultat remplace le résultat « E » (échec) attribué à une activité à une session donnée et qui a été
+reprise et réussie par la suite. Le résultat de la réussite apparaît aussi à la session où l’activité a été
+reprise et réussie.
+
+5. La lettre « N » (activité non créditée)
+Est utilisée pour coter une activité suivie par l'étudiant ayant le statut d'auditeur.
+
+6. La lettre « P » (cours d’appoint)
+Signifie que l’activité concernée est considérée comme une formation d’appoint et ne fait pas partie du
+programme de l’étudiant. Le résultat d’une telle activité n'entre pas dans le calcul de la moyenne
+cumulative.
+
+7. La lettre « R » (notation reportée)
+Lorsqu’il est prévu qu’une activité se déroule normalement sur deux sessions, le symbole « R » est utilisé
+à titre de résultat pour les fins d'émission du relevé de notes au terme de la première session; ce
+symbole est remplacé par le résultat de l'évaluation à la fin de la dernière session.
+
+8. La lettre « S » (exigence satisfaite)
+Signifie que l’activité est réussie par l'étudiant.
+
+L’utilisation du « S » est justifiée dans trois cas, c’est-à-dire lorsque :
+
+     a) une activité d’un programme nécessite son utilisation; dans ce cas l’activité est identifiée avec
+        cette précision dans le programme. Le mode d’évaluation « Succès » ou « Échec » pour une
+        activité donnée doit avoir été approuvé par la Commission des études au moment de la
+        création ou la modification de ladite activité.
+     b) le Comité de modification des résultats le juge à propos.
+     c) de l’avis du Doyen des études, une situation académique exceptionnelle ou une formule
+        pédagogique particulière autorise son utilisation.
+9. La lettre « V » (cours hors Québec)
+Cours suivi et réussi dans une université hors Québec en vertu d’une entente dans le cadre d'une
+autorisation d'études hors établissement; les crédits sont accordés mais le résultat n'entre pas dans le
+calcul de la moyenne cumulative.
+
+10. La lettre « X » (abandon autorisé)
+         Représente un abandon signifié par l'étudiant, par écrit, avant la date prévue à cette fin au calendrier
+         universitaire.
+
+         11. La lettre « Z » (en progression)
+         Est utilisée à chaque session pour indiquer que l’activité de recherche ou de synthèse concernée est en
+         progression.
+
+6.4     Moyenne cumulative
+
+6.4.1    Règles de calcul
+
+         La moyenne cumulative est calculée à la fin de chaque session à partir des notes obtenues dans toutes
+         les activités de scolarité du programme.
+
+         Dans le cas de la reprise d’une activité, tous les résultats apparaissent sur le relevé de notes, mais seul le
+         dernier est utilisé dans le calcul de la moyenne cumulative.
+
+         La moyenne cumulative, qui varie entre 0,00 et 4,30, est calculée à la troisième décimale et inscrite sur
+         le relevé de notes en arrondissant à deux décimales au centième le plus rapproché.
+
+6.4.2    Symboles ayant une valeur numérique
+
+         Pour l’étudiant de cycle supérieur, seules les lettres suivantes ont une valeur numérique et entrent dans
+         le calcul de la moyenne cumulative, que l’étudiant soit inscrit à une activité de cycle supérieur ou de 1er
+         cycle :
+
+         A+ (4,3), A (4,0), A- (3,7),
+
+         B+ (3,3), B (3,0), B- (2,7),
+
+         C+ (2,3), C (2,0), C- (1,7)
+
+         D+ (1,3), D (1,0)
+
+         E (0).
+
+6.4.3    Formule de calcul
+
+         La moyenne cumulative (MC) est calculée selon la formule suivante :
+
+                                 Σ
+                             MC = Pi ci
+                                  Σci
+
+         Σ:       Somme de
+
+         Pi :     Valeur numérique attribuée à la lettre
+
+         Ci :     Nombre de crédits attribués à une activité pour laquelle la lettre a une valeur numérique
+
+         i:       Une activité déterminée
+6.5     Évaluation dans un cours
+
+6.5.1    Proportion des éléments utilisés pour l'évaluation dans un cours
+
+         a) Principe général
+         Dans tous les cours, aucun des éléments (entrevue, examen, rapport, test, etc.) de l’évaluation de
+         l’étudiant, qu’il soit à caractère individuel ou d’équipe, ne peut compter pour plus de 50 % dans la
+         pondération de l’ensemble des éléments de l’évaluation. L'évaluation de l'étudiant porte normalement
+         sur l'ensemble des éléments d'évaluation prévus au plan de cours.
+
+         b) Éléments à caractère individuel
+         Si les éléments individuels de l'évaluation (tels que les examens) représentent au moins 60% de
+         l'ensemble des éléments d'évaluation du cours, alors le titulaire peut imposer une note minimale de
+         passage pour les éléments individuels. Le plan de cours doit alors spécifier le seuil de passage pour les
+         éléments à caractère individuel.
+
+6.5.2    Motifs de report d’évaluation
+
+         L’étudiant qui ne s’est pas soumis à un ou des éléments d’évaluation obtient la note 0 pour ce ou ces
+         éléments sauf dans le cas où l’un des motifs suivant peut être invoqué, pièces à l’appui :
+
+         a) décès d'un parent immédiat : père, mère, frère, sœur, enfant ou conjoint;
+         b) maladie certifiée par un billet de médecin;
+         c) accouchement.
+         Pour chaque élément d’évaluation non réalisé, l’enseignant, à sa discrétion, peut exiger soit un examen
+         de compensation, soit un travail supplémentaire.
+
+6.5.3    Absence à un examen régulier
+
+         a) Examen durant la session :
+         Les examens durant la session excluent l’examen final. Si un étudiant ne se présente pas à un examen
+         régulier pour une raison énumérée précédemment et s’il en avertit par écrit le directeur de programme
+         concerné dans les cinq (5) jours ouvrables suivant la tenue de l’examen, le titulaire ou le remplaçant
+         désigné par le directeur de programme concerné est autorisé à modifier les modalités d’évaluation en
+         remplaçant l’examen régulier de la façon suivante :
+
+         •   Par un examen de compensation oral ou écrit dans un délai de dix (10) jours ouvrables.
+         •   Par toute autre forme d’évaluation pédagogique fixée par le titulaire du cours.
+         b) Examen final :
+         Une période en fin de session est strictement réservée à tous les examens finaux. Si un étudiant ne se
+         présente pas à un examen final pour une raison énumérée à l’article 6.5.2 de ce Règlement et s’il fournit
+         la preuve écrite au Bureau du registraire dans les cinq (5) jours ouvrables suivant la tenue de son
+         examen, le Bureau informe le titulaire du cours de l’absence autorisée et des modalités de
+         compensation.
+         Le résultat « RD » (report différé) est provisoirement attribué à l’étudiant dans son cours durant
+         l’attente de la note de l’examen final de compensation. Dans un cas d’absence autorisée, l’étudiant est
+         convoqué par le Bureau des services académiques à un examen final de compensation écrit au début de
+         la session suivante. La proportion de l’examen final de compensation dans la note globale de l’étudiant
+         dans le cours demeure identique à celle de l’examen final régulier.
+
+6.5.4    Remise d’un travail
+
+         a) Travail non remis
+
+         Si un étudiant, pour les motifs mentionnés à l’article 6.5.2, ne remet pas un travail à l'échéance
+         déterminée par le titulaire, le résultat « I » (résultat incomplet) lui est attribué pour ce cours.
+
+         b) Travail remis en retard
+
+         Tout travail (devoir pratique, rapport de laboratoire, rapport de projet, etc.) remis en retard sans motif
+         valable, c’est-à-dire autre que ceux mentionnés à l’article 6.5.2, se verra attribuer la note zéro, à moins
+         que d’autres dispositions soient communiquées par écrit par l’enseignant dans les consignes de chaque
+         travail à remettre ou dans le plan de cours pour l’ensemble des travaux.
+
+6.6     Exclusion
+
+6.6.1    Principe
+
+         Cette disposition exclut définitivement l'étudiant d’un programme de deuxième ou de troisième cycle ou
+         d’un programme de propédeutique auquel il est admis ou fait perdre définitivement à l'étudiant libre
+         son statut d'étudiant libre.
+
+         L’exclusion devient officielle lorsque l’avis écrit est transmis à l’étudiant par le Registraire et elle entre
+         en vigueur immédiatement.
+
+6.6.2    Motifs d’exclusion pour les étudiants dans un programme de deuxième ou de troisième cycle et pour
+         les étudiants en propédeutique
+
+         Nonobstant les autres dispositions du présent Règlement, l’étudiant régulier, dans un programme de
+         deuxième ou de troisième cycle, ou l’étudiant en propédeutique est exclu automatiquement dans les cas
+         suivants :
+
+         a) il a une moyenne cumulative inférieure à 2,5, obtenue après un minimum de neuf crédits
+            sanctionnés par une évaluation dans un programme de deuxième cycle ou après un minimum de six
+            crédits au troisième cycle, entraîne l'exclusion du programme;
+         b) il a une moyenne cumulative inférieure à 3,0, obtenue après un minimum de neuf crédits
+            sanctionnés par une évaluation dans un programme de propédeutique, entraîne l'exclusion du
+            programme;
+         c) il a obtenu un deuxième échec dans la même activité de son programme ou un échec dans plus
+            d’une activité de son programme;
+         d) il n’a pas satisfait dans les délais requis aux exigences imposées lors d’une admission conditionnelle;
+         e) il n’a pas obtenu d’autorisation d’absence alors qu’il n’avait pas droit à une absence non autorisée;
+         f)   il n’a pas satisfait à toutes les exigences de son programme d’études ou de sa propédeutique à
+              l’expiration du délai imposé par le présent Règlement et n’a pas obtenu de prolongation;
+         g) dans le cas d’un étudiant de deuxième cycle ou de propédeutique en vue d’une admission définitive
+            au deuxième cycle, il n’a pas rencontré les exigences relatives à la Politique linguistique;
+         h) sa moyenne cumulative est toujours inférieure à 3,0 après deux sessions de tutelle;
+         i)   la progression de ses activités de recherche est insatisfaisante, tel qu’en fait foi un rapport de son
+              directeur de recherche au Comité de programme;
+         j)   la thèse ou le mémoire a été rejeté avec la mention « E » (échec).
+
+6.7     Révision de la décision d’exclusion ou de suspension
+
+6.7.1    Demande
+
+         L’étudiant qui se croit lésé par une décision de suspension ou d’exclusion peut demander une révision
+         de cette décision en faisant valoir ses motifs par écrit auprès du Registraire dans les quinze jours
+         ouvrables suivant l’expédition de l’avis du Registraire.
+
+6.7.2    Comité de révision des exclusions
+
+         Si le Registraire juge la demande recevable, il convoque alors le Comité de révision des suspensions et
+         des exclusions formé du Doyen des études qui le préside et de trois membres du Comité de programme
+         concerné, dont le directeur du programme et le membre étudiant. Le Registraire agit comme secrétaire
+         du comité et en est membre à part entière.
+
+         Ni le professeur qui dirige l’activité de synthèse, le mémoire ou la thèse de l’étudiant, ni l’étudiant
+         concerné ne peuvent faire partie du comité.
+
+6.7.3    Rencontre avec le comité
+
+         L’étudiant peut, s’il le désire, rencontrer le comité. Il sera alors avisé par le Registraire du moment et du
+         lieu de la réunion du comité.
+
+         Par ailleurs, dans tous les cas où l’exclusion est liée à un rendement insuffisant dans l’activité de
+         synthèse, le mémoire ou la thèse, le comité doit rencontrer le professeur qui dirige l’étudiant.
+
+6.7.4    Décision du comité
+
+         Dès que possible, le Registraire fait connaître par écrit à l'étudiant et aux personnes concernées la
+         décision du comité. Cette décision est finale et sans appel.
+
+6.8     Résultats
+
+6.8.1    Relevé cumulatif des résultats
+
+         À la fin de chaque session, l’École rend disponible un relevé cumulatif des résultats obtenus par un
+         étudiant libre ou un étudiant régulier depuis le début de ses études dans son programme.
+6.8.2    Délai de remise
+
+         Dans les cinq jours ouvrables qui suivent la fin de la session concernée, les formulaires de remise des
+         résultats sont complétés et remis par le titulaire au Directeur de programme concerné, qui les vise et les
+         transmet au Registraire dans les cinq jours ouvrables suivants.
+
+6.9     Modification des résultats
+
+6.9.1    Délai
+
+         Les résultats indiqués sur le relevé de notes ne peuvent être modifiés que pendant les deux mois suivant
+         la publication des notes par le Bureau du registraire.
+
+6.9.2    Modification faite par le titulaire
+
+         Le titulaire d’un cours peut modifier des résultats d’évaluation déjà fournis en transmettant au
+         Registraire, dans les délais requis et sur le formulaire prévu, le résultat modifié, visé par le Directeur de
+         programme concerné.
+
+6.10 Révision de notes demandée par un étudiant
+
+6.10.1 Demande
+
+         Un étudiant peut demander que soit modifié tout résultat d’évaluation qui lui a été attribué à
+         l’exception de celui attribué par un jury.
+
+         Dans les quinze jours ouvrables suivant la publication d'un résultat de fin de session par le Registraire,
+         l'étudiant peut en demander la révision en suivant la procédure diffusée par l’École.
+
+         L’étudiant ayant subi un échec qui n’est pas satisfait du résultat de la procédure, dans les dix jours
+         ouvrables suivant la transmission par le Registraire de la décision du directeur de programme concerné,
+         peut adresser au Registraire une demande de révision de la note « E » en précisant les motifs de sa
+         demande.
+
+         Si les motifs sont jugés suffisants, le Registraire convoque dans les meilleurs délais le Comité de révision
+         des résultats. Il informe le titulaire concerné et l'étudiant requérant du lieu, de la date et de l'heure de la
+         rencontre du comité et les invite à rencontrer le comité. S'il juge que la demande n'est pas recevable, il
+         en avise immédiatement l'étudiant et le titulaire par écrit.
+
+6.10.2 Composition du Comité de révision des résultats
+
+         Le Comité de révision des résultats est le même que celui chargé de la révision des exclusions et il est
+         formé du Doyen des études qui le préside et de trois membres du Comité de programme, dont le
+         directeur du programme et le membre étudiant. Le Registraire agit comme secrétaire du comité et en
+         est membre à part entière.
+
+         Le titulaire concerné par la demande et l'étudiant requérant ne peuvent être membres du comité de
+         révision.
+6.10.3 Rôle du comité de révision des résultats
+
+       Le rôle du comité de révision des résultats consiste en un examen des aspects de l'évaluation (v.g. plan
+       de cours, pondération des étapes de l'évaluation, application de la méthode de notation du titulaire, ou
+       autre) et non en une réévaluation de l'étudiant pour le cours concerné.
+
+
+
+6.10.4 Décision du comité de révision des résultats
+
+       Dans les cinq jours ouvrables suivant la fin des travaux du comité, le Registraire transmet par écrit la
+       décision du comité à l'étudiant. La décision du comité peut être soit le maintien de l'échec (E), soit la
+       reprise d'un ou des éléments constituant les exigences d'évaluation du cours, soit l'utilisation de la
+       notation « S » lorsque le Comité juge que les objectifs de l’activité ont été atteints. Cette décision est
+       finale et sans appel.
+
+6.10.5 Révision négative
+
+       Une révision de résultats ne peut se faire dans le sens négatif, sauf si une erreur technique a été
+       commise lors de l'enregistrement des résultats.
+
+6.11 Modification de notes demandée par l'École
+
+       L'École peut exceptionnellement exiger que soient modifiés les résultats de l'évaluation dans un groupe
+       donné.
+
+6.11.1 Principes
+
+       Dans les meilleurs délais qui suivent la remise des notes au Registraire, le Doyen des études peut
+       demander que soient modifiés les résultats attribués dans un cours. Cette demande peut être formulée
+       quand des notes attribuées à un ou plusieurs étudiants d'un même cours présentent une ou des
+       caractéristiques pouvant remettre en question la qualité des enseignements ou l'évaluation des
+       étudiants.
+
+       Entre autres, lorsque :
+
+       a) tous les étudiants ont reçu la même note;
+       b) la moyenne des résultats attribués est trop distante de la moyenne probable ou normale d'un cours
+          ou d'une activité;
+       c) la mention « I » a été employée de façon systématique ou sans justification valable;
+       d) la mention « R » ou la note « S » ont été utilisées sans autorisation;
+       e) lorsque, de l'avis du Doyen des études, la situation académique justifie cette démarche pour un ou
+          plusieurs étudiants du cours.
+
+6.11.2 Étapes de cette modification
+
+       Les étapes de cette modification sont les suivantes :
+       a) Le Doyen des études communique avec le directeur de programme concerné, un représentant du
+          groupe d’étudiants et le titulaire du cours afin d'obtenir l'ensemble des informations relatives à
+          l'attribution des notes.
+       b) S'il le juge à propos, le Doyen des études transmet une demande de modification de notes
+          attribuées à un ou plusieurs étudiant(s) de ce cours au Comité de modification des résultats.
+       c) Le Comité de modification des résultats rencontre, s'il y a lieu, le titulaire concerné ou un
+          représentant du groupe d’étudiants, si l'un ou l'autre en manifeste le désir, et rend une décision.
+       d) Dans les dix jours ouvrables suivant la fin des travaux du comité, le Registraire fait part de la décision
+          du comité de modification aux intéressés. Cette décision est finale et sans appel.
+
+6.11.3 Composition du Comité de modification des résultats
+
+       Le Comité de modification des résultats est composé du Directeur des études et de la recherche qui le
+       préside, du Registraire qui agit comme secrétaire, d’un directeur de programme et d'un professeur
+       membre de la Commission des études.
+
+6.12 Travaux d’étudiants de l’École
+
+6.12.1 Propriété matérielle
+
+       L'École obtient la propriété matérielle des travaux des étudiants dès le moment de leur réception.
+       L'École n'est pas tenue de remettre à l'étudiant les travaux effectués par ce dernier dans le cadre de ses
+       études, laissant à la discrétion de chaque titulaire le choix de rendre ou non les travaux à l'étudiant
+       après l'expiration des délais prévus pour la révision et la modification des résultats.
+
+6.12.2 Propriété intellectuelle
+
+       La propriété intellectuelle des travaux et documents produits par les étudiants dans le cadre de leurs
+       études ou des projets auxquels ils participent ou collaborent est régie par la Politique et les règles de
+       l’École en matière de propriété intellectuelle.
+
+6.12.3 Responsabilité
+
+       L'École n'est aucunement responsable advenant une utilisation commerciale ou industrielle, commise
+       par une tierce partie à son insu, des travaux produits par un étudiant.
+
+CHAPITRE 7 : AUTORISATION D’ÉTUDES HORS ÉTABLISSEMENT
+
+7.1   Objectif
+
+       L'autorisation d'études hors établissement vise à permettre à l'étudiant régulier de l’École de suivre une
+       partie de son programme dans un autre établissement reconnu.
+
+7.2   Maximum permis
+
+       Dans le cadre d'un programme de deuxième ou de troisième cycle de l’École, un étudiant régulier peut
+       s’inscrire à un maximum de six crédits, sauf dans le cas d’un programme commun ou d’une entente
+       interétablissement qui autoriserait un nombre plus important d’activités à l’extérieur de l’École. Sauf
+       exception, cette possibilité de prendre un maximum de six crédits à l’extérieur de l’École n’est pas
+       cumulable avec la possibilité de prendre un maximum de six crédits de premier cycle prévue à l’article
+       4.2.5 du présent Règlement. Toute dérogation doit être autorisée par le Doyen des études.
+
+7.3   Décision de l'établissement d'accueil
+
+       En tant qu'établissement d'attache, l'École reconnaît à un établissement d'accueil le droit d'accepter ou
+       de refuser, en toute liberté, l'inscription d'un étudiant de l'École à l'une des activités qu'il offre. De
+       même, en tant qu'établissement d'accueil, l’École se réserve le même droit d'accepter ou de refuser
+       l'inscription d'un étudiant provenant d'un autre établissement.
+
+7.4   Équivalence des activités
+
+       Les activités suivies doivent équivaloir à des activités identifiées du programme auquel est admis
+       l'étudiant ou, dans le cas d’activités non identifiées du programme, être compatibles avec les objectifs
+       de formation du programme.
+
+7.5   Approbation et autorisation
+
+       Pour se prévaloir d'une autorisation d'études hors établissement, l'étudiant régulier doit obtenir
+       préalablement l'approbation du directeur de programme concerné et du Registraire, selon la procédure
+       en vigueur à l'École. Au doctorat et à la maîtrise avec mémoire, cette inscription doit être validée par le
+       directeur de recherche de l’étudiant.
+
+7.6   Délai d'acceptation des demandes de l'extérieur
+
+       À titre d'établissement d'accueil, l'École accepte les demandes d’études hors établissement jusqu'à la fin
+       de la période de modification d'inscription sans mention au relevé de notes.
+
+7.7   Paiement des frais
+
+       L'étudiant est tenu de verser les droits de scolarité et les autres frais afférents à l'établissement
+       d'attache, selon les barèmes et les modalités en vigueur dans cet établissement.
+
+7.8   Résultats
+
+       Les résultats obtenus par l'étudiant sont transmis par l'établissement d'accueil au Registraire de l’École.
+       S'ils n'apparaissent pas sous la forme littérale en vigueur à l'École, le Registraire les convertit sous forme
+       de notation littérale selon un barème établi ou inscrit la notation « V » ou « E » le cas échéant.
+
+7.9   Relevé de notes
+
+       Les activités suivies et les résultats obtenus dans l'établissement d'accueil de même que le nom de ce
+       dernier apparaissent sur le relevé de notes de l'étudiant à l’École. Ces résultats ainsi que le nombre de
+       crédits y correspondant sont utilisés dans le calcul de la moyenne cumulative, à l'exception des résultats
+       inscrits avec la notation « V ».
+
+7.10 Droit de révision
+
+       Tout étudiant de l'École s'étant vu refuser l'approbation et l'autorisation à des études hors
+       établissement prévues au présent chapitre peut faire réviser la décision rendue en s'adressant par écrit
+       au Doyen des études. Sa demande doit indiquer les motifs qui, selon lui, justifient un changement de la
+       décision. La décision du Doyen est finale et sans appel.
+
+CHAPITRE 8     PLAGIAT ET FRAUDE
+
+Abrogé et remplacé par le Règlement sur les infractions de nature académique le 27 avril 2016 en vertu de la
+résolution du CA-331-3487
+
+CHAPITRE 9 : PROGRAMME COURT DE DEUXIÈME CYCLE
+
+9.1   Structure générale
+
+       Un programme court de deuxième cycle comporte généralement 15 crédits de cours, mais pourrait en
+       compter entre 9 et 18. Il se situe normalement dans un cadre de perfectionnement et se réalise
+       généralement à temps partiel.
+
+9.2   Durée des études
+
+       La durée maximale des études dans un programme court est et de sept sessions, calculée à compter de
+       la première inscription au programme, et sans prolongation possible.
+
+9.3   Conditions d’admission
+
+       Les conditions d’admission à un programme court de 2e cycle sont précisées dans la description de
+       chaque programme qui apparaît à l’Annuaire, sous réserve des modifications adoptées par la
+       Commission des études en cours d’année, lesquelles sont reflétées sur le site web de l’École.
+
+9.4   Absences
+
+       À compter de sa deuxième session d’inscription au programme, l’étudiant d’un programme court peut
+       faire une demande d’absence autorisée lorsque requis ou se servir d’absences non autorisées pour
+       interrompre temporairement ses études.
+
+9.5   Attestation de programme court de 2e cycle
+
+       Pour obtenir une attestation de programme court de 2e cycle, l’étudiant doit avoir satisfait à toutes les
+       exigences de son programme, telles que définies à l’Annuaire, avec une moyenne cumulative d’au moins
+       2,8 sur 4,3.
+
+CHAPITRE 10 : DIPLÔME D’ÉTUDES SUPÉRIEURES SPÉCIALISÉES (DESS)
+
+10.1 Structure générale
+
+       Le diplôme d’études supérieures spécialisées est un programme d’études qui comporte généralement
+       30 crédits, mais qui pourrait en compter entre 24 et 30, composé de cours seulement ou de cours et
+       d’une activité de synthèse.
+
+10.2 Durée des études
+
+       La durée maximale des études dans un DESS est de 4 sessions (1 an et un tiers) à temps complet ou 8
+       sessions (2 ans et deux tiers) à temps partiel, calculée à compter de la première inscription au
+       programme. Pour continuer ses études au-delà de cette période, l’étudiant devra faire une demande de
+       prolongation, conformément à l’article 4.5.
+
+10.3 Conditions d’admission
+
+       Les conditions d’admission à un diplôme d’études supérieures spécialisées (DESS) sont précisées dans la
+       description de chaque programme qui apparaît à l’Annuaire, sous réserve des modifications adoptées
+       par la Commission des études en cours d’année, lesquelles sont reflétées sur le site web de l’École.
+
+10.4 Absences
+
+       À compter de sa deuxième session d’inscription au programme, l’étudiant d’un DESS peut faire une
+       demande d’absence autorisée lorsque requis ou se servir d’absences non autorisées pour interrompre
+       temporairement ses études.
+
+10.5 Direction de l’activité de synthèse
+
+       La direction de l’activité de synthèse est assumée par un professeur régulier qui satisfait aux règles
+       d'habilitation. L'École accepte que d'autres personnes, notamment des professeurs d’autres universités
+       ou des experts de l’industrie interviennent comme codirecteur. Ces personnes doivent répondre aux
+       critères d’habilitation en vigueur à l’École décrits au chapitre 2 du présent règlement et obtenir
+       l’approbation du Doyen des études.
+
+10.6 Rôle du directeur de l’activité de synthèse
+
+       Le directeur d’activité de synthèse :
+
+            •   supervise l’étudiant dans ses travaux (assistance dans la définition du sujet de son activité de
+                synthèse, démarche scientifique/technologique, règles de déontologie, confidentialité des
+                données, etc.);
+
+            •   veille au respect des règles de rédaction et de présentation en vigueur;
+
+            •   s’assure de la qualité linguistique du rapport avant d’en autoriser le dépôt;
+
+            •   évalue l’étudiant tout au long du travail;
+
+            •   autorise le dépôt officiel du rapport d’activité de synthèse;
+
+            •   veille à la réalisation des corrections requises suite à l’évaluation, le cas échéant.
+
+10.7 Changement de directeur d’activité de synthèse
+
+       Tout changement de directeur est considérée comme exceptionnel et doit s’appuyer sur des motifs
+       valables. Dans tous les cas de changement de directeur, les règles prévues au présent Règlement
+       s’appliquent.
+
+       Ce changement devient officiel lorsque le formulaire prévu à cette fin est dûment complété et porte les
+       signatures de l’étudiant, de l’ancien et du nouveau directeur, de l’ancien et du nouveau codirecteur s’il y
+       a lieu, et du doyen des études.
+10.8 Réservation du sujet
+
+       Sauf circonstances exceptionnelles, l’étudiant conserve son sujet d’activité de synthèse tant qu’il est
+       inscrit à son programme d’études avec le même directeur.
+
+10.9 Modification du sujet de l’activité de synthèse
+
+       Toute modification du sujet est considérée comme exceptionnelle et doit s’appuyer sur des motifs
+       valables. Dans tous les cas de modification du sujet, les règles prévues au présent Règlement
+       s’appliquent.
+
+       La modification du sujet d’une activité de synthèse devient officielle lorsqu’un nouveau formulaire
+       d’identification du sujet est dûment complété et porte les signatures de l’étudiant, du directeur et du
+       codirecteur s’il y a lieu.
+
+10.10 Rédaction du rapport d’activité de synthèse
+
+10.10.1 Auteur
+
+       Le rapport d’activité de synthèse est le résultat du travail d’un seul étudiant.
+
+10.10.2 Langue de rédaction
+
+       Le rapport doit être rédigé en français, selon les règles de rédaction et de présentation en vigueur en
+       cette matière à l’École.
+
+       Il revient au directeur d’activité de synthèse de s’assurer de la qualité linguistique des rapports dont il
+       autorise le dépôt.
+
+10.10.3 Autre langue que le français
+
+       Exceptionnellement, sur demande motivée de l’étudiant avec acceptation du directeur d’activité de
+       synthèse, le doyen des études peut autoriser un étudiant à présenter son travail dans une autre langue
+       que le français. En un tel cas, le document doit inclure un résumé rédigé en français.
+
+10.11 Cheminement dans l’activité de synthèse de 6 crédits
+
+10.11.1 Inscription
+
+       L’étudiant peut s’inscrire à l’activité de synthèse de 6 crédits une fois qu’il a complété au moins 18
+       crédits de cours de son programme.
+
+       Il doit obligatoirement déposer le formulaire identifiant son directeur, son codirecteur s’il y a lieu, et son
+       sujet d’activité de synthèse. En cas d’omission, l’étudiant peut être suspendu de son programme par le
+       doyen des études; si, au terme d’une session de suspension, l’étudiant n’a toujours pas identifié un
+       directeur d’activité de synthèse, il sera exclu du programme.
+
+       Ces choix deviennent officiels lorsqu’ils sont enregistrés au dossier de l’étudiant par le Décanat des
+       études.
+10.11.2 Dépôt du rapport
+
+        L’étudiant bénéficie de deux sessions pour compléter son activité de synthèse et déposer son rapport en
+        suivant la procédure diffusée par le Décanat des études.
+
+10.11.3 Évaluation du rapport
+
+        Le rapport est évalué par le professeur qui a assuré la direction de l’activité de synthèse et par le
+        codirecteur s’il y a lieu. Il doit consigner l’une des mentions suivantes : excellent, très bien, bien,
+        passable, échec.
+
+        L’échec à cette activité de synthèse n’entraîne pas l’exclusion du programme.
+
+        L’étudiant qui s’estime lésé par l’évaluation de son rapport peut recourir à la procédure de modification
+        de note, conformément à l’article 6.10.
+
+10.12 Cheminement dans l’activité de synthèse de 9 ou 15 crédits
+
+10.12.1 Inscription
+
+        L’étudiant peut s’inscrire à l’activité de synthèse de 9 ou 15 crédits une fois qu’il a complété au moins six
+        (6) crédits de cours de son programme.
+
+10.12.2 Choix du directeur et inscription du sujet de l’activité de synthèse
+
+        Tout étudiant qui souhaite réaliser une activité de synthèse de 9 ou 15 crédits doit obligatoirement
+        déposer le formulaire identifiant son directeur, son codirecteur s’il y a lieu, et son sujet d’activité de
+        synthèse AVANT de s’inscrire aux six derniers crédits de sa scolarité. En cas d’omission, l’étudiant peut
+        être suspendu de son programme par le doyen des études; si, au terme d’une session de suspension,
+        l’étudiant n’a toujours pas identifié un directeur d’activité de synthèse, il sera exclu du programme.
+
+        Ces choix deviennent officiels lorsqu’ils sont enregistrés au dossier de l’étudiant par le Décanat des
+        études.
+
+10.12.3 Progression et échéancier de réalisation
+
+        Le cheminement de l’étudiant dans le cadre de son activité de synthèse et l’échéancier de travail sont
+        établis conjointement par l’étudiant et son directeur d’activité de synthèse.
+
+10.12.4 Dépôt officiel du rapport
+
+10.12.4.1 Conditions de dépôt
+
+        Pour avoir le droit de déposer son rapport, l’étudiant régulier d’un DESS doit :
+
+            •    avoir terminé les activités de scolarité prévues;
+
+            •    avoir obtenu une moyenne cumulative égale ou supérieure à 2,8;
+
+            •    avoir obtenu de son directeur d’activité de synthèse l’autorisation de déposer son travail.
+       Le directeur d’activité de synthèse pourrait refuser le dépôt si la qualité de la langue n’est pas
+       satisfaisante.
+
+10.12.4.2 Autorisation de dépôt
+
+       Le directeur d’activité de synthèse est la personne habilitée à autoriser le dépôt officiel du rapport
+       d’activité de synthèse d’un étudiant, sauf exception mentionnée dans le présent Règlement. Avec
+       l’autorisation du dépôt, il suggère les noms du ou des autres membres du jury d’évaluation, en tenant
+       compte des règles qui déterminent sa composition définie dans le présent Règlement. Le directeur
+       d’activité de synthèse doit s’assurer de la disponibilité du ou des membres qu’il propose.
+
+       Une fois le dépôt autorisé, l’étudiant procède au dépôt en suivant les procédures diffusées par le
+       Décanat des études.
+
+       Normalement, l’autorisation de dépôt témoigne de la valeur scientifique/technologique du travail
+       réalisé par l’étudiant, de la qualité de rédaction et du respect des normes de présentation.
+
+10.12.4.3 Litige et autorisation exceptionnelle de dépôt
+
+       Exceptionnellement, le doyen des études peut, en cas de litige entre le directeur d’activité de synthèse
+       et l’étudiant, demander à un autre professeur du domaine de lire le rapport en vue d’en autoriser le
+       dépôt. Si ce dernier autorise le dépôt, il remplacera automatiquement le directeur comme membre du
+       jury d’évaluation du rapport.
+
+10.13 Confidentialité du document
+
+       Si l'auteur d'un rapport d’activité de synthèse et son directeur sont d'avis que le document devrait, pour
+       des motifs sérieux, demeurer totalement ou partiellement confidentiel, il en informe le Décanat des
+       études au moment du dépôt.
+
+       Lorsqu'un rapport doit demeurer partiellement ou totalement confidentiel, il incombe au Décanat des
+       études, en collaboration avec le Décanat de la recherche et tout autre service concerné, de prendre les
+       dispositions nécessaires à la préservation de cette confidentialité.
+
+10.14 Évaluation d’un rapport d’activité de synthèse de 9 crédits ou 15 crédits
+
+10.14.1 Principe
+
+       L’évaluation du rapport résultant de l’activité de synthèse de 9 crédits ou 15 crédits se fait en une seule
+       étape sans appréciation ou décision intermédiaire et sans présentation orale. Cette évaluation est
+       effectuée par un jury.
+
+       L’échec à l’activité de synthèse n’entraîne pas l’exclusion du programme.
+
+10.14.2 Jury d’évaluation (activité de synthèse de 9 ou 15 crédits)
+
+       Le jury doit être composé du directeur d’activité de synthèse et d’un autre professeur régulier de l’École.
+       Dans le cas d’un travail codirigé, le jury d’évaluation peut comprendre, en sus des autres membres, le
+       codirecteur d’activité de synthèse.
+
+       La nomination des membres du jury d’évaluation est effectuée par le Doyen des études sur
+       recommandation du directeur de l’activité de synthèse.
+
+10.14.3 Documents utilisés pour l’évaluation
+
+       Le Décanat des études est la seule instance autorisée à distribuer aux membres du jury les documents
+       requis pour l’évaluation.
+
+10.14.4 Recommandation individuelle des membres
+
+       Chacun des membres du jury doit consigner sur le formulaire d'évaluation fourni l'une des
+       recommandations suivantes :
+
+       •   acceptation définitive du travail (succès) avec l’une des mentions suivantes : excellent, très bien,
+           bien, passable. Si cette recommandation est unanime, le Décanat des études certifie que l’étudiant a
+           complété avec succès son activité de synthèse et transmet la note globale de l’évaluation
+           directement au registraire pour fins de certification.
+       •   rejet du travail (échec). Si cette recommandation est unanime, le décanat des études informe le
+           Registraire que l’étudiant reçoit la note « E » échec pour son activité de synthèse.
+
+
+       Dans le cas où les membres du jury sont unanimes dans leur recommandation globale ou en arrivent à
+       un consensus après avoir été contactés par le directeur d’activité de synthèse, leur avis est décisionnel
+       et sans appel.
+
+10.14.5 Désaccord sur la recommandation
+
+       Lorsque les évaluateurs sont en désaccord dans leur recommandation globale, leur avis n’est pas
+       décisionnel. Dans ce cas, les trois personnes suivantes prennent un avis décisionnel à la majorité des
+       voix : le directeur d’activité de synthèse, le directeur de programme et le professeur régulier membre du
+       jury initial.
+
+       L’avis décisionnel est final et sans appel.
+
+10.15 Diffusion et utilisation des travaux
+
+       L’étudiant qui envisage de diffuser ou utiliser, commercialement ou non, les travaux dont il est l'auteur
+       ou le coauteur doit s’informer auprès du Décanat de la recherche sur la Politique et les règles de l’École
+       en matière de propriété intellectuelle.
+
+       Un étudiant qui veut publier une partie ou la totalité de son rapport avant qu’il n’ait été évalué doit
+       obtenir au préalable une autorisation formelle et écrite de son directeur d’activité de synthèse.
+
+10.16 Dégagement de la responsabilité de l’École
+
+       L'École ne sera aucunement responsable d'une utilisation commerciale, industrielle ou autre du travail
+       d'un étudiant par une tierce partie à son insu.
+10.17 Plainte de l’étudiant
+
+       Dans le cas d'un désaccord profond et dans la mesure où l’étudiant a épuisé les autres possibilités de
+       rencontre et de discussion avec les responsables concernés, tout étudiant s'estimant lésé en ce qui a
+       trait à la direction de son travail peut formuler une plainte auprès du Doyen des études. Cette plainte
+       doit être acheminée par lettre ou par courriel au Doyen des études avec copie conforme au directeur de
+       l’activité de synthèse et au directeur de programme concerné. Après consultation, le Doyen des études
+       émettra un avis décisionnel.
+
+10.18 Diplômation
+
+       Pour obtenir un diplôme d’études supérieures spécialisées, l’étudiant doit avoir satisfait à toutes les
+       exigences de son programmes, telles que définies à l’Annuaire, avec une moyenne cumulative d’au-
+       moins 2,8 sur 4,3.
+
+CHAPITRE 11 : MAÎTRISE SANS MÉMOIRE
+
+11.1 Structure générale
+
+       La maîtrise SANS mémoire est un programme d’études qui compte 45 crédits, offert avec une ou des
+       activités de synthèse d’une valeur totale d’au moins six (6) crédits.
+
+11.2 Durée des études
+
+       La durée maximale des études pour un programme de maîtrise SANS mémoire est de six sessions (2 ans)
+       à temps complet et de 12 sessions (4 ans) à temps partiel, calculée à compter de la première inscription
+       au programme. Pour continuer ses études au-delà de cette période, l’étudiant devra faire une demande
+       de prolongation, conformément à l’article 4.5.
+
+11.3 Admission
+
+       Les conditions d’admission à un programme de maîtrise sans mémoire sont précisées dans la description
+       de chaque programme qui apparaît à l’annuaire, sous réserve des modifications adoptées par la
+       Commission des études en cours d’années, lesquelles sont reflétées sur le site web de l’École.
+
+11.4 Absences
+
+       À compter de sa deuxième session d’inscription au programme, l’étudiant d’un programme de maîtrise
+       SANS mémoire peut faire une demande d’absence autorisée lorsque requis ou se servir d’absences non
+       autorisées pour interrompre temporairement ses études.
+
+11.5 Direction de l’activité de synthèse
+
+       La direction de l’activité de synthèse est assumée par un professeur régulier qui satisfait aux règles
+       d'habilitation. L'École accepte que d'autres personnes, notamment des professeurs d’autres universités
+       ou des experts de l’industrie interviennent comme codirecteur. Ces personnes doivent répondre aux
+       critères d’habilitation en vigueur à l’École décrits au chapitre 2 du présent règlement et obtenir
+       l’approbation du Doyen des études.
+11.6 Rôle du directeur d’activité de synthèse
+
+        Le directeur d’activité de synthèse :
+
+        •   supervise l’étudiant dans ses travaux (assistance dans la définition du sujet de son activité de
+            synthèse, démarche scientifique/technologique, règles de déontologie, confidentialité des données,
+            etc.);
+        •   veille au respect des règles de rédaction et de présentation en vigueur;
+        •   s’assure de la qualité linguistique du travail avant d’en autoriser le dépôt;
+        •   évalue l’étudiant tout au long du travail;
+        •   autorise le dépôt officiel du rapport de projet;
+        •   veille à la réalisation des corrections requises suite à l’évaluation.
+
+11.7 Changement de directeur d’activité de synthèse
+
+        Tout changement de directeur est considéré comme exceptionnel et doit s’appuyer sur des motifs
+        valables. Dans tous les cas de changement de directeur, les règles prévues au présent Règlement
+        s’appliquent.
+
+        Le changement de directeur d’une activité de synthèse devient officiel lorsque le formulaire prévu à
+        cette fin est dûment complété et porte les signatures de l’étudiant, de l’ancien et du nouveau directeur,
+        de l’ancien et du nouveau codirecteur s’il y a lieu, et du doyen des études.
+
+11.8 Réservation du sujet
+
+        Sauf circonstances exceptionnelles, l’étudiant conserve son sujet d’activité de synthèse tant qu’il est
+        inscrit à son programme d’études avec le même directeur.
+
+11.9 Modification du sujet de l’activité de synthèse
+
+        Toute modification du sujet est considérée comme exceptionnelle et doit s’appuyer sur des motifs
+        valables. Dans tous les cas de modification du sujet, les règles prévues au présent Règlement
+        s’appliquent.
+
+        La modification du sujet d’une activité de synthèse devient officielle lorsqu’un nouveau formulaire
+        d’identification du sujet est dûment complété et porte les signatures de l’étudiant, du directeur, du
+        codirecteur s’il y a lieu.
+
+11.10 Restriction dans la poursuite des études : la tutelle
+
+11.10.1 Principe
+
+        L'étudiant régulier d’un programme de maîtrise dont le rendement trimestriel est jugé insatisfaisant
+        peut être assujetti à certaines restrictions dans la poursuite de son programme de maîtrise.
+11.10.2 Moyenne exigée
+
+       Après 9 crédits sanctionnés par une évaluation dans un programme de maîtrise, l'étudiant régulier dont
+       la moyenne cumulative est égale ou supérieure à 2,50 mais inférieure à 3,00 peut être assujetti à
+       certaines restrictions dans la poursuite de ses études selon les modalités énoncées ci-après.
+
+       a) Dès que la moyenne cumulative d'un étudiant se situe entre 2,5 et 3,0 sur 4,3, il en est avisé par le
+          Registraire. Il doit alors rencontrer le directeur de programme, conjointement avec le directeur
+          d’activité de synthèse s’il est identifié dans les dix jours ouvrables suivant la réception de cet avis.
+       b) Dans un premier temps, le directeur de programme impose à l'étudiant des restrictions dans le choix
+          des activités de la session suivante.
+       c) Après cette première étape, si la moyenne cumulative se situe toujours entre 2,5 et 3,0, l'étudiant
+          ne peut s'inscrire à de nouvelles activités et, s'il désire poursuivre son programme, il doit se
+          réinscrire à des activités déjà suivies pour améliorer ses résultats. Cette éventualité n'entraîne pas
+          pour cet étudiant de prolongation de la durée maximale permise pour compléter son programme
+          d’études.
+       d) Si, après deux sessions de tutelle, l’étudiant n’a pas atteint une moyenne de 3,0, il est exclu du
+          programme; l’étudiant qui a une moyenne d’au moins 2,8 pourra passer au DESS ou au programme
+          court de 2e cycle de son domaine d’études.
+
+11.11 Rédaction du rapport d’activité de synthèse
+
+11.11.1 Auteur
+
+       Le rapport d’activité de synthèse est le résultat du travail d’un seul étudiant.
+
+11.11.2 Langue de rédaction
+
+       Le rapport doit être rédigé en français, selon les règles de rédaction et de présentation en vigueur en
+       cette matière à l’École.
+
+       Il revient au directeur d’activité de synthèse de s’assurer de la qualité linguistique des rapports dont il
+       autorise le dépôt.
+
+11.11.3 Autre langue que le français
+
+       Exceptionnellement, sur demande motivée de l’étudiant avec acceptation du directeur d’activité de
+       synthèse, le doyen des études peut autoriser un étudiant à présenter son travail dans une autre langue
+       que le français. En un tel cas, le document doit inclure un résumé rédigé en français.
+
+11.12 Cheminement dans l’activité de synthèse de 6 crédits
+
+11.12.1 Inscription
+
+       L’étudiant de maîtrise peut s’inscrire à l’activité de synthèse de 6 crédits une fois qu’il a complété au
+       moins 27 crédits de cours de son programme de maîtrise, à moins d’autorisation du directeur de son
+       programme.
+        Il doit obligatoirement déposer le formulaire identifiant son directeur, son codirecteur s’il y a lieu, et son
+        sujet d’activité de synthèse. En cas d’omission, l’étudiant peut être suspendu de son programme par le
+        doyen des études; si, au terme d’une session de suspension, l’étudiant n’a toujours pas identifié un
+        directeur d’activité de synthèse, il sera exclu du programme.
+
+        Ces choix deviennent officiels lorsqu’ils sont enregistrés au dossier de l’étudiant par le Décanat des
+        études.
+
+11.12.2 Dépôt du rapport
+
+        L’étudiant bénéficie de deux sessions pour compléter son activité de synthèse et déposer son rapport en
+        suivant la procédure diffusée par le Décanat des études.
+
+11.12.3 Évaluation du rapport
+
+        Le rapport est évalué par le professeur qui a assuré la direction de l’activité de synthèse et par le
+        codirecteur s’il y a lieu. Il doit consigner l’une des mentions suivantes : excellent, très bien, bien,
+        passable, échec.
+
+        L’échec à cette activité de synthèse n’entraîne pas l’exclusion du programme.
+
+        L’étudiant qui s’estime lésé par l’évaluation de son rapport peut recourir à la procédure de modification
+        de note, conformément à l’article 6.10.
+
+11.13 Cheminement dans l’activité de synthèse de 9 ou 15 crédits
+
+11.13.1 Inscription
+
+        L’étudiant peut s’inscrire à l’activité de synthèse de 9 ou 15 crédits une fois qu’il a complété au moins
+        quinze (15) crédits de cours de son programme.
+
+11.13.2 Choix du directeur et inscription du sujet de l’activité de synthèse
+
+
+
+        Tout étudiant inscrit à un programme de maîtrise, profil SANS mémoire, qui désire réaliser une activité
+        de synthèse de 9 ou 15 crédits, doit obligatoirement déposer le formulaire identifiant son directeur, son
+        codirecteur s’il y a lieu, et son sujet d’activité de synthèse AVANT de s’inscrire aux six derniers crédits de
+        sa scolarité. En cas d’omission, l’étudiant peut être suspendu de son programme par le doyen des
+        études; si, au terme d’une session de suspension, l’étudiant n’a toujours pas identifié un directeur
+        d’activité de synthèse, il sera exclu du programme.
+
+        Ces choix deviennent officiels lorsqu’ils sont enregistrés au dossier de l’étudiant par le Décanat des
+        études.
+
+11.13.3 Progression et échéancier de réalisation
+
+        Le cheminement de l’étudiant dans le cadre de son activité de synthèse et l’échéancier de travail sont
+        établis conjointement par l’étudiant et son directeur d’activité de synthèse.
+11.13.4 Dépôt officiel du rapport d’activité de synthèse de 9 ou 15 crédits
+
+11.13.4.1 Conditions de dépôt
+
+       Pour avoir le droit de déposer son rapport, l’étudiant régulier doit :
+
+       •   avoir terminé les activités de scolarité prévues;
+       •   avoir obtenu une moyenne cumulative égale ou supérieure à 3,0;
+       •   avoir obtenu de son directeur d’activité de synthèse l’autorisation de déposer son travail.
+
+
+       Le directeur d’activité de synthèse pourrait refuser le dépôt si la qualité de la langue n’est pas
+       satisfaisante.
+
+11.13.4.2 Autorisation de dépôt
+
+       Le directeur d’activité de synthèse est la personne habilitée à autoriser le dépôt officiel du rapport d’un
+       étudiant, sauf exception mentionnée dans le présent Règlement. Avec l’autorisation du dépôt, il suggère
+       les noms du ou des autres membres du jury d’évaluation, en tenant compte des règles qui déterminent
+       sa composition définie dans le présent Règlement. Le directeur d’activité de synthèse doit s’assurer de la
+       disponibilité du ou des membres qu’il propose.
+
+       Une fois le dépôt autorisé, l’étudiant procède au dépôt en suivant les procédures diffusées par le
+       Décanat des études.
+
+       L’autorisation de dépôt témoigne de la valeur scientifique/technologique du travail réalisé par
+       l’étudiant, de la qualité de rédaction et du respect des normes de présentation.
+
+11.13.4.3 Litige et autorisation exceptionnelle de dépôt
+
+       Exceptionnellement, le doyen des études peut, en cas de litige entre le directeur d’activité de synthèse
+       et l’étudiant, demander à un autre professeur du domaine de lire le rapport en vue d’en autoriser le
+       dépôt. Si ce dernier autorise le dépôt, il remplacera automatiquement le directeur comme membre du
+       jury d’évaluation du rapport.
+
+11.14 Confidentialité du document
+
+       Si l'auteur d'un rapport d’activité de synthèse et son directeur sont d'avis que le document devrait, pour
+       des motifs sérieux, demeurer totalement ou partiellement confidentiel, il en informe le Décanat des
+       études au moment du dépôt.
+
+       Lorsqu'un rapport doit demeurer partiellement ou totalement confidentiel, il incombe au Décanat des
+       études, en collaboration avec le Décanat de la recherche et tout autre service concerné, de prendre les
+       dispositions nécessaires à la préservation de cette confidentialité.
+11.15 Évaluation d’un rapport d’activité de synthèse de 9 crédits ou 15 crédits
+
+11.15.1 Principe
+
+       L’évaluation du rapport résultant de l’activité de synthèse de 9 crédits ou 15 crédits se fait en une seule
+       étape sans appréciation ou décision intermédiaire et sans présentation orale. Cette évaluation est
+       effectuée par un jury.
+
+       L’échec à l’activité de synthèse n’entraîne pas l’exclusion du programme.
+
+11.15.2 Jury d’évaluation (activité de synthèse de 9 ou 15 crédits)
+
+       Le jury doit être composé du directeur d’activité de synthèse et d’un autre professeur régulier de l’École.
+
+       Dans le cas d’un travail codirigé, le jury d’évaluation peut comprendre, en sus des autres membres, le
+       codirecteur d’activité de synthèse.
+
+       La nomination des membres du jury d’évaluation est effectuée par le Doyen des études sur
+       recommandation du directeur de l’activité de synthèse.
+
+11.15.3 Documents utilisés pour l’évaluation
+
+       Le Décanat des études est la seule instance autorisée à distribuer aux membres du jury les documents
+       requis pour l’évaluation.
+
+11.15.4 Recommandation individuelle des membres
+
+       Chacun des membres du jury doit consigner sur le formulaire d'évaluation fourni l'une des
+       recommandations suivantes :
+
+       •   acceptation définitive du travail (succès) avec l’une des mentions suivantes : excellent, très bien,
+           bien, passable. Si cette recommandation est unanime, le Décanat des études certifie que l’étudiant a
+           complété avec succès son activité de synthèse et transmet la note globale de l’évaluation du travail;
+       •   rejet du travail (échec). Si cette recommandation est unanime, le décanat des études informe le
+           Registraire que l’étudiant reçoit la note « E » échec pour son activité de synthèse.
+
+
+       Dans le cas où les membres du jury sont unanimes dans leur recommandation globale ou en arrivent à
+       un consensus après avoir été contactés par le directeur d’activité de synthèse, leur avis est décisionnel
+       et sans appel.
+
+11.15.5 Désaccord sur la recommandation
+
+       Lorsque les évaluateurs sont en désaccord dans leur recommandation globale, leur avis n’est pas
+       décisionnel. Dans ce cas, les trois personnes suivantes prennent un avis décisionnel à la majorité des
+       voix : le directeur d’activité de synthèse, le directeur de programme et le professeur régulier membre du
+       jury initial.
+
+       L’avis décisionnel est final et sans appel.
+11.16 Diffusion et utilisation des travaux
+
+       L’étudiant qui envisage de diffuser ou utiliser, commercialement ou non, les travaux dont il est l'auteur
+       ou le coauteur doit s’informer auprès du Décanat de la recherche sur la Politique et les règles de l’École
+       en matière de propriété intellectuelle.
+
+       Un étudiant qui veut publier une partie ou la totalité de son rapport d’activité de synthèse avant qu’il ne
+       soit évalué doit obtenir au préalable une autorisation formelle et écrite de son directeur d’activité de
+       synthèse.
+
+11.17 Dégagement de la responsabilité de l’École
+
+       L'École ne sera aucunement responsable d'une utilisation commerciale, industrielle ou autre du travail
+       d'un étudiant par une tierce partie à son insu.
+
+11.18 Plainte de l’étudiant
+
+       Dans le cas d'un désaccord profond et dans la mesure où l’étudiant a épuisé les autres possibilités de
+       rencontre et de discussion avec les responsables concernés, tout étudiant s'estimant lésé en ce qui a
+       trait à la direction de son travail, peut formuler une plainte auprès du Doyen des études. Cette plainte
+       doit être acheminée par lettre ou par courriel au Doyen des études avec copie conforme au directeur de
+       l’activité de synthèse et au directeur de programme concerné. Après consultation, le Doyen des études
+       émettra un avis décisionnel.
+
+11.19 Diplômation
+
+       Pour obtenir un diplôme de maîtrise, profil sans mémoire, l’étudiant doit avoir satisfait à toutes les
+       exigences de son programmes, telles que définies à l’Annuaire, avec une moyenne cumulative d’au-
+       moins 3,0 sur 4,3.
+
+CHAPITRE 12 : MAÎTRISE AVEC MÉMOIRE
+
+12.1 Structure générale
+
+       La maîtrise AVEC mémoire est un programme d’études qui compte 45 crédits, incluant la réalisation d’un
+       mémoire pouvant compter de 21 à 30 crédits. Il s’agit d’un programme d’initiation à la recherche.
+
+12.2 Durée des études
+
+       La durée maximale des études pour un programme de maîtrise AVEC mémoire est de six sessions (2 ans)
+       à temps complet et de 12 sessions (4 ans) à temps partiel, calculée à compter de la première inscription
+       au programme. Pour continuer ses études au-delà de cette période, l’étudiant devra faire une demande
+       de prolongation, conformément à l’article 4.5.
+
+12.3 Régime d’études
+
+       a) L’étudiant de maîtrise avec mémoire doit s’engager à s’inscrire à temps complet à chaque session
+          dès son admission; exceptionnellement, l’étudiant qui souhaite s’inscrire plutôt à temps partiel
+          pourrait être admis à la condition de faire une démonstration satisfaisante de conditions favorables
+           lui permettant de travailler tout en complétant son programme, notamment par l’appui de son
+           employeur. L’admission à temps partiel pourrait être refusée.
+       b) L’étudiant de maîtrise avec mémoire admis à temps complet qui souhaite changer pour le statut de
+          temps partiel doit faire la même démonstration de conditions favorables, tel que mentionné à
+          l’alinéa précédent. Le changement de statut pourrait être refusé.
+
+12.4 Admission
+
+       Les conditions d’admission à la maîtrise avec mémoire sont précisées dans la description de chaque
+       programme qui apparaît à l’Annuaire, sous réserve des modifications adoptées par la Commission des
+       études en cours d’année, lesquelles sont reflétées sur le site web de l’École.
+
+12.5 Absences
+
+       L’étudiant d’un programme de maîtrise AVEC mémoire peut faire une demande d’absence autorisée
+       lorsque requis. Cependant, il ne peut se prévaloir d’aucune absence non autorisée. Advenant un tel cas,
+       son dossier sera automatiquement fermé.
+
+12.6 Plan d’études
+
+       L’étudiant d’un programme avec mémoire doit faire approuver un plan d’études par son directeur de
+       recherche avant de procéder à sa 2e inscription au programme; dès la 2e inscription, le choix d’activité
+       devrait être effectué en fonction du plan d’études convenu.
+
+12.7 Direction de recherche
+
+       La direction de la recherche est assumée par un professeur régulier qui satisfait aux règles d'habilitation.
+       L'École accepte que d'autres personnes, notamment des professeurs d’autres universités ou des experts
+       de l’industrie interviennent comme codirecteur. Ces personnes doivent répondre aux critères
+       d’habilitation en vigueur à l’École décrits au chapitre 2 du présent règlement et obtenir l’approbation du
+       Doyen des études.
+
+12.8 Rôle du directeur de recherche
+
+       Le directeur de recherche :
+
+       •   approuve le plan d’études de l’étudiant;
+       •   supervise l’étudiant dans ses travaux (assistance dans la définition du sujet de mémoire, démarche
+           scientifique/technologique, règles de déontologie, confidentialité des données, etc.);
+       •   veille au respect des règles de rédaction et de présentation en vigueur;
+       •   évalue l’étudiant tout au long du travail;
+       •   s’assure de la qualité linguistique du travail avant d’en autoriser le dépôt;
+       •   autorise le dépôt officiel du mémoire;
+       •   veille à la réalisation des corrections requises suite à l’évaluation.
+12.9 Choix du directeur et inscription du sujet de recherche
+
+        Tout étudiant inscrit à un programme de maîtrise, profil avec mémoire, doit obligatoirement déposer le
+        formulaire identifiant son directeur, son codirecteur s’il y a lieu, et son sujet de recherche au plus tard
+        avant de procéder à sa deuxième inscription dans son programme. À l’expiration de ce délai, l’étudiant
+        qui n’a pas identifié de directeur de recherche sera transféré dans le profil sans mémoire de son
+        domaine d’étude.
+
+        Ces choix deviennent officiels lorsqu’ils sont enregistrés au dossier de l’étudiant par le Décanat des
+        études.
+
+12.10 Changement de directeur de recherche
+
+        Tout changement du directeur est considéré comme exceptionnel et doit s’appuyer sur des motifs
+        valables. Dans tous les cas de changement de directeur, les règles prévues au présent Règlement
+        s’appliquent.
+
+        Le changement de directeur de recherche devient officiel lorsque le formulaire prévu à cette fin est
+        dûment complété et porte les signatures de l’étudiant, de l’ancien et du nouveau directeur, de l’ancien
+        et du nouveau codirecteur s’il y a lieu, et du doyen des études.
+
+12.11 Réservation du sujet
+
+        Sauf circonstances exceptionnelles, l’étudiant conserve son sujet de mémoire tant qu’il est inscrit à son
+        programme d’études avec le même directeur.
+
+12.12 Modification du sujet de recherche
+
+        Toute modification du sujet est considérée comme exceptionnelle et doit s’appuyer sur des motifs
+        valables. Dans tous les cas de modification du sujet, les règles prévues au présent Règlement
+        s’appliquent.
+
+        La modification du sujet de recherche devient officielle lorsque le formulaire prévu à cette fin est
+        dûment complété et porte les signatures de l’étudiant, du directeur, du codirecteur s’il y a lieu et du
+        doyen des études.
+
+12.13 Restriction dans la poursuite des études : la tutelle
+
+12.13.1 Principe
+
+        L’étudiant régulier d’un programme de maîtrise dont le rendement trimestriel est jugé insatisfaisant
+        peut être assujetti à certaines restrictions dans la poursuite de son programme de maîtrise.
+
+12.13.2 Moyenne exigée
+
+        Après 9 crédits sanctionnés par une évaluation dans un programme de maîtrise, l'étudiant régulier dont
+        la moyenne cumulative est égale ou supérieure à 2,5 mais inférieure à 3,0 sur 4,3 peut être assujetti à
+        certaines restrictions dans la poursuite de ses études selon les modalités énoncées ci-après.
+       a) Dès que la moyenne cumulative d'un étudiant se situe entre 2,5 et 3,0 sur 4,3, il en est avisé par le
+          Registraire. Il doit alors rencontrer le directeur de programme, conjointement avec le directeur de
+          recherche s’il est identifié, dans les dix jours ouvrables suivant la réception de cet avis.
+       b) Dans un premier temps, le directeur de programme impose à l'étudiant des restrictions dans le choix
+          des activités de la session suivante.
+       c) Après cette première étape, si la moyenne cumulative se situe toujours entre 2,5 et 3,0, l'étudiant ne
+          peut s'inscrire à de nouvelles activités et, s'il désire poursuivre son programme, il doit se réinscrire à
+          des activités déjà suivies pour améliorer ses résultats. Cette éventualité n'entraîne pas pour cet
+          étudiant de prolongation de la durée maximale permise pour compléter son programme d’études.
+       d) Si, après deux sessions de tutelle, l’étudiant n’a pas atteint une moyenne de 3,0 il est exclu du
+          programme; l’étudiant qui a une moyenne d’au moins 2,8 pourra passer au DESS ou au programme
+          court de 2e cycle de son domaine d’études.
+
+12.14 Cheminement dans la réalisation de la recherche
+
+12.14.1 Progression et échéancier de réalisation
+
+       Le cheminement de l’étudiant dans le cadre de sa recherche et l’échéancier de travail sont établis
+       conjointement par l’étudiant et son directeur de recherche.
+
+12.14.2 Évaluation continue
+
+       Le directeur de recherche et l’étudiant, si l’un ou l’autre le souhaite, peuvent établir un processus
+       d’évaluation continue afin de mieux suivre l’évolution du travail. Pour faciliter cette tâche, le Décanat
+       des études met à leur disposition une fiche d’évaluation prévue à cette fin.
+
+12.14.3 Rapports périodiques
+
+       En tout temps, le directeur de recherche peut exiger de l’étudiant des rapports périodiques d’activités
+       dont il fixe la fréquence.
+
+12.14.4 Rendement insatisfaisant
+
+       Lorsque l’évaluation continue de la recherche révèle un rendement insatisfaisant de la part de l’étudiant
+       ou tout autre problème, le directeur du programme doit aussitôt que possible rencontrer l’étudiant et
+       son directeur de recherche pour déterminer les actions à prendre en vue de corriger la situation. Si la
+       situation ne se redresse pas, l’étudiant pourrait être exclu.
+
+12.14.5 Rédaction et présentation du mémoire
+
+12.14.5.1 Auteur
+
+       Le mémoire résulte du travail d’un seul étudiant.
+
+12.14.5.2 Langue de rédaction
+
+       Le mémoire doit être rédigé en français, selon les règles de rédaction et de présentation en vigueur en
+       cette matière à l’École.
+       Il revient au directeur de recherche de s’assurer de la qualité linguistique des travaux dont il autorise le
+       dépôt.
+
+12.14.5.3 Autre langue que le français
+
+       Exceptionnellement, sur demande motivée de l’étudiant avec acceptation du directeur de recherche, le
+       Doyen des études peut autoriser un étudiant à présenter son travail dans une autre langue que le
+       français. En un tel cas, le document doit inclure un résumé rédigé en français.
+
+12.15 Dépôt officiel du mémoire
+
+12.15.1 Conditions de dépôt
+
+       Pour avoir le droit de déposer son mémoire, l’étudiant régulier doit :
+
+       •   avoir terminé les activités de scolarité prévues;
+       •   avoir obtenu une moyenne cumulative égale ou supérieure à 3,0;
+       •   avoir obtenu de son directeur l’autorisation de déposer son travail.
+       Le directeur de recherche pourrait refuser le dépôt si la qualité de la langue n’est pas satisfaisante.
+
+12.15.2 Autorisation de dépôt
+
+       Le directeur de recherche est la personne habilitée à autoriser le dépôt officiel du mémoire d’un
+       étudiant, sauf exception mentionnée dans le présent Règlement. Avec l’autorisation du dépôt, il suggère
+       les noms du ou des autres membres du jury d’évaluation, en tenant compte des règles qui déterminent
+       sa composition définie dans le présent Règlement. Le directeur de recherche doit s’assurer de la
+       disponibilité du ou des membres qu’il propose. Une fois le dépôt autorisé, l’étudiant procède au dépôt
+       en suivant les procédures diffusées par le Décanat des études.
+
+       L’autorisation de dépôt témoigne de la valeur scientifique/technologique du travail réalisé par
+       l’étudiant, de la qualité de rédaction et du respect des normes de présentation.
+
+12.15.3 Litige et autorisation exceptionnelle de dépôt
+
+       Exceptionnellement, le doyen des études peut, en cas de litige entre le directeur de recherche et
+       l’étudiant, demander à un autre professeur du domaine de lire le mémoire en vue d’en autoriser le
+       dépôt. Si ce dernier autorise le dépôt, il remplacera automatiquement le directeur de recherche comme
+       membre du jury d’évaluation du mémoire.
+
+12.16 Confidentialité du document
+
+       Si l'auteur d’un mémoire et son directeur sont d'avis que le document devrait, pour des motifs sérieux,
+       demeurer totalement ou partiellement confidentiel, il en informe le Décanat des études lors du dépôt.
+
+       Lorsqu'un mémoire doit demeurer partiellement ou totalement confidentiel, il incombe au Décanat des
+       études, en collaboration avec le Décanat de la recherche et tout autre service concerné, de prendre les
+       dispositions nécessaires à la préservation de cette confidentialité.
+12.17 Évaluation d’un mémoire
+
+12.17.1 Principe
+
+       L’évaluation d’un mémoire de maîtrise est faite par un jury. Elle se fait en deux étapes. La première
+       consiste en l’évaluation du travail écrit de l’étudiant, alors que la seconde est une évaluation de la
+       capacité de l’étudiant à présenter et défendre son mémoire. L’évaluation globale du jury reflète la
+       performance de l’étudiant à ces deux étapes.
+
+12.17.2 Jury d’évaluation d’un mémoire
+
+       Le jury doit être composé de trois membres, à savoir, le directeur de recherche, et soit 2 professeurs
+       réguliers de l’École ou 1 professeur régulier de l’École et une personne externe à l’École. Le cas échéant,
+       le codirecteur pourrait se joindre au jury comme quatrième membre.
+
+       L’un des membres du jury agit comme président. Celui-ci doit être un professeur régulier de l’École, mais
+       il ne peut s’agir du directeur ou codirecteur du mémoire.
+
+       La nomination des membres du jury d’évaluation est effectuée par le Doyen des études sur
+       recommandation du directeur de recherche.
+
+12.17.3 Documents utilisés pour l’évaluation
+
+       Le Décanat des études est la seule instance autorisée à distribuer aux membres du jury les documents
+       requis pour l’évaluation.
+
+12.17.4 Formulaire d’évaluation
+
+       Chaque évaluateur retourne au Décanat des études le formulaire d'évaluation qui inclut son rapport
+       écrit d'appréciation.
+
+12.17.5 Délai pour le retour de l’évaluation
+
+       Chaque évaluateur dispose de 20 jours ouvrables après la réception du mémoire pour retourner son
+       formulaire d’évaluation. Deux semaines après ce délai, si un évaluateur n’a pas transmis son évaluation,
+       le Doyen peut en désigner un autre.
+
+12.17.6 Recommandation individuelle des membres
+
+       Chaque membre du jury doit consigner sur la fiche d’évaluation fournie l’une des recommandations
+       suivantes :
+
+       a) acceptation pour fin de soutenance (sans correction ou avec corrections mineures) ainsi que l’une
+          des mentions suivantes : excellent, très bien, bien, passable; si la recommandation d’acceptation est
+          unanime, le mémoire est accepté (sous réserve que des corrections mineures soient effectuées
+          après la soutenance, le cas échéant) et le doyen des études convoque l’étudiant et les membres du
+          jury selon les procédures en vigueur.
+       b) retour du mémoire à l’étudiant (corrections majeures); si la recommandation de retour du mémoire
+          est unanime, une synthèse des recommandations du jury d’évaluation est préparée par le président
+          conjointement avec le directeur de recherche dans les dix jours ouvrables. Par la suite, le Décanat
+           des études fait parvenir à l’étudiant l’avis du jury en lui demandant de présenter une version révisée
+           dans un délai maximal de six mois en vue d’une deuxième et dernière lecture.
+       c) refus du mémoire; si la recommandation de refus est unanime, le président du jury prépare,
+          conjointement avec le directeur du programme, dans les dix jours ouvrables, un rapport faisant état
+          des motifs de refus émis par le jury. Lorsque le directeur du programme est la même personne que
+          le directeur de recherche, le doyen des études voit à le remplacer par une personne compétente.
+          Dès réception du rapport du président, le Décanat des études communique la décision motivée du
+          jury au registraire qui avise l’étudiant de son exclusion du programme.
+       Dans le cas où les membres sont unanimes dans leur recommandation globale ou en arrivent à un
+       consensus après avoir été contactés par le président du jury, leur avis est décisionnel et sans appel et
+       prend l’une des formes présentées en a, b et c.
+
+12.17.7 Désaccord sur la recommandation
+
+       Lorsque les évaluateurs sont en désaccord dans leur recommandation globale, leur avis n’est pas
+       décisionnel. En un tel cas, le Doyen des études, sur recommandation du directeur de programme, forme
+       un second jury composé de trois membres, à savoir 2 professeurs réguliers de l’École et un professeur
+       d’un autre établissement, ces personnes n’ayant pas fait partie du jury initial. Le doyen des études
+       nomme le président du jury. Le second jury suit la procédure d'évaluation utilisée par le premier jury. La
+       décision du second jury, prise à la majorité des voix, est finale et sans appel. Elle prend l'une des formes
+       énoncées ci-dessus.
+
+12.17.8 Évaluation après corrections majeures
+
+       La seconde version du mémoire est envoyée aux mêmes membres du jury qui ont vingt jours ouvrables
+       pour rendre leur évaluation. Leur recommandation est soit acceptation pour fin de soutenance, soit
+       refus du mémoire. Les mêmes règles d’unanimité s’appliquent.
+
+       Un mémoire qui a fait l’objet de corrections majeures ne peut recevoir la mention « excellent » lors de la
+       décision finale du jury après la soutenance.
+
+12.18 Soutenance
+
+12.18.1 Obligation de soutenance
+
+       La soutenance d’un mémoire est obligatoire et elle a lieu devant le jury d'évaluation qui est composé
+       des mêmes personnes qui ont évalué le mémoire.
+
+12.18.2 Absence d’un membre et remplacement
+
+       Exceptionnellement, un membre du jury peut être exempté d’assister à la soutenance à condition que le
+       Doyen des études lui ait désigné un remplaçant compétent qui se fait alors le porte-parole du membre
+       absent. Dans une telle éventualité, l’évaluateur absent devra au préalable indiquer par écrit les
+       questions qu’il aurait voulu poser à l’étudiant lors de la soutenance en les faisant parvenir au président
+       du jury ou, le cas échéant, à son remplaçant.
+12.18.3 Caractère public et délai
+
+       La soutenance est publique à moins qu’une demande de confidentialité n’ait été faite au moment du
+       dépôt. Elle est convoquée par le Doyen à une date fixée par le directeur de recherche, après
+       consultation du président du jury et se tient dans les meilleurs délais après l’acceptation du mémoire
+       pour fin de soutenance. Toutefois, elle pourra être reportée si la tenue de la soutenance n’a pas été
+       autorisée par tous les membres du jury au moins deux jours ouvrables avant la date prévue pour la
+       soutenance.
+
+12.18.4 Unanimité de la décision
+
+       Pour que le mémoire soit accepté, la décision du jury suite à la soutenance doit être unanime. En
+       l’absence d’unanimité et à la demande du Doyen des études, le jury de soutenance peut reconsidérer le
+       cas ou réviser sa décision.
+
+       Toutefois, en cas de maintien de la dissidence, le Doyen des études, sur recommandation du directeur
+       de programme, constitue un nouveau jury d’évaluation composé de cinq personnes dont l’une agit
+       comme président. Lors de la nouvelle soutenance, la décision de ce jury prise à la majorité des voix est
+       finale et sans appel. En cas d’égalité des voix, le vote du président est prépondérant.
+
+12.18.5 Décision du jury (avis décisionnel suite à la soutenance)
+
+       Suite à la soutenance, le jury peut rendre l'une des décisions suivantes :
+
+       a) Acceptation du mémoire
+       Le mémoire est accepté sans correction ou à la condition que des corrections mineures y soient
+       apportées. Le jury précise la note globale accordée à l’étudiant : « Excellent » (sauf si la soutenance a
+       lieu après renvoi pour corrections majeures), « Très bien », « Bien », « Passable ».
+
+       Dans le cas où des corrections mineures sont demandées, le Décanat des études retourne à l’étudiant
+       les copies des évaluations pour qu'il effectue, sous la responsabilité de son directeur de recherche, les
+       corrections exigées par le jury dans un délai de 20 jours ouvrables. Une fois les corrections effectuées, le
+       directeur de recherche a un délai de 20 jours ouvrables pour en valider la conformité. L’étudiant
+       procède alors au dépôt final de son mémoire selon les procédures en vigueur.
+
+       b) Échec suite à la soutenance
+       Le jury précise la note globale accordée à l’étudiant : « Échec ».
+
+       Le Doyen des études, après avoir obtenu l’avis du directeur de programme, communique la décision au
+       Registraire, qui avise officiellement l’étudiant de son exclusion du programme.
+
+12.18.6 Non-conformité des corrections
+
+       Si les corrections effectuées dans le cadre ou à la fin d’un processus d’évaluation d’un mémoire ne
+       correspondent pas à celles exigées par le jury, le Doyen des études communique avec les personnes
+       concernées en vue de réaliser une entente.
+12.18.7 Délai pour dépôt final
+
+       L’étudiant qui n’a pas procédé au dépôt final de son mémoire à la fin de la session suivante celui où a
+       été tenue la soutenance verra son dossier fermé pour abandon du programme.
+
+12.19 Reliure, distribution et conservation
+
+       La reliure et la distribution des exemplaires des mémoires sont de la responsabilité de l’École, qui
+       conformément aux règles de conservation institutionnelles, s’assure de conserver en permanence au
+       moins un exemplaire de ceux-ci.
+
+12.20 Diffusion et utilisation des travaux
+
+       L’étudiant qui envisage de diffuser ou utiliser, commercialement ou non, les travaux dont il est l'auteur
+       ou le coauteur doit s’informer auprès du Décanat de la recherche sur la Politique et les règles de l’École
+       en matière de propriété intellectuelle.
+
+       Un étudiant qui veut publier une partie ou la totalité de son mémoire avant qu’il ne soit évalué à l'École
+       doit obtenir au préalable une autorisation formelle et écrite de son directeur de recherche.
+
+12.21 Dégagement de la responsabilité de l’École
+
+       L'École ne sera aucunement responsable d'une utilisation commerciale, industrielle ou autre du travail
+       d'un étudiant par une tierce partie à son insu.
+
+12.22 Plainte de l’étudiant
+
+       Dans le cas d'un désaccord profond et dans la mesure où l’étudiant a épuisé les autres possibilités de
+       rencontre et de discussion avec les responsables concernés, tout étudiant s'estimant lésé en ce qui a
+       trait à la direction de son travail, peut formuler une plainte auprès du Doyen des études. Cette plainte
+       doit être acheminée par lettre ou par courriel au Doyen des études avec copie conforme au directeur de
+       recherche et au directeur de programme concerné. Après consultation, le Doyen des études émettra un
+       avis décisionnel.
+
+12.23 Diplômation
+
+       Pour obtenir un diplôme de maîtrise, profil avec mémoire, l’étudiant doit avoir satisfait à toutes les
+       exigences de son programmes, telles que définies à l’Annuaire, avec une moyenne cumulative d’au-
+       moins 3,0 sur 4,3.
+
+CHAPITRE 13 : DOCTORAT
+
+13.1 Structure générale
+
+       Le doctorat est un programme d’études qui compte 90 crédits, offert à l’École selon les profils suivants :
+
+       •   Recherche appliquée, qui conduit à la rédaction d’une thèse d’une valeur de 75 crédits;
+       •   Innovation industrielle, qui conduit à la rédaction d’une thèse d’une valeur de 60 crédits, suite à la
+           réalisation d’une recherche en industrie.
+13.2 Durée des études
+
+       La durée maximale des études de doctorat est de douze sessions (4 ans) pour le régime à temps complet
+       et de vingt-et-une sessions (7 ans) pour le régime à temps partiel, calculée à compter de la première
+       inscription au programme. Pour continuer ses études au-delà de cette période, l’étudiant devra faire
+       une demande de prolongation, conformément à l’article 4.5.
+
+13.3 Régime d’études
+
+       a) Le candidat à un programme de doctorat doit s’engager à s’inscrire à temps complet dès son
+          admission; exceptionnellement, celui qui souhaite s’inscrire plutôt à temps partiel pourrait être
+          admis à la condition de faire une démonstration satisfaisante de conditions favorables lui
+          permettant de travailler tout en complétant son programme, notamment par l’appui de son
+          employeur. L’admission à temps partiel pourrait être refusée.
+       b) L’étudiant de doctorat admis à temps complet qui souhaite changer pour le statut de temps partiel
+          doit faire la même démonstration de conditions favorables, tel que mentionné à l’alinéa précédent.
+          Le changement de statut pourrait être refusé par le directeur de recherche.
+
+13.4 Admission
+
+       Les conditions d’admission au programme de doctorat de l’ÉTS sont précisées dans la description du
+       programme qui apparaît à l’Annuaire, sous réserve des modifications adoptées par la Commission des
+       études en cours d’année, lesquelles sont reflétées sur le site web de l’École.
+
+13.5 Admission au doctorat sans compléter la maîtrise
+
+       Un étudiant de maîtrise qui a complété neuf (9) crédits de cours, dont un cours portant sur la
+       planification d’un projet de recherche ou des éléments de méthodologie, ainsi que 9 crédits de
+       recherche et dont la moyenne cumulative est d’au moins 3,7/4,3 peut soumettre sa candidature au
+       doctorat sans avoir à compléter sa maîtrise. Sa demande doit être accompagnée d’une lettre de
+       recommandation de son directeur d’activité de synthèse ou de mémoire attestant de sa capacité en
+       recherche et d’un résumé de ses activités de recherche. Sur recommandation du directeur d’activité de
+       synthèse ou de mémoire et du directeur du programme de doctorat, les crédits réussis à la maîtrise
+       seront transférés en tout ou en partie au programme de doctorat par le Bureau du Registraire.
+
+       Si plus tard, après avoir entrepris son programme de doctorat, l’étudiant met fin à celui-ci, ou s’il ne
+       satisfait pas aux conditions requises pour la réussite de ce programme, il peut être réintégré au niveau
+       de la maîtrise. Dans ce cas, le Comité de programme de la maîtrise se penche sur le dossier de l’étudiant
+       et détermine, sur recommandation du directeur de recherche et du directeur du programme de
+       maîtrise, les modalités à imposer à l’étudiant pour lui permettre d’obtenir son diplôme de maîtrise.
+
+13.6 Plan d’études
+
+       L’étudiant du programme de doctorat en innovation industrielle doit faire approuver un plan d’études
+       par son directeur de recherche dès son admission au programme; tout choix d’activité devrait être
+       effectué en fonction du plan d’études convenu.
+13.7 Absences
+
+       L’étudiant d’un programme de doctorat peut faire une demande d’absence autorisée lorsque requis.
+       Cependant, il ne peut bénéficier d’aucune absence non autorisée. Advenant un tel cas, son dossier sera
+       fermé.
+
+13.8 Direction de thèse
+
+       La direction de la thèse est assumée par un professeur régulier qui satisfait aux règles d'habilitation.
+       L'École accepte que d'autres personnes, notamment des professeurs d’autres universités ou des experts
+       de l’industrie interviennent comme codirecteur. Ces personnes doivent répondre aux critères
+       d’habilitation en vigueur à l’École décrits au chapitre 2 du présent règlement et obtenir l’approbation du
+       Doyen des études.
+
+       La thèse en innovation industrielle est obligatoirement codirigée par un expert industriel de l’entreprise
+       liée au projet de recherche qui satisfait aux critères d’habilitation en vigueur à l’École.
+
+13.9 Choix du directeur
+
+       Le directeur de recherche, ainsi que le co-directeur dans le cas d’une thèse en innovation industrielle,
+       doivent être identifiés officiellement au moment de l’admission au programme.
+
+       Ces choix deviennent officiels lorsqu’ils sont enregistrés au dossier de l’étudiant par le Décanat des
+       études.
+
+13.10 Rôle du directeur de recherche
+
+       Le directeur de recherche :
+
+       •   supervise l’étudiant dans ses travaux (assistance dans la définition du sujet de la recherche,
+           démarche scientifique/technologique, règles de déontologie, confidentialité des données, etc.);
+       •   évalue l’étudiant tout au long du travail;
+       •   veille au respect des règles de rédaction et de présentation en vigueur;
+       •   s’assure de la qualité linguistique du travail avant d’en autoriser le dépôt;
+       •   autorise le dépôt officiel de la thèse;
+       •   veille à la réalisation des corrections requises suite à l’évaluation.
+
+13.11 Changement de directeur de recherche
+
+       Tout changement du directeur est considéré comme exceptionnel et doit s’appuyer sur des motifs
+       valables. Dans tous les cas de changement du directeur, les règles prévues au présent Règlement
+       s’appliquent.
+
+       Le changement de directeur devient officiel lorsque le formulaire prévu à cette fin est dûment complété
+       et porte les signatures de l’étudiant, de l’ancien et du nouveau directeur, de l’ancien et du nouveau
+       codirecteur s’il y a lieu, et du doyen des études.
+13.12 Réservation du sujet
+
+       Sauf circonstances exceptionnelles, l’étudiant conserve son sujet de recherche tant qu’il est inscrit à son
+       programme d’études avec le même directeur de recherche.
+
+13.13 Modification du sujet de recherche
+
+       Toute modification du sujet est considérée comme exceptionnelle et doit s’appuyer sur des motifs
+       valables. Dans tous les cas de modification du sujet, les règles prévues au présent Règlement
+       s’appliquent.
+
+       La modification du sujet devient lorsque le formulaire prévu à cette fin est dûment complété et porte les
+       signatures de l’étudiant, du directeur, du codirecteur s’il y a lieu et du doyen des études.
+
+13.14 Cheminement dans la réalisation de la recherche
+
+13.14.1 Progression et échéancier de réalisation
+
+       Le cheminement de l’étudiant dans le cadre de sa recherche et l’échéancier de travail sont établis
+       conjointement par l’étudiant et son directeur de recherche.
+
+13.14.2 Évaluation continue
+
+       Le directeur de recherche et l’étudiant, si l’un ou l’autre le souhaite, peuvent établir un processus
+       d’évaluation continue afin de mieux suivre l’évolution du travail. Pour faciliter cette tâche, le Décanat
+       des études met à leur disposition une fiche d’évaluation prévue à cette fin.
+
+13.14.3 Rapports périodiques
+
+       En tout temps, le directeur de recherche peut exiger de l’étudiant des rapports périodiques d’activités
+       dont il fixe la fréquence.
+
+13.14.4 Rendement insatisfaisant
+
+       Lorsque l’évaluation continue de la recherche révèle un rendement insatisfaisant de la part de l’étudiant
+       ou tout autre problème, le directeur du programme doit aussitôt que possible rencontrer l’étudiant et
+       son directeur de recherche pour déterminer les actions à prendre en vue de corriger la situation. Si la
+       situation ne se redresse pas, l’étudiant pourrait être exclu, conformément à l’article 6.6.2.
+
+13.15 Examen doctoral
+
+13.15.1 Description
+
+       L’examen doctoral a pour but d’évaluer les acquis de l’étudiant, sa capacité à accomplir la recherche
+       menant à la thèse et le potentiel d’originalité du projet de recherche. Cette activité vise à s’assurer qu’il
+       possède une connaissance approfondie du domaine dans lequel il se spécialise et une connaissance
+       adéquate des domaines connexes.
+13.15.2 Moment où l’examen doit être passé
+
+       L’examen doctoral est une activité obligatoire en trois étapes qui sont décrites dans la Procédure de
+       l’examen doctoral.
+
+       a) Pour l’étudiant à temps complet, la première étape, Problématique de recherche, peut être
+          complétée à la première session sur demande écrite au directeur de programme, à condition que la
+          structure du sujet soit déjà bien établie avec le directeur de recherche, mais elle est recommandée
+          et obligatoire au plus tard à la 2e session des études doctorales.
+       b) Quant à l’étudiant à temps partiel, il doit s’inscrire à la première étape au plus tard à la 4e session et
+          il devra avoir complété les trois étapes au plus tard à la 6e session suivant sa première inscription.
+       A la session suivante, l’étudiant qui a réussi la première étape doit s’inscrire à la deuxième étape à savoir
+       l’examen écrit. Quant à la troisième étape, l’examen oral, elle doit être achevée durant la session suivant
+       la réussite de l’examen écrit.
+
+       Exceptionnellement, tout le processus pourra être reporté au maximum d’une session par le doyen des
+       études sur recommandation du directeur du programme.
+
+13.15.3 Réussite de l’examen et droit de reprise
+
+       L’examen doctoral est évalué par la mention Succès ou Échec. Il faut avoir réussi les trois étapes pour
+       obtenir la mention Succès au relevé de notes.
+
+       Au cours des trois étapes de l’examen doctoral, l’étudiant a un seul droit de reprise, applicable à une
+       seule des trois étapes. L’étape échouée doit être reprise à la session suivante. Un échec lors de la reprise
+       ou un deuxième échec à une étape ultérieure entraîne l’exclusion du programme.
+
+       L’étudiant ayant déjà échoué un cours n’a pas droit à la reprise. L’échec à une ou l’autre des étapes de
+       l’examen doctoral entraîne pour lui l’exclusion du programme puisqu’un deuxième échec dans un
+       programme d’études de cycles supérieurs est un motif d’exclusion, conformément à l’article 6.2.3 du
+       présent règlement.
+
+13.15.4 Composition du jury
+
+       L’examen doctoral (à l’exception de la première étape : Problématique de recherche) est évalué par un
+       jury composé du directeur de recherche, d’un ou deux professeur(s) de l’ÉTS possédant un doctorat et
+       œuvrant dans un domaine proche, d’un professeur de l’ÉTS externe au département, détenteur d’un
+       doctorat, œuvrant préférablement dans un domaine connexe, qui agit à titre de président du jury. À
+       ceux-ci peut s’ajouter le codirecteur de recherche lorsqu’il y en a un.
+
+       À ces personnes peut s’ajouter un membre externe, provenant préférablement du milieu industriel et
+       pouvant avoir ou non un intérêt dans le projet. Cette personne doit détenir au moins un diplôme de
+       maîtrise. Peut aussi s’ajouter un membre externe indépendant dans les caractéristiques sont définies à
+       l’article 13.18.2.
+
+       Le nombre maximal de membres est déterminé par le Doyen des études qui voit également à approuver
+       un jury pertinent. Le Décanat des études informe les membres du jury et l’étudiant de la composition du
+       jury.
+13.15.5 Responsabilités
+
+13.15.5.1 Directeur de recherche
+
+       Le directeur de recherche est responsable du processus de l’examen doctoral. Il est la personne
+       ressource et l’interlocuteur entre les membres du jury et le Décanat des études.
+
+       Pendant la session où l’étudiant complète l’activité Problématique de recherche (étape 1 de l’examen
+       doctoral), le directeur de recherche suggère la composition du jury pour les étapes ultérieures (étapes 2
+       et 3).
+
+       Ensuite, il coordonne avec les autres membres du jury le contenu de l’examen écrit (étape 2) et de l’oral
+       (étape 3) et le choix des documents de référence. Suite au succès de l’étudiant à l’étape 2 (examen
+       écrit), il détermine la date de l’examen oral en concertation avec l’étudiant et la communique au
+       Décanat des études.
+
+       Il voit, en collaboration avec les membres du jury, à approuver la liste des revues où l’étudiant a
+       l’intention de soumettre un ou des articles le cas échéant.
+
+13.15.5.2 Directeur du programme
+
+       Une fois par session, les étudiants inscrits à la première étape, Problématique de recherche, sont invités
+       à présenter leurs projets devant leurs pairs. Le directeur du programme de doctorat fixe la date de cette
+       journée de présentation et en assure l’organisation.
+
+13.15.5.3 L’étudiant
+
+       L’étudiant assume l’entière responsabilité de sa participation à l’examen doctoral. Il est invité à
+       consulter son directeur de recherche et le directeur du programme pour toutes les questions
+       concernant l’examen doctoral (formation du jury, choix des matières de l’examen, déroulement du
+       processus, etc.).
+
+13.15.5.4 Le président du jury
+
+       Le président du jury voit au bon déroulement du processus et s’assure que les dispositions
+       réglementaires sont respectées.
+
+       À la fin de la troisième étape de l’examen doctoral, le président du jury annonce la décision du jury et
+       complète le formulaire prévu à cette fin en y incluant des commentaires et des recommandations. Le
+       jury peut y suggérer des cours à suivre et d’autres pistes de recherche à explorer ou bien réorienter les
+       travaux de l’étudiant.
+
+13.16 Rédaction et présentation de la thèse
+
+13.16.1 Auteur
+
+       La thèse résulte du travail d’un seul étudiant.
+13.16.2 Langue de rédaction
+
+       La thèse doit être rédigée en français, selon les règles de rédaction et de présentation en vigueur en
+       cette matière à l’École. Il est entendu qu’une partie en anglais peut être incluse dans le cas d’une thèse
+       par articles.
+
+       Il revient au directeur de recherche de s’assurer de la qualité linguistique des travaux dont il autorise le
+       dépôt.
+
+13.16.3 Autre langue que le français
+
+       Sur demande motivée de l’étudiant avec acceptation du directeur de recherche, le Doyen des études
+       peut autoriser un étudiant à présenter son travail dans une autre langue que le français. En un tel cas, le
+       document doit inclure un résumé rédigé en français.
+
+13.16.4 Choix du type de thèse
+
+       L’étudiant a le choix entre deux types de thèse, en accord avec son directeur de recherche, soit la thèse
+       classique ou la thèse par articles.
+
+       La thèse par articles doit comprendre un minimum de trois articles rédigés dans le cadre de son doctorat
+       sur un même thème avec suite logique. Aucun de ces trois articles ne peut être uniquement une revue
+       de littérature. Ces articles doivent avoir été soumis dans des revues avec comité de lecture et avis de
+       réception. Les articles devront avoir l’étudiant comme premier auteur et le directeur de thèse devra être
+       co-signataire. En plus de ces trois articles, la thèse devra être complétée par des sections qui assurent la
+       compréhension globale, qui font le lien entre les diverses parties et qui complètent l’information. Ce
+       type de thèse pourra comprendre des articles écrits en français et en anglais.
+
+13.17 Dépôt officiel de la thèse
+
+13.17.1 Conditions de dépôt
+
+       Pour avoir le droit de déposer sa thèse, l’étudiant régulier doit :
+
+       •   avoir terminé les activités de scolarité prévues;
+       •   avoir obtenu une moyenne cumulative égale ou supérieure à 3.0;
+       •   avoir obtenu de son directeur de recherche l’autorisation de déposer son travail;
+       •   avoir soumis, en tant qu’auteur principal, au moins un article de revue avec comité de lecture (RAC)
+           dans un journal scientifique ou avoir déposé un brevet préliminaire portant sur le sujet de
+           recherche.
+       Le directeur de recherche pourrait refuser le dépôt si la qualité de la langue n’est pas satisfaisante.
+
+13.17.2 Autorisation de dépôt
+
+       Le directeur de recherche est la personne habilitée à autoriser le dépôt officiel de la thèse d’un étudiant,
+       sauf exception mentionnée dans le présent Règlement. Avec l’autorisation du dépôt, il suggère au doyen
+       des études les noms des autres membres du jury d’évaluation, en tenant compte des règles qui
+       déterminent sa composition définies dans le présent Règlement. Le directeur de recherche doit s’assurer
+       de la disponibilité des membres qu’il propose.
+
+       L’autorisation de dépôt témoigne de la valeur scientifique/technologique du travail réalisé par
+       l’étudiant, de la qualité de rédaction et du respect des normes de présentation.
+
+       Une fois le dépôt autorisé, l’étudiant procède au dépôt en suivant les procédures diffusées par le
+       Décanat des études. À défaut de se conformer aux dispositions énoncées au présent chapitre, le doyen
+       des études peut refuser le dépôt du document.
+
+13.17.3 Litige et autorisation exceptionnelle de dépôt
+
+       Exceptionnellement, le doyen des études peut, en cas de litige entre le directeur de recherche et
+       l’étudiant, demander à un autre professeur du domaine de lire la thèse en vue d’en autoriser le dépôt. Si
+       ce dernier autorise le dépôt, il remplacera automatiquement le directeur de recherche comme membre
+       du jury d’évaluation de la thèse.
+
+13.17.4 Confidentialité du document
+
+       Si l'auteur d'une thèse, et son directeur sont d'avis que le document devrait, pour des motifs sérieux,
+       demeurer totalement ou partiellement confidentiel, il en informe le Décanat des études lors du dépôt.
+       Lorsqu'une thèse doit demeurer partiellement ou totalement confidentielle, il incombe au Décanat des
+       études, en collaboration avec le Décanat de la recherche et tout autre service concerné, de prendre les
+       dispositions nécessaires à la préservation de cette confidentialité.
+
+13.18 Évaluation d’une thèse de doctorat
+
+13.18.1 Principe
+
+       L’évaluation d’une thèse de doctorat est faite par un jury. Elle se fait en deux étapes. La première
+       consiste en l’évaluation du travail écrit de l’étudiant, alors que la seconde est une évaluation de la
+       capacité de l’étudiant de présenter et défendre sa thèse au moment de la soutenance. L’évaluation
+       globale reflète la performance de l’étudiant à ces deux étapes.
+
+13.18.2 Composition du jury
+
+       Dans la mesure du possible, le jury d’évaluation de la thèse sera composé des mêmes personnes que
+       pour l’examen doctoral. S’ajoute obligatoirement à ces personnes un membre externe indépendant si
+       aucun ne siégeait déjà lors de l’examen doctoral. Ce dernier provient de l’extérieur de l’École, possède
+       un doctorat, n’a aucun lien avec le directeur, le codirecteur, l’étudiant, ni avec le projet de recherche de
+       l’étudiant et ce, pour une période de cinq ans. Si un tel membre externe indépendant siégeait lors de
+       l’examen doctoral, le doyen des études doit s’assurer qu’il a conservé son statut indépendant.
+
+       La nomination des membres du jury d’évaluation est effectuée par le Doyen des études sur
+       recommandation du directeur de recherche.
+
+13.18.3 Documents utilisés pour l’évaluation
+
+       Le Décanat des études est la seule instance autorisée à distribuer aux membres du jury les documents
+       requis pour l’évaluation.
+13.18.4 Formulaire d’évaluation et délai
+
+       Chaque évaluateur retourne au Décanat des études le formulaire d’évaluation, qui inclut un rapport
+       écrit d’appréciation dans les 40 jours ouvrables suivant la réception de la thèse. Deux semaines après ce
+       délai, si un évaluateur n’a pas transmis son évaluation, le directeur de recherche peut en proposer un
+       autre.
+
+13.18.5 Recommandation individuelle des membres
+
+       Chaque membre du jury doit consigner sur la fiche d’évaluation fournie l’une des recommandations
+       suivantes :
+
+       a) acceptation pour fin de soutenance (sans correction ou avec corrections mineures) ainsi que l’une
+          des mentions suivantes : excellent, très bien, bien, passable; si la recommandation d’acceptation est
+          unanime, la thèse est acceptée (sous réserve que des corrections mineures soient effectuées après
+          la soutenance, le cas échéant) et le doyen des études convoque l’étudiant et les membres du jury
+          selon les procédures en vigueur.
+       b) retour de la thèse à l’étudiant (corrections majeures); si la recommandation de retour de la thèse
+          est unanime, une synthèse des recommandations du jury d’évaluation est préparée par le président
+          conjointement avec le directeur de recherche dans les quinze jours ouvrables. Par la suite, le
+          Décanat des études fait parvenir à l’étudiant l’avis du jury en lui demandant de présenter une
+          version révisée dans un délai maximal de douze mois en vue d’une deuxième et dernière lecture.
+       c) refus de la thèse; si la recommandation de refus est unanime, le président du jury prépare,
+          conjointement avec le directeur du programme, dans les quinze jours ouvrables, un rapport faisant
+          état des motifs de refus émis par le jury. Lorsque le directeur du programme est la même personne
+          que le directeur de recherche, le doyen des études voit à le remplacer par une personne
+          compétente. Dès réception du rapport du président, le Décanat des études communique la décision
+          motivée du jury au registraire qui avise l’étudiant de son exclusion du programme.
+
+
+       Dans le cas où les membres sont unanimes dans leur recommandation globale ou en arrivent à un
+       consensus après avoir été contactés par le président du jury, leur avis est décisionnel et sans appel et
+       prend l’une des formes présentées en a, b et c.
+
+13.18.6 Désaccord sur la recommandation
+
+       Lorsque les évaluateurs sont en désaccord dans leur recommandation globale, leur avis n’est pas
+       décisionnel. En un tel cas, le Doyen des études, sur recommandation du directeur de programme, forme
+       un second jury composé de trois membres, à savoir 2 professeurs réguliers de l’École et un professeur
+       d’un autre établissement, ces personnes n’ayant pas fait partie du jury initial. Le doyen des études
+       nomme le président du jury. Le second jury suit la procédure d'évaluation utilisée par le premier jury. La
+       décision du second jury, prise à la majorité des voix, est finale et sans appel. Elle prend l'une des formes
+       énoncées ci-dessus en a, b et c.
+
+13.18.7 Évaluation après corrections majeures
+
+       La seconde version de la thèse est envoyée aux mêmes membres du jury qui ont vingt jours ouvrables
+       pour rendre leur évaluation. Leur recommandation est soit acceptation pour fin de soutenance, soit
+       refus de la thèse. Les mêmes règles d’unanimité s’appliquent.
+       Une thèse qui a fait l’objet de corrections majeures ne peut recevoir la mention « excellent » lors de la
+       décision finale du jury après la soutenance.
+
+13.19 Soutenance
+
+13.19.1 Obligation de soutenance
+
+       La soutenance d’une thèse est obligatoire et elle a lieu devant le jury d’évaluation qui est composé des
+       mêmes personnes qui ont évalué la thèse.
+
+13.19.2 Absence d’un membre et remplacement
+
+       Exceptionnellement, un membre du jury peut être exempté d'assister à la soutenance à condition que le
+       Doyen des études lui ait désigné un remplaçant compétent qui se fait alors le porte-parole du membre
+       absent. Dans une telle éventualité, l'évaluateur absent devra au préalable indiquer par écrit les
+       questions qu'il aurait voulu poser à l’étudiant lors de la soutenance en les faisant parvenir au président
+       du jury ou, le cas échéant, à son remplaçant.
+
+13.19.3 Caractère public et délai
+
+       La soutenance est publique à moins qu’une demande de confidentialité n’ait été faite au moment du
+       dépôt. Elle est convoquée par le Doyen à une date fixée par le directeur de recherche, après
+       consultation du président du jury et se tient dans les meilleurs délais après l'acceptation de la thèse
+       pour fin de soutenance. Toutefois, elle pourra être reportée si la tenue de la soutenance n’a pas été
+       autorisée par tous les membres du jury au moins deux jours ouvrables avant la date prévue pour la
+       soutenance.
+
+       Le président du jury doit s’assurer de la conformité du processus, au nom du doyen des études.
+       Toutefois, ce dernier peut assister à la soutenance et aux délibérations et assurer ce rôle s’il le souhaite.
+
+13.19.4 Unanimité de la décision
+
+       Pour que la thèse soit acceptée, la décision du jury suite à la soutenance doit être unanime. En l'absence
+       d'unanimité et à la demande du Doyen des études, le jury de soutenance peut reconsidérer le cas ou
+       réviser sa décision.
+
+       Toutefois, en cas de maintien de la dissidence, le Doyen des études, sur recommandation du directeur
+       de programme, constitue un nouveau jury d'évaluation composé de cinq personnes dont l'une agit
+       comme président. Lors de la nouvelle soutenance, la décision de ce jury prise à la majorité des voix est
+       finale et sans appel. En cas d'égalité des voix, le vote du président est prépondérant.
+
+
+
+13.19.5 Décision du jury (avis décisionnel suite à la soutenance)
+
+       Suite à la soutenance, le jury peut rendre l'une des décisions suivantes :
+       a) Acceptation de la thèse
+       La thèse est acceptée sans correction ou à la condition que des corrections mineures y soient apportées.
+       Le jury précise la note globale accordée à l’étudiant : « Excellent » (sauf si la soutenance a lieu après
+       renvoi pour corrections majeures), « Très bien », « Bien », « Passable ».
+
+       Dans le cas où des corrections mineures sont demandées, le Décanat des études retourne à l’étudiant
+       les copies des évaluations pour qu'il effectue, sous la responsabilité de son directeur de recherche, les
+       corrections exigées par le jury dans un délai de 40 jours ouvrables. Une fois les corrections effectuées, le
+       directeur de recherche a un délai de 20 jours ouvrables pour en valider la conformité. L’étudiant
+       procède alors au dépôt final de sa thèse selon les procédures en vigueur.
+
+       b) Échec suite à la soutenance
+       Le jury précise la note globale accordée à l’étudiant : « Échec ».
+
+       Le Décanat des études, après avoir obtenu l’avis du directeur de programme, communique la décision
+       au Registraire, qui avise officiellement l’étudiant de son exclusion du programme.
+
+13.20 Non-conformité des corrections
+
+       Si les corrections effectuées dans le cadre ou à la fin d’un processus d’évaluation d’une thèse ne sont
+       pas faites à la satisfaction du directeur de recherche le Doyen des études communique avec l’étudiant
+       et son directeur en vue de réaliser une entente.
+
+13.21 Délai pour dépôt final
+
+       L’étudiant dispose d’une session complète pour procéder au dépôt final de sa thèse à défaut de quoi il
+       verra son dossier fermé pour abandon du programme.
+
+13.22 Reliure, distribution et conservation
+
+       La reliure et la distribution des exemplaires des thèses sont de la responsabilité de l’École, qui
+       conformément aux règles de conservation institutionnelles, s’assure de conserver en permanence au
+       moins un exemplaire de ceux-ci.
+
+13.23 Diffusion et utilisation des travaux
+
+       L’étudiant qui envisage de diffuser ou utiliser, commercialement ou non, les travaux dont il est l'auteur
+       ou le coauteur doit s’informer auprès du Décanat de la recherche sur la Politique et les règles de l’École
+       en matière de propriété intellectuelle.
+
+       Un étudiant qui veut publier une partie ou la totalité de sa thèse avant qu’elle ne soit évaluée à l'École
+       doit obtenir au préalable une autorisation formelle et écrite de son directeur de recherche.
+
+13.24 Dégagement de la responsabilité de l’École
+
+       L'École ne sera aucunement responsable d'une utilisation commerciale, industrielle ou autre du travail
+       d'un étudiant par une tierce partie à son insu.
+13.25 Plainte de l’étudiant
+
+       Dans le cas d'un désaccord profond et dans la mesure où l’étudiant a épuisé les autres possibilités de
+       rencontre et de discussion avec les responsables concernés, tout étudiant s'estimant lésé en ce qui a
+       trait à la direction de son travail peut formuler une plainte auprès du Doyen des études. Cette plainte
+       doit être acheminée par lettre ou par courriel au Doyen des études avec copie conforme au directeur de
+       recherche et au directeur de programme concerné. Après consultation, le Doyen des études émettra un
+       avis décisionnel.
+
+13.26 Diplômation
+
+       Pour obtenir un diplôme de doctorat, l’étudiant doit avoir satisfait à toutes les exigences de son
+       programme, telles que définies à l’Annuaire, avec une moyenne cumulative d’au-moins 3,0 sur 4,3.
+
+CHAPITRE 14 ÉMISSION DES DIPLÔMES
+
+14.1 Dispositions générales
+
+       L’émission des diplômes est faite par l’Assemblée des gouverneurs de l’Université du Québec sur
+       recommandation de la Commission des études de l’École et sur la foi des certifications produites.
+
+       Pour les programmes offerts par extension, conjointement, en association ou en commandite, l’entente
+       précise le ou les établissement(s) habilité(s) à recommander l’émission du diplôme.
+
+14.2 Conditions d’obtention d’un diplôme
+
+       Les conditions d’obtention d’un diplôme sont les suivantes :
+
+       a) avoir satisfait aux règlements généraux de l’Université du Québec et aux règlements de l’École;
+       b) avoir satisfait aux exigences du programme menant au diplôme postulé;
+       c) avoir acquitté en entier les sommes dues.
+
+14.3 Normes relatives à l’émission des diplômes
+
+14.3.1 Signature des diplômes
+
+       Tout diplôme porte la signature du Président de l'Université du Québec et est contresigné par le
+       Directeur général de l'École ou par toute personne désignée à cette fin par l'Assemblée des
+       gouverneurs, ces signatures pouvant être apposées mécaniquement.
+
+14.3.2 Signataires
+
+       Aux fins des articles qui précèdent, les signatures prévues sont celles des personnes en poste au
+       moment de l’émission, du remplacement ou de la substitution du diplôme.
+
+
+
+14.3.3 En-têtes des diplômes
+
+       Tout diplôme porte l'en-tête suivant :
+     UNIVERSITÉ DU QUÉBEC
+
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
