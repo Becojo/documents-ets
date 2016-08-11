@@ -1,0 +1,655 @@
+ 
+    Adoption                                                        Résolutions 
+    20160222                                                        CA3313487 
+ 
+    Modifications                                                   Résolutions 
+                                                                     
+ 
+    Abrogation                                                      Résolutions 
+                                                                     
+ 
+
+ 
+1.        DISPOSITIONS GÉNÉRALES                                                             
+
+1.1       Objet 
+
+Le  Règlement  sur  les  infractions  de  nature  académique  détermine  les  règles  et  procédures  relatives  aux 
+infractions de nature académique, telles que le plagiat et la fraude, commises par un étudiant dans le cadre de 
+sa  formation  à  l'École  de  technologie  supérieure  (« ÉTS »),  que  ce  soit  lors  du  processus  d'admission  (dès  le 
+dépôt de la demande d'admission) ou alors qu'il est inscrit à l'ÉTS. 
+
+Il institue le Comité de discipline départemental et le Comité de discipline institutionnel et leurs compétences 
+respectives.  Il  identifie  notamment  les  infractions  de  nature  académique,  les  rôles  des  différents  intervenants 
+dans le processus disciplinaire universitaire, le processus de traitement des infractions de nature académique et 
+les sanctions pouvant être appliquées par les Comités de discipline respectifs.  
+
+1.2       Définitions 
+
+Aux fins d'application du présent règlement, les expressions et termes suivants signifient ce qui suit : 
+
+1.2.1     « activité  d'évaluation » :  un  examen,  une  épreuve,  une  séance  de  travaux  pratiques,  un  atelier,  un 
+          travail, une production, un rapport, un essai, un rapport de stage (hors programme ou non), un projet de 
+          fin  d'études,  un  projet  synthèse,  un  mémoire,  une  thèse,  un  article,  une  présentation,  un  rapport 
+          technique, et toute autre forme d'activité faisant l'objet d'une évaluation; 
+           
+1.2.2     « activité pédagogique » : un cours ou un stage (hors programme ou non); 
+           
+1.2.3     « Comité  de  discipline  départemental » :  le  Comité  de  discipline  de  chaque  Département  ou  celui  du 
+          Service des enseignements généraux tel que défini à l'article 3.2 du présent règlement; 
+           
+1.2.4     « Comité  de  discipline  institutionnel » :  le  comité  de  discipline  tel  que  défini  à  l'article  3.3  du  présent 
+          règlement; 
+           
+1.2.5     « enseignant » : un professeur, un  maître d'enseignement, un chargé de cours, un directeur ou un co
+          directeur  d'activité  de  synthèse  ou  de  recherche,  un  chargé  de  TP,  un  responsable  de  stage,  un 
+          responsable  de  laboratoire,  un  responsable  de  travaux  pratiques,  un  responsable  d'ateliers,  ou  un 
+          remplaçant exerçant ces fonctions; 
+           
+ 
+1.2.6    « étudiant » : toute personne admise ou inscrite à ce titre à l'ÉTS en conformité avec la règlementation 
+         pertinente,  notamment,  les  étudiants  réguliers  dans  un  régime  à  temps  plein  ou  à  temps  partiel,  les 
+         étudiants visiteurs, les étudiants libres et les auditeurs ou les étudiants en contexte de stage; 
+          
+1.2.7    « récidive » :  le  fait  pour  un  étudiant  de  commettre  de  nouveau  une  infraction,  que  celleci  soit 
+         identique ou différente de la ou des infraction(s) reconnue(s) antérieurement; 
+          
+1.2.8    « travail en équipe » : le fait pour des étudiants de réaliser un travail commun ou en collaboration à titre 
+         d'activité d'évaluation;   
+          
+1.2.9    « technologies de l'information et de la communication (« TIC ») » : ensemble des technologies issues de 
+         la convergence de l'informatique et des techniques évoluées du multimédia et des télécommunications, 
+         qui  permettent  l'émergence  de  moyens  de  communication,  en  améliorant  le  traitement,  la  mise  en 
+         mémoire,  la  diffusion  et  l'échange  de  l'information.  Sont  notamment  des  TIC  les  lecteurs  de  musique, 
+         cellulaires, téléphones intelligents, montres intelligentes, lunettes intelligentes, tablettes  électroniques 
+         et ordinateurs portables; 
+          
+1.3      Infractions de nature académique 
+
+Au terme du présent règlement, l'expression « infraction de nature académique » constitue le fait de poser ou 
+tenter  de  poser  l'un  des  actes  suivants,  le  fait  d'y  participer  ou  de  prendre  part  à  un  complot  avec  d'autres 
+personnes en vue de commettre l'un des actes suivants : 
+
+1.3.1    Tout acte ou manoeuvre visant à tromper quant au rendement scolaire ou à la réussite d'une exigence 
+         relative à une activité pédagogique, à la réussite d'un stage ou à une admission; 
+          
+1.3.2    Présenter  un  faux  document  ou  faire  une  fausse  déclaration,  notamment  en  vue  de  l'admission  à  un 
+         programme  de  l'ÉTS,  aux  fins  d'évaluation  dans  le  cadre  d'une  activité  pédagogique,  à  des  fins  de 
+         reconnaissance d'équivalence ou encore pour l'approbation d'un stage ou dans le cours du stage; 
+          
+1.3.3    Copier de quelque façon lors d'une activité d'évaluation; 
+          
+1.3.4    Remettre  un  travail  en  son  nom  alors  qu'on  ne  l'a  pas  réalisé  ou  qu'on  n'y  a  pas  contribué 
+         substantiellement;  
+          
+1.3.5    Fournir ou recourir à toute aide non autorisée à l'occasion d'une activité d'évaluation; 
+          
+1.3.6    Contrevenir  aux  dispositions  de  la  Directive  relative  aux  examens  finaux  de  l'ÉTS,  notamment  ne  pas 
+         remettre un questionnaire d'examen à la fin de la séance; 
+          
+1.3.7    Obtenir  ou  chercher  à  obtenir  d'avance  les  questions  ou  les  solutions  relatives  à  une  activité 
+         d'évaluation;  
+          
+1.3.8    Présenter à des fins d'évaluations différentes et sans autorisation, intégralement ou partiellement, une 
+         même activité d'évaluation; 
+          
+ 
+1.3.9    Utiliser  dans  le  cadre  d'une  activité  d'évaluation  ou  d'une  activité  pédagogique,  totalement  ou 
+         partiellement l'oeuvre d'autrui ou des passages tirés de celleci, sur quelque support que ce soit, en se 
+         l'appropriant  ou  en  omettant  d'en  indiquer  la  référence  et  de  faire  les  citations  appropriées 
+         conformément aux règles applicables; 
+          
+1.3.10   Vendre  ou  rendre  volontairement  disponible  un  travail  ou  une  partie  de  celuici,  sur  quelque  support 
+         que ce soit, à un tiers pour fins d'appropriation en contravention avec le présent règlement; 
+          
+1.3.11   Falsifier des données ou références dans une activité d'évaluation; 
+          
+1.3.12   Obtenir une évaluation non méritée notamment par corruption, chantage, intimidation ou harcèlement; 
+          
+1.3.13   Posséder ou utiliser pendant une activité d'évaluation tout document ou matériel non autorisé; 
+          
+1.3.14   Effectuer tout enregistrement visuel ou sonore, sur quelque support que ce soit, sans le consentement 
+         préalable  et  express  par  l'enseignant  dans  le  cadre  d'une  activité  d'évaluation  ou  d'une  activité 
+         pédagogique; 
+          
+1.3.15   Contrevenir dans le cadre d'une activité d'évaluation ou d'une activité pédagogique aux dispositions de 
+         la Politique contre le harcèlement de l'ÉTS ou commettre les actes interdits à l'article 6 du Règlement sur 
+         la sécurité des personnes, des biens et sur les STI; 
+          
+1.3.16   Utiliser les TIC dans le cadre d'une activité d'évaluation ou d'une activité pédagogique en contravention 
+         avec les consignes établies par les enseignants ou à des fins interdites telles que décrites à l'article 7 du 
+         Règlement sur la sécurité des personnes, des biens et sur les STI.   
+          
+1.4      Solidarité  
+
+Dans  le  cas  d'un  travail  en  équipe  au  sens  de  l'article  1.2.8  du  présent  règlement,  les  étudiants  d'une  même 
+équipe de travail, telle que reconnue par l'enseignant, sont solidaires du matériel produit au nom de l'équipe, 
+jusqu'à preuve à l'effet contraire. Ainsi, si un membre de l'équipe produit et remet un travail au nom de l'équipe 
+et  qu'il  s'avère  que  ce  travail  a  été  plagié,  tous  les  membres  de  l'équipe  sont  susceptibles  de  recevoir  une 
+sanction.  
+
+1.5      Outil de détection 
+
+Dans le cadre de l'application du présent règlement, l'ÉTS, ses mandataires ou ses enseignants, peuvent prendre 
+des mesures raisonnables afin de vérifier l'authenticité d'une activité d'évaluation. L'information fournie par un 
+outil de détection tel un logiciel de détection de similitudes de texte peut être utilisée pour prévenir le plagiat ou 
+comme élément de preuve admissible pour présenter ou corroborer une allégation de plagiat. 
+
+1.6      Responsabilité d'imposer des sanctions 
+
+Il est interdit à quiconque d'imposer une sanction à l'endroit d'un étudiant ou d'un groupe d'étudiants en dehors 
+des mécanismes prévus au présent règlement. 
+
+ 
+ 
+2.       RAPPORTS DE CONSTATATION ET CONVOCATION 
+2.1      Procédure préliminaire 
+     
+2.1.1    Dénonciation de l'infraction  
+
+Tout  enseignant  ou  personne  chargée  de  l'évaluation,  directeur  de  Département,  directeur  du  Service  des 
+enseignements  généraux,  directeur  du  Service  de  l'enseignement  coopératif,  doyen  des  études,  registraire, 
+responsable  du  Bureau  des  services  académiques,  membre  de  jury,  surveillant  d'examen,  chargé  de  travaux 
+pratiques  ou  de  laboratoire,  étudiant  ou  employé  qui  constate  qu'une  infraction  de  nature  académique  est 
+commise ou semble avoir été commise par un étudiant, doit dénoncer une telle situation par l'entremise d'un 
+rapport de constatation et d'un rapport d'événement, le cas échéant.  
+
+2.1.2    Préparation et envoi d'un rapport de constatation accompagné des pièces justificatives pertinentes 
+
+Un rapport de constatation écrit, accompagné des pièces justificatives pertinentes doit être préparé et envoyé 
+dans  les  meilleurs  délais  suivant  la  constatation  de  l'infraction,  selon  le  cas,  au  directeur  de  Département,  au 
+directeur  du  Service  des  enseignements  généraux,  au  directeur  du  Service  de  l'enseignement  coopératif,  au 
+doyen des études ou au Bureau des services académiques. 
+
+2.2      Transmission de la preuve et convocation devant le Comité de discipline  
+          
+2.2.1    Infraction  commise  dans  le  cadre  d'activités  d'évaluation  ou  pédagogiques  chapeautées  par  un 
+         Département ou par le Service des enseignements généraux  
+
+Sauf  pour  les  activités  d'évaluation  énumérées  à  2.2.2  (stages),  2.2.3  (examens  finaux  et  de  reprise)  et  2.2.4 
+(rapport d'activité de synthèse, mémoire ou thèse), lorsque le rapport de constatation et la preuve soumise en 
+lien  avec  une  infraction  de  nature  académique  dans  le  cadre  d'activités  d'évaluation  ou  pédagogiques 
+chapeautées  par  un  Département  ou  par  le  Service  des  enseignements  généraux  révèlent  une  apparence 
+d'infraction de nature académique suivant une analyse sommaire par, selon le cas, le directeur de Département 
+ou le directeur du Service des enseignements généraux, l'un ou l'autre en informe le secrétaire général ou son 
+mandataire  en  lui  acheminant  copie  du  rapport  de  constatation  écrit  accompagné  des  pièces  justificatives 
+pertinentes.  
+
+Le  directeur  de  Département  ou  le  directeur  du  Service  des  enseignements  généraux,  selon  le  cas,  doit 
+également envoyer une copie du rapport de constatation écrit accompagné des pièces justificatives pertinentes 
+à l'étudiant ou aux étudiants concernés. 
+
+Le coordonnateur du Département veille ensuite à convoquer dans les meilleurs délais les membres du Comité 
+de  discipline  départemental,  les  témoins  requis,  le  cas  échéant,  et  le(s)  étudiant(s)  à  une  audition.  L'avis  de 
+convocation  à  l'étudiant  ou  aux  étudiants  concernés  doit  être  rédigé  conformément  à  la  procédure  établie  à 
+l'article 2.3. 
+
+2.2.2    Infraction commise dans le cadre de stages d'enseignement coopératif 
+
+Lorsque  le  rapport  de  constatation  et  la  preuve  soumise  en  lien  avec  une  infraction  relative  à  un  stage 
+d'enseignement  coopératif  révèlent  une  apparence  d'infraction  de  nature  académique  suivant  une  analyse 
+sommaire par le directeur du Service de l'enseignement coopératif, ce dernier en informe le secrétaire général 
+ 
+ou  son  mandataire  en  lui  acheminant  copie  du  rapport  de  constatation  écrit  accompagné  des  pièces 
+justificatives pertinentes.  
+
+Le  directeur  du  Service  de  l'enseignement  coopératif  doit  également  envoyer  une  copie  du  rapport  de 
+constatation écrit accompagné des pièces justificatives pertinentes à l'étudiant ou aux étudiants concernés. 
+
+Le  secrétaire  général  ou  son  mandataire  veille  ensuite  à  convoquer  dans  les  meilleurs  délais  les  membres  du 
+Comité de discipline institutionnel, les témoins requis, le cas échéant, et le(s) étudiant(s) à une audition. L'avis 
+de convocation à l'étudiant ou aux étudiants concernés doit être rédigé conformément à la procédure établie à 
+l'article 2.3. 
+
+2.2.3   Infraction commise dans le cadre d'examens finaux ou de reprise  
+
+Lorsque le rapport de constatation et la preuve soumise en lien avec une infraction constatée lors de la tenue 
+d'examens finaux ou de reprise révèlent une apparence d'infraction de nature académique suivant une analyse 
+sommaire par le responsable du Bureau des services académiques, ce dernier en informe le secrétaire général 
+ou  son  mandataire  en  lui  acheminant  copie  du  rapport  de  constatation  écrit  accompagné  des  pièces 
+justificatives pertinentes.  
+
+Le  responsable  du  Bureau  des  services  académiques  doit  également  envoyer  une  copie  du  rapport  de 
+constatation écrit accompagné des pièces justificatives pertinentes à l'étudiant ou aux étudiants concernés. 
+
+Le  secrétaire  général  ou  son  mandataire  veille  ensuite  à  convoquer  dans  les  meilleurs  délais  les  membres  du 
+Comité de discipline institutionnel, les témoins requis, le cas échéant, et le(s) étudiant(s) à une audition. L'avis 
+de convocation à l'étudiant ou aux étudiants concernés doit être rédigé conformément à la procédure établie à 
+l'article 2.3. 
+
+2.2.4   Infraction commise dans un rapport d'activité de synthèse, un mémoire ou une thèse 
+
+Lorsque  le  rapport  de  constatation  et  la  preuve  soumise  en  lien  avec  une  infraction  constatée  lors  de 
+l'évaluation  d'un  rapport  d'activité  de  synthèse,  d'un  mémoire  ou  d'une  thèse  révèlent  une  apparence 
+d'infraction de nature académique suivant une analyse sommaire par le doyen des études, ce dernier en informe 
+le secrétaire général ou son mandataire en lui acheminant copie du rapport de constatation écrit accompagné 
+des pièces justificatives pertinentes.  
+
+Le doyen des études doit également envoyer une copie du rapport de constatation écrit accompagné des pièces 
+justificatives pertinentes à l'étudiant ou aux étudiants concernés. 
+
+Le  secrétaire  général  ou  son  mandataire  veille  ensuite  à  convoquer  dans  les  meilleurs  délais  les  membres  du 
+Comité de discipline institutionnel, les témoins requis, le cas échéant, et le(s) étudiant(s) à une audition. L'avis 
+de convocation à l'étudiant ou aux étudiants concernés doit être rédigé conformément à la procédure établie à 
+l'article 2.3. 
+
+2.2.5   Autres infractions de nature académique commises  
+
+Pour toute autre infraction constatée de nature académique non spécifiquement énumérée dans la section 2.2, 
+toute  personne  mentionnée  à  l'article  2.1.1  en  informe  le  secrétaire  général  ou  son  mandataire  en  lui 
+acheminant copie du rapport de constatation écrit accompagné des pièces justificatives pertinentes.  
+ 
+Lorsque  le  rapport  de  constatation  et  la  preuve  soumise  révèlent  une  apparence  d'infraction  de  nature 
+académique suivant une analyse sommaire par le secrétaire général ou son mandataire, une copie du rapport de 
+constatation écrit accompagné des pièces justificatives pertinentes sont transmises à l'étudiant ou aux étudiants 
+concernés. 
+
+Le secrétaire général ou son mandataire voit également à convoquer, dans les meilleurs délais, les membres du 
+Comité de discipline institutionnel, les témoins requis, le cas échéant, et le(s) étudiant(s) à une audition. L'avis 
+de convocation à l'étudiant ou aux étudiants concernés doit être rédigé conformément à la procédure établie à 
+l'article 2.3. 
+
+2.3      Avis de convocation à l'étudiant  
+
+Lorsqu'un rapport de constatation relatif à une infraction de nature académique est porté à l'endroit d'un ou de 
+plusieurs  étudiants  et  qu'il  est  décidé  de  saisir  l'un  des  Comités  de  discipline  de  la  situation,  le(s)  étudiant(s) 
+doit(vent)  en  être  informé(s)  dans  les  meilleurs  délais  par  un  avis  de  convocation  à  une  audition  devant  le 
+Comité de discipline qui a compétence pour traiter du dossier conformément aux règles établies dans le présent 
+règlement. 
+
+L'avis doit contenir la date, l'heure et l'endroit de l'audition devant le Comité de discipline, la désignation précise 
+du  Comité  de  discipline  (départemental  ou  institutionnel),  ainsi  que  mentionner  le  droit  de  l'étudiant  d'être 
+entendu par le Comité, s'il le désire, avant qu'une décision ne soit rendue.  
+
+Sauf exception, l'avis doit être envoyé au moins sept (7) jours ouvrables avant la date de l'audition.  
+
+
+3.       COMITÉ DE DISCIPLINE 
+3.1      Principes généraux  
+     
+3.1.1    Compétence concurrente avec le Comité de sécurité de l'ÉTS 
+
+En cas de compétence concurrente avec le Comité de sécurité de l'ÉTS constitué en vertu du Règlement sur la 
+sécurité des personnes, des biens et des STI de l'ÉTS, le secrétaire général veillera à attribuer au Comité pertinent 
+(Comité de discipline départemental, Comité de discipline institutionnel ou Comité de sécurité) la compétence 
+de se saisir du dossier.  
+
+3.1.2    Compétences concurrentes dans le cas d'infractions relatives au harcèlement   
+
+En cas d'infractions de nature académique relatives au harcèlement, vue la possible compétence concurrente du 
+mécanisme de traitement des plaintes prévu à la Politique contre le harcèlement de l'ÉTS,  du Comité de sécurité 
+de l'ÉTS constitué en vertu du Règlement sur la sécurité des personnes, des biens et sur les STI et des Comités de 
+discipline départemental ou institutionnel, le secrétaire général veillera à attribuer au responsable ou au Comité 
+pertinent la compétence de se saisir du dossier.  
+
+3.1.3    Droit d'être entendu 
+
+Tout étudiant a le droit d'être entendu par le Comité de discipline devant lequel il est convoqué. 
+ 
+En cas d'impossibilité de l'étudiant de se présenter devant le Comité de discipline pour l'audition, l'étudiant peut 
+soumettre ses observations écrites qui, le cas échéant, seront considérées par les membres de ce Comité avant 
+qu'une décision soit rendue.   
+
+3.1.4    Droit d'être accompagné  
+
+Lors  des  auditions  devant  le  Comité  de  discipline  institutionnel,  tout  étudiant  peut  être  accompagné  (et  non 
+représenté) d'une personne membre de la communauté de l'ÉTS, sans droit de parole, et qui est non partie à 
+l'instance. 
+
+3.1.5    Complément de preuve  
+
+Tout  complément  de  preuve  peut  être  envoyé  à  l'étudiant  ou  reçu  de  l'étudiant  dans  des  délais  raisonnables 
+avant l'audition devant le Comité de discipline pertinent. 
+
+Lorsque  le  Comité  de  discipline  départemental  renvoie  le  dossier  au  Comité  de  discipline  institutionnel  en 
+application  de  l'article  3.2.7  c)  et  que  des  faits  nouveaux  sont  découverts  entre  les  deux  auditions,  un 
+complément  de  preuve  à  cet  effet  peut  être  envoyé  à  l'étudiant  ou  reçu  de  l'étudiant  dans  des  délais 
+raisonnables avant l'audition devant le Comité de discipline institutionnel. 
+
+3.1.6    Convocation de témoins ordinaires et experts 
+
+Le  secrétaire  général  ou  son  mandataire  peut  convoquer  toute  personne  devant  le  Comité  de  discipline 
+départemental  ou  institutionnel  dont  l'expertise  ou  le  témoignage  peut  éclairer  le  Comité.  Le  cas  échéant,  le 
+Secrétariat  général  ou  son  mandataire  en  avise  l'étudiant  au  moins  sept  (7)  jours  ouvrables  avant  la  date  de 
+l'audition.   
+
+3.1.7    Huis clos 
+
+Sous  réserves  des  articles  3.1.4  et  3.1.6,  les  auditions  et  les  délibérations  relatives  aux  infractions  de  nature 
+académique se font à huis clos. 
+
+3.1.8    Absence de l'étudiant devant le Comité de discipline 
+
+L'étudiant qui, bien que dûment convoqué devant le Comité de discipline pertinent, ne se présente pas ou ne 
+soumet pas d'observations écrites au Comité de discipline pertinent en cas d'impossibilité de se présenter est 
+réputé avoir admis les faits qui lui sont reprochés dans le rapport de constatation.   
+
+3.1.9    Attente de décision 
+
+L'étudiant contre lequel une accusation d'infraction de nature académique est pendante a le droit de poursuivre 
+ses  études  tant  et  aussi  longtemps  que  la  décision  finale  le  concernant  n'a  pas  été  prise  par  le  Comité  de 
+discipline pertinent, ou le Conseil d'administration le cas échéant. 
+
+3.1.10 Suspension de la transmission des résultats avant la décision rendue 
+
+Aucune  note  n'est  transmise  au  Bureau  du  registraire  pour  l'activité  d'évaluation  ou  l'activité  pédagogique 
+concernée avant que le Comité de discipline pertinent, ou le Conseil d'administration le cas échéant, n'ait rendu 
+une décision finale. 
+ 
+3.2      Comité de discipline départemental 
+     
+3.2.1    Composition du Comité de discipline départemental  
+
+Le Comité de discipline départemental est composé : 
+
+         du directeur de Département, qui le préside; 
+         d'un professeur nommé par la Direction des affaires académiques ou son substitut; 
+         du  coordonnateur  ­  affaires  départementales  du  Département,  qui  en  est  le  secrétaire,  sans  droit  de 
+         vote.  
+
+Le Comité de discipline départemental pour le Service des enseignements généraux est composé : 
+
+         de son directeur, qui le préside;  
+         d'un maître d'enseignement nommé par la Direction des affaires académiques; 
+         du  coordonnateur  ­  affaires  départementales  du  Service  des  enseignements  généraux,  qui  en  est  le 
+         secrétaire, sans droit de vote.  
+
+Le mandat des professeurs ou maîtres d'enseignement nommés est d'une durée de deux (2) ans.  
+
+3.2.2    Membres du Comité de discipline départemental : précisions et restrictions 
+
+Si le Comité  de discipline  doit se réunir plusieurs fois pour l'étude d'un même cas, seuls les membres qui ont 
+assisté à la première séance peuvent siéger aux séances subséquentes.  
+
+Advenant  l'implication  d'un  membre  du  Comité  de  discipline  dans  un  cas  soumis  à  l'examen  du  Comité,  il  ne 
+peut siéger à la ou aux séances du Comité traitant de ce cas. 
+
+Les membres du Comité de discipline demeurent en fonction tant et aussi longtemps qu'une sanction pour un 
+cas  donné  n'est  pas  prononcée,  et  ce,  même  s'ils  perdent  qualité  et  tant  qu'ils  ne  sont  pas  remplacés  ou 
+renouvelés dans leur mandat.  
+
+3.2.3    Quorum et vote 
+
+Le quorum pour une audition du Comité de discipline départemental est de deux (2) membres votants.  
+
+Les décisions se prennent à la majorité et les abstentions ne sont pas permises. En cas d'égalité des voix, le vote 
+du président est prépondérant. 
+
+3.2.4    Champ de compétence 
+
+Sauf  dans  des  cas  de  récidive  tel  que  décrit  à  l'article  3.2.5,  le  Comité  de  discipline  départemental  siège 
+relativement aux infractions décrites à l'article 2.2.1 (infraction commise dans le cadre d'activités d'évaluation 
+ou pédagogiques chapeautées par un Département ou par le Service des enseignements généraux). 
+
+Le Comité de discipline départemental demeure saisi d'un dossier même si la sanction envisagée est l'échec à 
+une activité d'évaluation susceptible d'engendrer un échec à l'activité pédagogique (cours ou stage).  
+
+Le Comité de discipline départemental pourra cependant perdre compétence si : 
+ 
+    a) à la face même du dossier, la complexité des faits ou la sanction envisagée sont telles que le Comité de 
+       discipline institutionnel devrait en être saisi;  
+        
+    b) un  conflit  d'intérêt  ou  une  apparence  de  conflit  d'intérêt  est  constatée  entre  le  directeur  de 
+       Département ou du Service des enseignements généraux et l'étudiant.  
+
+Dans  ces  deux  cas,  dès  le  stade  de  l'analyse  sommaire  du  rapport  de  constatation  et  des  pièces  justificatives 
+pertinentes  par  le  directeur  de  Département  ou  le  directeur  du  Service  des  enseignements  généraux 
+conformément  à  l'article  2.2.1,  l'un  ou  l'autre,  selon  le  cas,  devra  faire  parvenir  l'ensemble  du  dossier  au 
+Secrétariat  général  pour  renvoi  au  Comité  de  discipline  institutionnel,  avec  une  décision  motivée  justifiant  le 
+transfert. 
+
+3.2.5   Vérification préalable des récidives ­ renvoi possible au Comité de discipline institutionnel 
+
+Avant  de  traiter  tout  rapport  de  constatation,  le  directeur  de  Département  ou  le  directeur  du  Service  des 
+enseignements  généraux,  selon  le  cas,  doit  s'assurer  auprès  du  Secrétariat  général  ou  son  mandataire  que 
+l'étudiant concerné par le rapport de constatation n'a pas commis de récidive.  
+
+À cette fin, le directeur de Département ou le directeur du Service des enseignements généraux, selon le cas, 
+après  une  analyse  sommaire  de  la  preuve  recueillie  et  après  s'être  assuré  que  le  dossier  reçu  comporte  une 
+apparence  d'infraction  de  nature  académique,  transmet  le  dossier  au  secrétaire  général  ou  à  son  mandataire 
+pour vérification des récidives dans la Banque de décisions disciplinaires de l'ÉTS.  
+
+En  cas  de  récidive,  le  secrétaire  général  ou  son  mandataire  achemine  dans  les  meilleurs  délais  le  dossier  aux 
+membres du Comité de discipline institutionnel et voit à les convoquer, de même que tout autre témoin requis, 
+le cas échéant, ainsi que le(s) étudiant(s) concerné(s) à l'audition conformément à la procédure établie dans le 
+présent règlement. 
+
+3.2.6   Audition 
+
+À la date, heure et endroit fixés dans l'avis de convocation, le Comité de discipline départemental se réunit en 
+présence  de  l'étudiant  afin  de  discuter  du  contenu  du  rapport  de  constatation  et  rendre  une  décision 
+conformément à l'article 3.2.7 et à l'article 4, le cas échéant. 
+
+En cas d'impossibilité de l'étudiant de se présenter, le Comité de discipline départemental prend connaissance 
+des  observations  écrites  de  l'étudiant,  le  cas  échéant,  avant  de  rendre  une  décision.  Le  Comité  de  discipline 
+départemental peut toutefois prendre une décision sur culpabilité et sur sanction en l'absence de l'étudiant qui, 
+bien que dûment convoqué devant le Comité de discipline, ne se présente pas ou ne soumet pas d'observations 
+écrites. 
+
+3.2.7   Décision du Comité de discipline départemental  
+
+La décision du Comité de discipline départemental peut être : 
+
+    a) la non culpabilité ou l'abandon de la procédure; 
+        
+    b) la  culpabilité  et  l'application  d'une  ou  plusieurs  des  sanctions  prévues  aux  paragraphes  a),  b)  et  c)  de 
+       l'article 4; 
+        
+ 
+    c) le  recours  au  Comité  de  discipline  institutionnel  lorsque  les  membres  du  Comité  de  discipline 
+       départemental jugent que la gravité de l'infraction justifie une sanction plus sévère que celles prévues 
+       aux paragraphes a), b) et c) de l'article 4.  
+
+La décision du Comité de discipline départemental doit être suffisamment motivée. 
+
+Les  décisions  du  Comité  de  discipline  départemental  a)  (non  culpabilité  ou  abandon  de  la  procédure)  et  b) 
+(application d'une ou plusieurs des sanctions prévues aux paragraphes a), b) et c) de l'article 4) sont finales et 
+sans appel. 
+
+3.2.8    Choix de la sanction 
+
+Dans  sa  prise  de  décision  relative  à  la  sanction,  le  Comité  de  discipline  départemental  doit  notamment  tenir 
+compte de la nature de l'infraction. 
+
+3.2.9    Transmission de la décision 
+
+Suivant  l'audition,  le  Comité  de  discipline  départemental  doit  transmettre  sa  décision  écrite  au  secrétaire 
+général ou à son mandataire. 
+
+Si la décision du Comité de discipline départemental est celle prévue à 3.2.7 a) ou b), le secrétaire général ou son 
+mandataire veillera à la transmettre dans les meilleurs délais à l'étudiant concerné, au Bureau du registraire, à la 
+personne qui a constaté l'infraction tel que prévu à 2.1.1 et aux membres du Comité de discipline institutionnel.  
+
+Si  la  décision  du  Comité  de  discipline  départemental  est  celle  prévue  à  3.2.7  c),  le  secrétaire  général  ou  son 
+mandataire veillera à convoquer le Comité de discipline institutionnel selon les dispositions de l'article 3.3. Une 
+fois  la  décision  finale  rendue  par  le  Comité  de  discipline  institutionnel  ou,  le  cas  échéant,  par  le  Conseil 
+d'administration,  le  secrétaire  général  ou  son  mandataire  transmettra  la  décision  aux  personnes  appropriées 
+conformément à l'article 3.3.9. 
+
+3.2.10 Résultat inscrit sur le relevé de notes et mise à jour du dossier étudiant 
+
+Dès l'institution d'une procédure disciplinaire universitaire au sens du présent règlement, l'étudiant à qui il est 
+reproché d'avoir commis une infraction au présent règlement dans le cadre d'un cours ne peut abandonner ce 
+cours  tant  qu'une  décision  du  Comité  de  discipline  départemental  n'a  pas  été  rendue.  L'étudiant  pourra  être 
+autorisé à abandonner le cours, selon les règles applicables à l'ÉTS, à l'issue de la procédure disciplinaire s'il n'est 
+pas reconnu coupable, même si les délais prévus pour le faire sont écoulés. 
+
+Suivant la transmission de la décision du Comité de discipline départemental, le directeur de Département ou le 
+directeur  du  Service  des  enseignements  généraux,  selon  le  cas,  coordonnera  la  modification  de  la  note  de 
+l'étudiant à l'activité d'évaluation et à l'activité pédagogique auprès de l'enseignant et du Bureau du registraire.  
+
+3.2.11 Aucune révision de résultats  
+
+Aucune  décision  rendue  par  le  Comité  de  discipline  départemental  ne  pourra  être  révisée  par  le  Comité  de 
+révision des résultats institué en vertu du Règlement des études de premier cycle et du Règlement des études de 
+cycles supérieurs.   
+
+                                     
+ 
+3.3      Comité de discipline institutionnel 
+     
+3.3.1    Composition  
+
+Le Comité de discipline institutionnel est composé : 
+
+         du  directeur  de  la  Direction  des  affaires  académiques  ou  du  directeur  de  la  Direction  des  affaires 
+         professorales, de la recherche et des partenariats, qui le préside;  
+         du doyen des études; 
+         du secrétaire général ou de son mandataire, qui en est le secrétaire, sans droit de vote; 
+         de deux (2) professeurs ou maîtres d'enseignement nommés par la Commission des études à cette fin; 
+         de deux  (2) étudiants réguliers nommés par le Conseil d'administration de l'AÉÉTS à cette fin ou leurs 
+         substituts membres du Comité exécutif de l'AÉÉTS. 
+
+Le mandat des professeurs ou maîtres d'enseignement est d'une durée de deux (2) ans.  
+
+Le mandat des étudiants est d'une durée d'un (1) an. 
+
+3.3.2    Membres du Comité de discipline institutionnel : précisions et restrictions 
+
+Si le Comité  de discipline  doit se réunir plusieurs fois pour l'étude d'un même cas, seuls les membres qui ont 
+assisté à la première séance peuvent siéger aux séances subséquentes.  
+
+Advenant  l'implication  d'un  membre  du  Comité  de  discipline  dans  un  cas  soumis  à  l'examen  du  Comité,  il  ne 
+peut siéger à la ou aux séances du Comité traitant de ce cas. 
+
+Les membres du Comité de discipline demeurent en fonction tant et aussi longtemps qu'une sanction pour un 
+cas  donné  n'est  pas  prononcée,  et  ce,  même  s'ils  perdent  qualité  et  tant  qu'ils  ne  sont  pas  remplacés  ou 
+renouvelés dans leur mandat.  
+
+3.3.3    Quorum et vote 
+
+Le  quorum  pour  une  réunion  ou  audition  du  Comité  de  discipline  institutionnel  est  de  quatre  (4)  membres 
+votants, dont le président et au moins un professeur ou maître d'enseignement et au moins un étudiant.  
+
+Les décisions se prennent à la majorité et les abstentions ne sont pas permises. En cas d'égalité des voix, le vote 
+du président est prépondérant. 
+
+3.3.4    Champ de compétence 
+
+Le  Comité  de  discipline  institutionnel  siège  dans  les  cas  de  rapport  de  constatation  prévus  aux  articles  2.2.2 
+(infraction commise dans le cadre de stages d'enseignement coopératif), 2.2.3 (infraction commise dans le cadre 
+d'examens finaux ou de reprise), 2.2.4 (infraction constatée dans un rapport d'activité de synthèse, un mémoire 
+ou une thèse), 2.2.5 (autres infractions de nature académique commises), ainsi que dans les cas de récidive telle 
+que définie à l'article 1.2.7 des présentes. 
+
+                                     
+ 
+3.3.5    Audition 
+
+À  la  date,  heure  et  endroit  fixés  dans  l'avis  de  convocation,  le  Comité  de  discipline  institutionnel  se  réunit  en 
+présence  de  l'étudiant  afin  de  discuter  du  contenu  du  rapport  de  constatation  et  rendre  une  décision 
+conformément à la section 4. 
+
+En cas d'impossibilité de l'étudiant de se présenter, le Comité de discipline départemental prend connaissance 
+des  observations  écrites  de  l'étudiant,  le  cas  échéant,  avant  de  rendre  une  décision.  Le  Comité  de  discipline 
+institutionnel peut toutefois rendre une décision sur culpabilité et sur sanction en l'absence  de l'étudiant qui, 
+bien que dûment convoqué devant le Comité de discipline, ne se présente pas ou ne soumet pas d'observations 
+écrites. 
+
+3.3.6    Décision du Comité de discipline institutionnel 
+
+La décision du Comité de discipline institutionnel peut être : 
+
+    a) la non culpabilité ou l'abandon de la procédure; ou 
+    b) la culpabilité et l'application d'une ou plusieurs sanctions énoncées à l'article 4. 
+
+Dans tous les cas, la décision du Comité de discipline institutionnel doit être suffisamment motivée. 
+
+Si  le  Comité  de  discipline  institutionnel  estime,  après  analyse  ou  suivant  l'audition,  qu'il  n'y  a  pas  lieu  de 
+poursuivre ou de recommander une sanction, le secrétaire général ou son mandataire transmettra la décision 
+aux personnes appropriées conformément à l'article 3.3.9 et le dossier est clos. 
+
+Les  décisions  rendues  par  le  Comité  de  discipline  institutionnel  en  application  du  paragraphe  a)  du  présent 
+article  sont  finales  et  sans  appel.  Le  sont  également  les  décisions  rendues  par  le  Comité  de  discipline 
+institutionnel en application du paragraphe b) du présent article, mais seulement pour les sanctions énumérées 
+à l'article 4, paragraphes a) à e) et i).   
+
+Dans  le  cas  des  sanctions  énumérées  à  l'article  4,  paragraphes  f)  à  h),  le  Comité  de  discipline  institutionnel 
+formulera sous forme de recommandation au Conseil d'administration de l'ÉTS, pour approbation, l'imposition 
+de la sanction appropriée. Le Conseil d'administration procédera à une vérification du caractère raisonnable de 
+la  sanction  sur  analyse  sommaire  du  dossier  avant  d'approuver  la  recommandation  du  Comité  de  discipline 
+institutionnel. La décision rendue par le Conseil d'administration sera alors finale et sans appel. 
+
+3.3.7    Choix de la sanction 
+
+Dans le cadre du processus décisionnel ou dans le cadre de l'élaboration d'une recommandation de sanction au 
+Conseil  d'administration  de  l'ÉTS,  le  Comité  de  discipline  institutionnel  et  le  Conseil  d'administration,  le  cas 
+échéant, devront tenir compte de la nature de l'infraction et, s'il y a lieu, des récidives. 
+
+3.3.8    Aucune révision de résultats ou révision des exclusions possible 
+
+Aucune  décision  rendue  par  le  Comité  de  discipline  institutionnel,  ou  par  le  Conseil  d'administration  le  cas 
+échéant, ne pourra être révisée par le Comité de révision des résultats ou le Comité de révision des exclusions 
+institué en vertu du Règlement des études de premier cycle et du Règlement des études de cycles supérieurs.  
+
+                                      
+ 
+3.3.9      Transmission de la décision 
+
+Lorsque  la  décision  rendue  par  le  Comité  de  discipline  institutionnel  ou  par  le  Conseil  d'administration,  le  cas 
+échéant, est finale et sans appel, le secrétaire général ou son mandataire la transmet par écrit dans les meilleurs 
+délais à l'étudiant concerné, au Bureau du registraire, à la personne qui a constaté l'infraction tel que prévu à 
+l'article  2.1.1,  au  directeur  de  Département  concerné  en  application  de  l'article  3.2.7  c)  le  cas  échéant,  ainsi 
+qu'aux membres du Comité de discipline institutionnel. 
+
+3.3.10 Résultat inscrit sur le relevé de notes et mise à jour du dossier étudiant 
+
+Dès l'institution d'une procédure disciplinaire universitaire au sens du présent règlement, l'étudiant à qui il est 
+reproché d'avoir commis une infraction au présent règlement dans le cadre d'un cours ne peut abandonner ce 
+cours  tant  qu'une  décision  du  Comité  de  discipline  institutionnel  ou  du  Conseil  d'administration  n'a  pas  été 
+rendue. L'étudiant pourra être autorisé à abandonner le cours, selon les règles applicables à l'ÉTS, à l'issue de la 
+procédure disciplinaire s'il n'est pas reconnu coupable, même si les délais prévus pour le faire sont écoulés. 
+
+Suivant  la  transmission  de  la  décision  du  Comité  de  discipline  institutionnel  ou  du  Conseil  d'administration,  le 
+cas  échéant,  le  directeur  de  Département  ou  le  directeur  du  Service  des  enseignements  généraux  impliqué, 
+selon  le  cas,  coordonnera  la  modification  de  la  note  de  l'étudiant  à  l'activité  d'évaluation  et  à  l'activité 
+pédagogique auprès de l'enseignant et du Bureau du registraire. 
+
+De même, la décision rendue par le Comité de discipline institutionnel et par le Conseil d'administration, le cas 
+échéant, sera versée au dossier de l'étudiant par le Bureau du registraire.  
+
+
+4.         SANCTIONS 
+Toute infraction académique (incluant la tentative, l'incitation, la participation ou le complot tel que mentionné 
+à l'article 1.3, al.1) peut entraîner une ou plusieurs des sanctions suivantes : 
+
+      a)      La réprimande écrite; 
+      b)      L'échec de l'activité d'évaluation (l'attribution de la note « 0 »);  
+      c)      Suivre ou reprendre l'atelier ATE800  Intégrité intellectuelle; 
+      d)      L'échec à l'activité pédagogique (cours ou stage); 
+      e)      Renvoi pour corrections majeures dans le cas d'une infraction de nature académique constatée lors 
+              de  l'évaluation  d'un  mémoire  ou  d'une  thèse  par  un  jury,  étant  entendu  que  l'étudiant  ne  peut 
+              bénéficier que d'une seule demande de corrections majeures conformément aux articles 12.17.8 et 
+              13.18.7 du Règlement des études de cycles supérieurs de l'ÉTS; 
+      f)      La  suspension  du  programme  ou  du  statut  d'étudiant  libre,  d'étudiant  visiteur  ou  d'auditeur, 
+              pendant un ou plusieurs trimestres, pour une durée maximale ne pouvant excéder vingtquatre (24) 
+              mois; 
+      g)      L'exclusion définitive de l'ÉTS;  
+      h)      Le retrait du grade, du diplôme, du certificat ou de l'attestation d'études; 
+      i)      Toute autre sanction jugée appropriée et proportionnelle à la gravité de la faute commise. 
+
+                                     
+ 
+5.      DISPOSITIONS DIVERSES ET TRANSITOIRES 
+5.1     Confidentialité et conservation 
+
+Les  dossiers  et  pièces  soumis  en  vertu  des  présentes  au  Comité  de  discipline  départemental,  au  Comité  de 
+discipline institutionnel et au Conseil d'administration, le cas échéant, sont confidentiels et l'accès en est limité 
+aux membres de ces comités.  
+
+Les  réunions,  délibérations  et  décisions  du  Comité  de  discipline  départemental  et  du  Comité  de  discipline 
+institutionnel sont de même confidentielles. 
+
+À  la  suite  des  auditions  prévues  en  vertu  du  présent  règlement,  le  secrétariat  général  demeure  le  seul 
+dépositaire des dossiers; il en assure la confidentialité et veille à leur conservation et destruction conformément 
+au calendrier de conservation applicable. 
+
+5.2     Dispositions transitoires et finales  
+
+Le présent règlement remplace le Chapitre 10 : Plagiat et Fraude du Règlement des études de premier cycle de 
+l'ÉTS et le Chapitre 8 : Plagiat et Fraude du Règlement des études de cycles supérieurs de l'ÉTS, tels que modifiés 
+par la résolution CA3313487. 
+
+Il s'applique aux infractions commises à compter du 27 avril 2016. 
+
+ 
