@@ -10,6 +10,6 @@ Dépôt des règlements de l'ÉTS
 - [Règlement des études de cycles supérieurs de l'ÉTS](https://github.com/aeets/documents-ets/blob/master/reglements/regl_etudes_sup.txt)
 
 ## Source
-Les réglements de l'ÉTS sont disposnible en format PDF en ligne à l'adresse https://www.etsmtl.ca/A-propos/Direction/Politiques-reglements
+Les règlements de l'ÉTS sont disponibles en format PDF en ligne à l'adresse https://www.etsmtl.ca/A-propos/Direction/Politiques-reglements
 
-Les versions en ligne des réglements de l'ÉTS **_ne peuvent remplacer les documents originaux, dont la version officielle est conservée dans les registres des instances décisionnelles de l'ÉTS_**. Ceci s'applique donc aussi sur les versions contenus dans ce dépôt.
+Les versions en ligne des règlements de l'ÉTS **_ne peuvent remplacer les documents originaux, dont la version officielle est conservée dans les registres des instances décisionnelles de l'ÉTS_**. Ceci s'applique donc aussi sur les versions contenus dans ce dépôt.
